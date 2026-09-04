@@ -12519,14 +12519,11 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
-#EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",BIZ Music
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/db68555a660c49f49e690a1a5c647b5d/a3bcebe1-0e6f-44e1-934d-cfee5cba5c9b_thumb_001_HD.jpg",واکنش کاربران رسانه‌های اجتماعی به گریه یک ایرانی از ناتوانی در خرید کفش
+https://daq1pvcuhj77l.cloudfront.net/1/db68555a660c49f49e690a1a5c647b5d/hls/a3bcebe1-0e6f-44e1-934d-cfee5cba5c9b.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/77f65822b843489b9ae074da4d43925e/5fa29905-e89b-49a7-beb5-01ad8f96ce71_thumb_001_HD.jpg",کیوان خسروانی، معمار و طراح سرشناس ایرانی، در ۸۸سالگی درگذشت
+https://daq1pvcuhj77l.cloudfront.net/1/77f65822b843489b9ae074da4d43925e/hls/5fa29905-e89b-49a7-beb5-01ad8f96ce71.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9415e3acb2394a14be031fe05d08c3f4/06da2ac2-366b-433d-83a6-9623b04a5eed_thumb_001_HD.jpg",سنتکام در حال بررسی منشأ انفجار مرگبار عروسی در سیریک
 https://daq1pvcuhj77l.cloudfront.net/1/9415e3acb2394a14be031fe05d08c3f4/hls/06da2ac2-366b-433d-83a6-9623b04a5eed.m3u8
