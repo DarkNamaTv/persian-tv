@@ -12537,9 +12537,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/44505eb73fef4948a233aaf1fcab077b/5e5db8ef-b697-4459-976f-002df1d492da_thumb_001_HD.jpg",شاهزاده رضا پهلوی: برای سرنگونی رژیم و مدیریت دوره گذار، برنامه و سازمان‌دهی داریم
-https://daq1pvcuhj77l.cloudfront.net/1/44505eb73fef4948a233aaf1fcab077b/hls/5e5db8ef-b697-4459-976f-002df1d492da.m3u8
-
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/30ca5d3f72b84f63a922bac6623a3f3c/04544489-75f8-4f72-9736-c1a52cbdd7af_thumb_001_HD.jpg",شاهزاده رضا پهلوی: مردم داخل ایران بار اصلی مبارزه برای آزادی را بر دوش دارند
 https://daq1pvcuhj77l.cloudfront.net/1/30ca5d3f72b84f63a922bac6623a3f3c/hls/04544489-75f8-4f72-9736-c1a52cbdd7af.m3u8
 
@@ -14393,15 +14390,6 @@ https://hls.oxir.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://live.yourtime.tv/hls/stream.m3u8
-
-#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/CeMf68L.png" tvg-id="OmideIranTV.us@SD",Omide Iran
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://oitnhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/oHmh5Jb.png" tvg-id="Shabakeh7.us@SD",Shabakeh 7
 #EXTVLCOPT:network-caching=2000
