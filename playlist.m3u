@@ -12285,6 +12285,15 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png",Sky News
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20250107T022831SQUARE.png",GB News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12311,6 +12320,33 @@ https://jmp2.uk/stvp-GBBD8000016N
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://jmp2.uk/stvp-GBBD3600001NO
+
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG_1756948295813.png",Bloomberg TV+
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
+
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://www.dw.com/images/icons/favicon-540x540.png",DW English
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://i.mjh.nz/.r/dw-news.m3u8
+
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png",Euronews
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
 
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20250107T030646SQUARE.png",France 24
 #EXTVLCOPT:network-caching=2000
@@ -12500,6 +12536,15 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/070432c67e0f4862aa841b1b39a3967f/7bdc69f4-b045-42e5-aede-ba66eb7ef8cb_thumb_001_HD.jpg",لیلی از کرج: بعضی مسافرها بدنمان را لمس می‌کنند؛ پیشنهاد صیغه هم می‌دهند
+https://daq1pvcuhj77l.cloudfront.net/1/070432c67e0f4862aa841b1b39a3967f/hls/7bdc69f4-b045-42e5-aede-ba66eb7ef8cb.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c44e460fea504d9a91cf4d78e76af4a9/ecbdeeac-ccd7-4ea1-9a0d-6c76c453c359_thumb_001_HD.jpg",چطور با بستن سیم‌کارت زندگی مردم را ساقط می‌کنند؟
+https://daq1pvcuhj77l.cloudfront.net/1/c44e460fea504d9a91cf4d78e76af4a9/hls/ecbdeeac-ccd7-4ea1-9a0d-6c76c453c359.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/869311c485a445dab8bb10305a4eb94c/4da87b75-ec1a-43fb-ab51-f1ea0807a34f_thumb_001_HD.jpg",خلاصه‌ای از شیوهٔ حکمرانی جمهوری اسلامی؛ گمرک برای ۱۲۸ نوع مشروب الکلی قیمت تعیین کرد
+https://daq1pvcuhj77l.cloudfront.net/1/869311c485a445dab8bb10305a4eb94c/hls/4da87b75-ec1a-43fb-ab51-f1ea0807a34f.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3887ba482c0648868ca5dbba022dd9fe/659aee03-05e3-4165-abb1-6723bc05d29a_thumb_001_HD.jpg",اختلاف واشینگتن و کی‌یف بر سر حمله به زیرساخت‌های انرژی روسیه
 https://daq1pvcuhj77l.cloudfront.net/1/3887ba482c0648868ca5dbba022dd9fe/hls/659aee03-05e3-4165-abb1-6723bc05d29a.m3u8
