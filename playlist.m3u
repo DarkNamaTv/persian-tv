@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12546,6 +12537,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/876c1518a9304faa8bd58689ac4316ff/ee0dfc62-da3b-4e0d-a3ee-023d5a69defb_thumb_001_HD.jpg",علیرضا نامور حقیقی: افزایش فشارها شانس توافق تهران و واشینگتن را بیشتر کرده است
+https://daq1pvcuhj77l.cloudfront.net/1/876c1518a9304faa8bd58689ac4316ff/hls/ee0dfc62-da3b-4e0d-a3ee-023d5a69defb.m3u8
+
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/36b984ca208546b18b3edefa6d02e499/c69dbe5e-9dd1-4731-9781-043e7cf66409_thumb_001_HD.jpg",ترامپ: انتظار دارم این هفته گفت‌وگوهای بیشتری با ایران داشته باشیم
 https://daq1pvcuhj77l.cloudfront.net/1/36b984ca208546b18b3edefa6d02e499/hls/c69dbe5e-9dd1-4731-9781-043e7cf66409.m3u8
 
@@ -12671,6 +12665,45 @@ https://daq1pvcuhj77l.cloudfront.net/1/5ed80e4d0555465990fb2bb51d4853c0/hls/4f3f
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e42d205f84774b5cb68b3d127a26d43c/6bdc195e-2af0-4df4-9a29-1e5ad1325284_thumb_001_HD.jpg",سرخط خبرهای یک‌شنبه ۵ مهر
 https://daq1pvcuhj77l.cloudfront.net/1/e42d205f84774b5cb68b3d127a26d43c/hls/6bdc195e-2af0-4df4-9a29-1e5ad1325284.m3u8
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/2g5pe724320owz9g/9elqcq45cvtws542.jpg",Houston weather: Sept. 27 overnight forecast
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48652606967_48652607142/48652607142/hf-uuid-3ac515db-00b4-4724-87fc-af2b11f9ae47/48652607142_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/7eycbmwy529ad6do/hosa2uq3jvdmk7i7.jpg",Houston vigil honors lives lost to violence
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48652320595_48652320765/48652320765/hf-uuid-f973537e-748c-4011-be17-7cba47dad603/48652320765_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/7nd0dou9l3qfxxgf/mgv6yopw1acarphy.jpg",Houston weather: Sept 27 evening forecast
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48649677499_48649677612/48649677612/hf-uuid-ffc768ed-b9c0-4818-b5bb-1eb1dddb25a7/48649677612_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/zb6k4t5n827n8p42/8nzu5akcxqf34bv6.jpg",Questions remain following Austin ICE-involved shooting | What's Your Point?
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48649385872_48649385967/48649385967/hf-uuid-d5292e52-4343-451a-bfcb-def3c154a29f/48649385967_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/0yqmyycyav0t6vmu/etmvkqhowagdbvmh.jpg",Voter hurdles ahead of midterm elections | What's Your Point?
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48649204932_48649205022/48649205022/hf-uuid-e9ea64d0-ddcb-4ab6-be4d-cd562de9a4ba/48649205022_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/rgt6pv0amuznrr6v/b66etrb8xoteyryo.jpg", Latest in Texas race for US Senate | What's Your Point?
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48648957424_48648957535/48648957535/hf-uuid-1961c250-dea4-48bb-aa6e-d8dacd521ba8/48648957535_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/tljp3z1wvfggopci/tm1ekrt2k1u5pqqw.jpg",Poll shows slim gap in Texas governor race | What's Your Point?
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48648421475_48648421577/48648421577/hf-uuid-fdb2d67e-324b-4b11-ac50-606295e318eb/48648421577_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/8lh1ehouboxt3lc6/95dcgp2z32p4prj9.jpg",Potential fallout for Harris County tax hike | What's Your Point?
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48648109245_48648109345/48648109345/hf-uuid-54ce7077-b1a5-40b3-91a2-740f1c30a5b8/48648109345_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/u1tfx3nitlp2qez5/7wxaljh9hpfglks6.jpg",Harris County tax fallout, Austin ICE shooting, Texas voter registration backlog, and more | What's 
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48640594393_48647870231/48647870231/hf-uuid-489a2b57-fac8-4ece-b64a-fa6a6356e0a0/48647870231_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/bvb78jnckzbrjo7i/h7n8xy7lehr9vm7j.jpg",What's Your Point? Overtime | Sept 27, 2026
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48647892986_48647893060/48647893060/hf-uuid-756b2663-9f7a-42ed-8c5a-e69cb9f3f1b8/48647893060_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ec8nh9zibapkl7zs/fr7umw5adic6chlz.jpg",Parent speaks amid police investigation on deadly shooting near Westbury HS
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48646466135_48646466236/48646466236/hf-uuid-65d98f84-50ef-4a2b-83e2-8863c8131b42/48646466236_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/6csj13mhky2kodd8/u5ts35t61c07qk72.jpg",Houston Injury Report: September 27, 2026
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48643123919_48643124028/48643124028/hf-uuid-f5a7a8f6-e6ff-450a-bdb3-af06e966c868/48643124028_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/4i4vwtve63brk8pd/s1kzqfymt9oyd3sk.jpg",Houston weather: Sept. 27 morning forecast
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48640737309_48640737431/48640737431/hf-uuid-1f2aeba6-66e5-4a7b-b233-428dd1f8f6b9/48640737431_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/2i4gj9os8refxsvm/t18wyehub724eu02.jpg",Houston weather: Sept. 26 overnight forecast
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48632333476_48632333600/48632333600/hf-uuid-fb2dbe53-2f5b-4f62-af1c-3ef40561763b/48632333600_lowres.mp4
@@ -13395,11 +13428,11 @@ https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_4834415
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/al9aoy8llzknppq0/fygb78rdav1nkwuj.jpg",Surveillance Cameras: Community Debate in Montgomery County
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48343442219_48343442380/48343442380/hf-uuid-2cf78446-b1ba-4b99-bd4f-68d647cfa7de/48343442380_lowres.mp4
 
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/gmezhcj3oakbu0ro/1digsq4amgcmyhtl.jpg",The Backstage Experience w/ Ryan Reynolds, Ed Sheeran, Andrew Garfield &amp; Gal Gadot
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48323412073_48382555603/48382555603/hf-uuid-a6d38ee3-79e2-4c88-b47f-383296608245/48382555603_lowres.mp4
-
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/aw9ud8nbinmy93q8/qo90sb5yh25dy2id.jpg",The Backstage Experience w/ Ryan Reynolds, Ed Sheran, Andrew Garfield &amp; Gal Gadot
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48323412073_48382345428/48382345428/hf-uuid-f3bfc290-a233-4c5d-b59d-525571274d9b/48382345428_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/gmezhcj3oakbu0ro/1digsq4amgcmyhtl.jpg",The Backstage Experience w/ Ryan Reynolds, Ed Sheeran, Andrew Garfield &amp; Gal Gadot
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48323412073_48382555603/48382555603/hf-uuid-a6d38ee3-79e2-4c88-b47f-383296608245/48382555603_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/drnx4mr0ixgpi279/8ne23oozmjsvlbld.jpg",THE NOW with CRIS: Sweet, Savory &amp; Scented
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48324570748_48324570970/48324570970/hf-uuid-17c06e3b-4455-4af4-87db-431d5db9e4e5/48324570970_lowres.mp4
@@ -13532,45 +13565,6 @@ https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_4829895
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/cxrg7yisccedd2k0/3t5zj56tihta6x7k.jpg",FULL: Texas Gov. Greg Abbott’s 2026 RNC Midterm Convention speech
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298887409_48298887553/48298887553/hf-uuid-460b51d0-ceee-4b97-baa7-ddb04ec74b6f/48298887553_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/sdqbgd1r7x1ybzd8/cap2wb4bque1q0gm.jpg",Conroe City council to debate Flock camera funding
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298741794_48298741906/48298741906/hf-uuid-366d4076-b0cf-4657-8393-d1cb5383821d/48298741906_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/okcwfrdby1c9xk4k/adp6prehatu4dosg.jpg",Gov. Abbott says Republicans will “demolish” Democrats
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298730690_48298788897/48298788897/hf-uuid-f1700fea-0e75-4e5e-b806-85f56e0d4ce1/48298788897_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/sqyhrzl1ycm50zgv/b88ickv6qfqyll87.jpg",Houston immigration attorney accused of misleading clients
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298522146_48298522287/48298522287/hf-uuid-942cb419-c42e-42c8-bef6-c29bafb00534/48298522287_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/tglxd7fpfiyypuu8/oe6jgk5evnzv80ez.jpg",9/11 25th Anniversary: Houston Fire Chief Thomas Muñoz Reflects on the Day That Changed Everything
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298419734_48298419990/48298419990/hf-uuid-b05423f1-3e5b-4559-9bb2-3e5b6b9b7f3c/48298419990_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/72z8q2m7e2twhzn7/cue20w3xr9221l5w.jpg",Houston restaurant adding surcharge to battle inflation
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298388001_48298388128/48298388128/hf-uuid-7101f5bf-d661-4010-8314-ab589a011979/48298388128_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/bzutmv2o32nbjiut/6zmdrbnc36f11pwn.jpg",FULL: Mike Johnson’s 2026 RNC Midterm Convention speech
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298361909_48298362073/48298362073/hf-uuid-450b3a2b-7f00-4358-acab-19716eec8557/48298362073_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/krx79iql7l1qj14q/in91gwnk68td85g6.jpg",FULL: Sen. Ted Cruz 2026 RNC Midterm Convention speech
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298099483_48298099609/48298099609/hf-uuid-d17a9561-899a-4626-8aa8-10569ad6cdee/48298099609_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/3nleren0tl4gjw0p/3tnhvrr5uo4t6hoo.jpg",Republican Midterm Convention continues for Day 2
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48298043666_48298043739/48298043739/hf-uuid-93db6bb9-a98c-424c-8be3-8941fc875eeb/48298043739_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/j72zeayhjd7q6zc3/rw7ilfpdo8jhd38w.jpg",Ted Cruz says Sharia law has no place in America
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48297934908_48298025126/48298025126/hf-uuid-4174f802-5ff1-40a1-9138-80279104b08e/48298025126_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/3r5bm1qqytbj0fhp/3o4qc4j1jw2heqgw.jpg",FULL: Tano Tijerina speech at RNC Midterm Convention
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48297845230_48297845361/48297845361/hf-uuid-5e8d9efe-2a91-4f51-b800-5a34d6525ccc/48297845361_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/cx9ls9i26gm301t5/wf0axslziq1qcldw.jpg",FULL: Eric Flores Speaks at RNC Midterm Convention Day 2
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48297772451_48297772673/48297772673/hf-uuid-dac15130-d78f-442a-9fff-f15cbbdc19c6/48297772673_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/0j1m8cdftfzs8ghs/k8g55ckkvado9wmg.jpg",FULL: Lt. Gov. Dan Patrick speech at the 2026 RNC Midterm Convention
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48297048256_48297048409/48297048409/hf-uuid-15bb0904-aa2f-401a-8f37-d97fdd3dd68a/48297048409_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/vrjqmtt5jnjs0jj3/uivjckbai6dotdnx.jpg",RNC honors Charlie Kirk one year after his death
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48296218031_48296272123/48296272123/hf-uuid-6dce04c4-211e-4703-8f53-a8ee7eb90a33/48296272123_lowres.mp4
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/israel-tv@main/logos/keshet12.png" group-title="📡 اسرائیل",Keshet 12
 #EXTVLCOPT:network-caching=2000
