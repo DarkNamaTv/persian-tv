@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12545,18 +12536,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e0c276d467ed4afaa0c983ea5d8f8cbd/df06f656-65ca-4483-a65e-d7b03db7efc2_thumb_001_HD.jpg",تشدید بررسی‌های امنیتی دانشجویان و پژوهشگران ایرانی در دانمارک
-https://daq1pvcuhj77l.cloudfront.net/1/e0c276d467ed4afaa0c983ea5d8f8cbd/hls/df06f656-65ca-4483-a65e-d7b03db7efc2.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/103b1d53ae304298b3300f0001bc9879/d71dfd38-93a8-43b8-87fa-75ea66dc8625_thumb_001_HD.jpg",اختصاصی ایران‌اینترنشنال؛ پاسخ مبهم بریتانیا درباره مجوز‌های ویژه و فعالیت بانک‌های ایرانی
-https://daq1pvcuhj77l.cloudfront.net/1/103b1d53ae304298b3300f0001bc9879/hls/d71dfd38-93a8-43b8-87fa-75ea66dc8625.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/26c0bf7920024374a7bce9601d8b87c7/d2240c3f-fde7-4763-aa2f-8d36f92feba1_thumb_001_HD.jpg",اخبار نیم‌روزی | چهارشنبه ۸ مهر
-https://daq1pvcuhj77l.cloudfront.net/1/26c0bf7920024374a7bce9601d8b87c7/hls/d2240c3f-fde7-4763-aa2f-8d36f92feba1.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/38cd5947c74b442983ed3a4d911c5c1d/3de21495-49c2-44d3-9981-4a75d9b0b0ff_thumb_001_HD.jpg",نخست‌وزیر عراق: مسئولیت امنیت کشور بر عهده نیروهای عراقی است
-https://daq1pvcuhj77l.cloudfront.net/1/38cd5947c74b442983ed3a4d911c5c1d/hls/3de21495-49c2-44d3-9981-4a75d9b0b0ff.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9d09649449644590be4a2f683e92093f/23c5f7cb-1e93-4055-9c3e-ea96f3981e71_thumb_001_HD.jpg",خروج آمریکا از عراق پس از ۲۳ سال در سایه تهدید نیروهای نیابتی
 https://daq1pvcuhj77l.cloudfront.net/1/9d09649449644590be4a2f683e92093f/hls/23c5f7cb-1e93-4055-9c3e-ea96f3981e71.m3u8
