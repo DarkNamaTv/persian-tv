@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12545,6 +12536,69 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/edee896868344a47aba0da52479b1fce/94fcd71d-c290-4798-91b8-574936e1c60c_thumb_001_HD.jpg",بورگان نظامی: جهش دلار هم نتیجه فشار جنگ است و هم حاصل بحران‌های ساختاری اقتصاد ایران
+https://daq1pvcuhj77l.cloudfront.net/1/edee896868344a47aba0da52479b1fce/hls/94fcd71d-c290-4798-91b8-574936e1c60c.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a51f1e2dbb52478aada32488fdda58d4/992a7c4c-9280-45fd-b6de-88876fefd35b_thumb_001_HD.jpg",بسنت: درآمد نفتی جمهوری اسلامی کاملا متوقف شد
+https://daq1pvcuhj77l.cloudfront.net/1/a51f1e2dbb52478aada32488fdda58d4/hls/992a7c4c-9280-45fd-b6de-88876fefd35b.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5f9eac80f4ac433aa7a6166a4b7fca7a/40d18147-4081-4e6d-9227-2794c8d77d29_thumb_001_HD.jpg",سیاست با مراد ویسی: اقتصاد ایران در حال فروپاشی، آمریکا به سوی حمله
+https://daq1pvcuhj77l.cloudfront.net/1/5f9eac80f4ac433aa7a6166a4b7fca7a/hls/40d18147-4081-4e6d-9227-2794c8d77d29.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b596d51d511f45a197dfed6a1deff332/a8bffcbd-0ec7-4d48-ad2d-a9d0c61bb736_thumb_001_HD.jpg",سردبیر خبر اورشلیم‌پست به ایران‌اینترنشنال: مردم ایران بدانند تنها نیستند
+https://daq1pvcuhj77l.cloudfront.net/1/b596d51d511f45a197dfed6a1deff332/hls/a8bffcbd-0ec7-4d48-ad2d-a9d0c61bb736.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/fca6ada37d7649088a99c3af75ed974d/a604ddf1-627d-450e-ab2a-069ab06e3d8b_thumb_001_HD.jpg",آسیه امینی: جمهوری اسلامی از زن بودن برای مجازات مضاعف زندانیان سیاسی استفاده می‌کند
+https://daq1pvcuhj77l.cloudfront.net/1/fca6ada37d7649088a99c3af75ed974d/hls/a604ddf1-627d-450e-ab2a-069ab06e3d8b.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/108bdb4b4ae6446d84f780e8dba11e9b/ee986d3d-5f13-4ea6-b3d7-33a8c671bc1e_thumb_001_HD.jpg",ایوار فرهادی: احتمال دور تازه‌ای از جنگ با جمهوری اسلامی جدی‌تر شده است
+https://daq1pvcuhj77l.cloudfront.net/1/108bdb4b4ae6446d84f780e8dba11e9b/hls/ee986d3d-5f13-4ea6-b3d7-33a8c671bc1e.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a8107929d58d4739b4b543dc773d7042/78f50c65-27e7-45dd-95f2-3e5826bab697_thumb_001_HD.jpg",میثم مهرانی: عربستان با هدف فرسوده کردن توان نظامی به حوثی‌ها حمله می‌کند
+https://daq1pvcuhj77l.cloudfront.net/1/a8107929d58d4739b4b543dc773d7042/hls/78f50c65-27e7-45dd-95f2-3e5826bab697.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1b63ba545c1d44e0bd95ca154928279b/eaf98e11-73fc-4348-91c8-e92c78809ba1_thumb_001_HD.jpg",محرومیت ۹ زندانی سیاسی زن در اوین از تماس تلفنی با خانواده‌ها
+https://daq1pvcuhj77l.cloudfront.net/1/1b63ba545c1d44e0bd95ca154928279b/hls/eaf98e11-73fc-4348-91c8-e92c78809ba1.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/35bfbdc8dc944798bdaff187a101f836/4cbcddb5-63d4-4769-9493-10b5138f99fa_thumb_001_HD.jpg",چشم‌انداز: آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
+https://daq1pvcuhj77l.cloudfront.net/1/35bfbdc8dc944798bdaff187a101f836/hls/4cbcddb5-63d4-4769-9493-10b5138f99fa.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6dea9cdd42134306893cf763c46fae36/4b9e1e1a-6155-41fc-b13a-6b33f35d6c28_thumb_001_HD.jpg",رای پستی چیست و چرا ترامپ با آن مشکل دارد؟
+https://daq1pvcuhj77l.cloudfront.net/1/6dea9cdd42134306893cf763c46fae36/hls/4b9e1e1a-6155-41fc-b13a-6b33f35d6c28.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c5f3cbac4c004d35bca8761d8f8e81ac/0be36c6c-3a7e-4015-9380-da150d807e72_thumb_001_HD.jpg",اعزام ناوگروه و نیروهای نظامی به خاورمیانه
+https://daq1pvcuhj77l.cloudfront.net/1/c5f3cbac4c004d35bca8761d8f8e81ac/hls/0be36c6c-3a7e-4015-9380-da150d807e72.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c2b8d2e0502e42f39c7dafc6c365f1de/9abd4c32-9546-43e9-a2aa-3f2f2f1eaeb0_thumb_001_HD.jpg",آیا آمریکا درصدد حمله دوباره و سرنگونی حکومت ایران است؟
+https://daq1pvcuhj77l.cloudfront.net/1/c2b8d2e0502e42f39c7dafc6c365f1de/hls/9abd4c32-9546-43e9-a2aa-3f2f2f1eaeb0.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8cc1b964256f4d57aea54f6d390adcfc/2e712e66-4ad9-47bf-92f8-c7ffcb8544cc_thumb_001_HD.jpg",نجات بهرامی: ترامپ به‌دنبال وادار کردن جمهوری اسلامی به تسلیم است
+https://daq1pvcuhj77l.cloudfront.net/1/8cc1b964256f4d57aea54f6d390adcfc/hls/2e712e66-4ad9-47bf-92f8-c7ffcb8544cc.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0b7e709ac87344f38ff65af273e4ffd7/714c5bc9-9080-4aa4-b1e0-4ff2e2149508_thumb_001_HD.jpg",تشدید فشارهای آمریکا بر جمهوری اسلامی؛ نتانیاهو از تضعیف سپاه خبر داد
+https://daq1pvcuhj77l.cloudfront.net/1/0b7e709ac87344f38ff65af273e4ffd7/hls/714c5bc9-9080-4aa4-b1e0-4ff2e2149508.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/04bb022b787e4e6e9a5990bc8f33f4d3/c8b2af3b-a1da-49a0-b391-728bbfcb5157_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، شنبه ۱۱ مهر 
+https://daq1pvcuhj77l.cloudfront.net/1/04bb022b787e4e6e9a5990bc8f33f4d3/hls/c8b2af3b-a1da-49a0-b391-728bbfcb5157.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/aff88d961e88496eb846a1ebe7eceb90/d278363f-d50f-4ed0-953a-54e71c754038_thumb_001_HD.jpg",اقتصاد و بازار: تاکید اسکات بسنت بر صفرشدن درآمد نفت ایران؛ دلار در مرز ۲۷۰ هزار تومان
+https://daq1pvcuhj77l.cloudfront.net/1/aff88d961e88496eb846a1ebe7eceb90/hls/d278363f-d50f-4ed0-953a-54e71c754038.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8bede8f2942744f3abf9f44cc684f9fd/42041a34-0001-4e3a-9c26-433e855187e3_thumb_001_HD.jpg",ترامپ: ۹ هزار نیروی نظامی جدید آمریکا به خاورمیانه اعزام شدند
+https://daq1pvcuhj77l.cloudfront.net/1/8bede8f2942744f3abf9f44cc684f9fd/hls/42041a34-0001-4e3a-9c26-433e855187e3.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/454cddef9e5d4f6887a23bca5b63c2cb/e6b41a54-8450-42ec-8412-b07b04a95c8d_thumb_001_HD.jpg",عطا حسینیان: صادرات نفت جمهوری اسلامی تقریبا به صفر رسیده است
+https://daq1pvcuhj77l.cloudfront.net/1/454cddef9e5d4f6887a23bca5b63c2cb/hls/e6b41a54-8450-42ec-8412-b07b04a95c8d.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c0bdc70c663a4eae9a7b2e201fb7d8b5/6f603c78-2e3c-46e2-9cde-e8bdec8173fc_thumb_001_HD.jpg",گزارش روز با مجتبا پورمحسن: رمزگشایی از خبر بزرگ ترامپ؛ حمله به ایران در راه است؟
+https://daq1pvcuhj77l.cloudfront.net/1/c0bdc70c663a4eae9a7b2e201fb7d8b5/hls/6f603c78-2e3c-46e2-9cde-e8bdec8173fc.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/80fdc2822a6d4e96aaec2eb29b10d6a0/f376d27e-e919-42fb-9b1a-8742f0917386_thumb_001_HD.jpg",رمزگشایی از خبر بزرگ ترامپ؛ سومین ناو هواپیمابر آمریکا با ۱۰ هزار تفنگدار در راه ایران
+https://daq1pvcuhj77l.cloudfront.net/1/80fdc2822a6d4e96aaec2eb29b10d6a0/hls/f376d27e-e919-42fb-9b1a-8742f0917386.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/689c058fdecb46da9554beeff7992c49/f95e14ad-6f93-47df-8ceb-b367aed6039d_thumb_001_HD.jpg",اخبار شبانگاهی | شنبه ۱۱ مهر
+https://daq1pvcuhj77l.cloudfront.net/1/689c058fdecb46da9554beeff7992c49/hls/f95e14ad-6f93-47df-8ceb-b367aed6039d.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/02e4705d4fdf468992bc606b03e6bf2b/6f36e0bb-d1f9-4097-8f60-6069cac6894e_thumb_001_HD.jpg",سرخط خبرهای شنبه ۱۱ مهر
 https://daq1pvcuhj77l.cloudfront.net/1/02e4705d4fdf468992bc606b03e6bf2b/hls/6f36e0bb-d1f9-4097-8f60-6069cac6894e.m3u8
