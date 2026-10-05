@@ -12276,6 +12276,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12536,6 +12545,69 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f598df74a07640b5bae3ab0a25882c72/14cc7bf2-41da-4b23-90fd-217ee68f9ebf_thumb_001_HD.jpg",امیر گیتی:  آمریکا به این نتیجه رسیده که جمهوری اسلامی پیشنهاد تازه‌ای ندارد
+https://daq1pvcuhj77l.cloudfront.net/1/f598df74a07640b5bae3ab0a25882c72/hls/14cc7bf2-41da-4b23-90fd-217ee68f9ebf.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0f164b8b9fce4fbcbf0c55bbc9aee69d/a6cb0939-9885-431d-ad6b-58e066d91b55_thumb_001_HD.jpg",عرفان قانعی‌فرد: جمهوری اسلامی فعلا حماس را اهرم موثری علیه اسرائیل نمی‌بیند
+https://daq1pvcuhj77l.cloudfront.net/1/0f164b8b9fce4fbcbf0c55bbc9aee69d/hls/a6cb0939-9885-431d-ad6b-58e066d91b55.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1cc94542533b4773a3d1e8364ca56286/84f68ce0-01f3-4573-bfb2-ba47383b0714_thumb_001_HD.jpg", سیاست با مراد ویسی: اسرائیل در حال تغییر نام خیابان‌ها و بزرگراه‌های تهران
+https://daq1pvcuhj77l.cloudfront.net/1/1cc94542533b4773a3d1e8364ca56286/hls/84f68ce0-01f3-4573-bfb2-ba47383b0714.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/36fe967e4eac4dc28e945350bde8229c/1d283691-15a3-4a25-8e45-fb8ca7fa85df_thumb_001_HD.jpg",هت‌تریک؛ ناکامی‌های فوتبال ایران؛ شکست‌های پی‌درپی تیم‌های ملی و حریفانی که نه می‌گویند
+https://daq1pvcuhj77l.cloudfront.net/1/36fe967e4eac4dc28e945350bde8229c/hls/1d283691-15a3-4a25-8e45-fb8ca7fa85df.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d35a6685255249b296a411fcd2bb8145/d6535cb9-bbf7-4479-9458-89e1bbbeefa6_thumb_001_HD.jpg",ابهام در ادامه حضور کریستیانو رونالدو در تیم ملی پرتغال
+https://daq1pvcuhj77l.cloudfront.net/1/d35a6685255249b296a411fcd2bb8145/hls/d6535cb9-bbf7-4479-9458-89e1bbbeefa6.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e4bff562ee5349cf933050a87e5e73b5/0c7c919c-ccdf-4471-aedf-7a9aca7c5f07_thumb_001_HD.jpg",جوانگرایی به سبک تیم‌های بزرگ فوتبال جهان
+https://daq1pvcuhj77l.cloudfront.net/1/e4bff562ee5349cf933050a87e5e73b5/hls/0c7c919c-ccdf-4471-aedf-7a9aca7c5f07.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4a6a9092ba1f491b9f7d9fdfd49f1808/ce99ad07-fb58-464c-982b-457177b0ee95_thumb_001_HD.jpg",صدرنشینی پرسپولیس در لیگ برتر فوتبال زنان با سه کلین شیت
+https://daq1pvcuhj77l.cloudfront.net/1/4a6a9092ba1f491b9f7d9fdfd49f1808/hls/ce99ad07-fb58-464c-982b-457177b0ee95.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d9d8a11a3982415fb692a9c71c51a383/18af917d-f1cb-4f81-9295-55f74fac54e1_thumb_001_HD.jpg",تقابل دیدنی استقلال و گل‌گهر سیرجان در هفته سوم فوتبال زنان
+https://daq1pvcuhj77l.cloudfront.net/1/d9d8a11a3982415fb692a9c71c51a383/hls/18af917d-f1cb-4f81-9295-55f74fac54e1.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f7356026a3bb46d4a0a16125c6c91e80/fec09601-d8b7-4495-afb5-e8bf04f8056c_thumb_001_HD.jpg",بازگشت محمدرضا ساکت، مدیر متخلف به فدراسیون فوتبال
+https://daq1pvcuhj77l.cloudfront.net/1/f7356026a3bb46d4a0a16125c6c91e80/hls/fec09601-d8b7-4495-afb5-e8bf04f8056c.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/20b16de409804a63baf780974e8895cc/f2a98f46-58ce-4aeb-8055-d40ee5bcc6e4_thumb_001_HD.jpg",بحران ساخت و نگه‌داری استادیوم‌های فوتبال در جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/20b16de409804a63baf780974e8895cc/hls/f2a98f46-58ce-4aeb-8055-d40ee5bcc6e4.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/cf57a88db53241fc87742a88e82e328c/f659d1e8-dbf8-4ad3-a21a-99bb0402ea6c_thumb_001_HD.jpg",ناکامی تمام برای فدراسیون فوتبال ایران با مدیریت مهدی تاج
+https://daq1pvcuhj77l.cloudfront.net/1/cf57a88db53241fc87742a88e82e328c/hls/f659d1e8-dbf8-4ad3-a21a-99bb0402ea6c.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d1284189435841e8a87165d0bbd7ca2c/55decf18-cdcb-4c0f-bdb2-6c08e8856204_thumb_001_HD.jpg",البرز از هلند: پدر و مادرم توایران گروگان جمهوری اسلامی‌ان، چون نمی‌تونم برم بهشون سر بزنم
+https://daq1pvcuhj77l.cloudfront.net/1/d1284189435841e8a87165d0bbd7ca2c/hls/55decf18-cdcb-4c0f-bdb2-6c08e8856204.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/be1d391af33b47f6b13c5eaaeba1a7a9/abf435d5-de2f-481a-a050-a2bf9debcbfb_thumb_001_HD.jpg",چشم‌انداز: موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+https://daq1pvcuhj77l.cloudfront.net/1/be1d391af33b47f6b13c5eaaeba1a7a9/hls/abf435d5-de2f-481a-a050-a2bf9debcbfb.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/fc2ab867eec841e6ba8bc51f18e4862b/c219bf56-0921-463f-af50-61e4cfdd345e_thumb_001_HD.jpg",مهدی مصلحی: وزارت نفت دیگر توان تامین درآمد مورد نیاز کشور را ندارد
+https://daq1pvcuhj77l.cloudfront.net/1/fc2ab867eec841e6ba8bc51f18e4862b/hls/c219bf56-0921-463f-af50-61e4cfdd345e.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4b181fd6fcb04a479e8d297503f0e4ec/78780282-bdf5-4d0e-8e5a-97c3656cf0f8_thumb_001_HD.jpg",شهرام خلدی: اهرم تنگه هرمز برای جمهوری اسلامی به اهرمی سوخته تبدیل شده است
+https://daq1pvcuhj77l.cloudfront.net/1/4b181fd6fcb04a479e8d297503f0e4ec/hls/78780282-bdf5-4d0e-8e5a-97c3656cf0f8.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a39fd0955cb94cc49dd4995d074a3662/3541221b-0f12-444c-b894-0f33347faece_thumb_001_HD.jpg",موج تازه قتل‌عام ایرانیان با کارسازی دولت پزشکیان
+https://daq1pvcuhj77l.cloudfront.net/1/a39fd0955cb94cc49dd4995d074a3662/hls/3541221b-0f12-444c-b894-0f33347faece.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/cdae7d2a2f26402bb475a9434eccd219/7d9867ee-7fcf-4eee-8e45-cb262eabf8ea_thumb_001_HD.jpg",ائتلاف‌ها در انتخابات اسرائیل؛ بلوک حامیان نتانیاهو پیروز می‌شوند یا مخالفانش؟
+https://daq1pvcuhj77l.cloudfront.net/1/cdae7d2a2f26402bb475a9434eccd219/hls/7d9867ee-7fcf-4eee-8e45-cb262eabf8ea.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b85c65e012934df3ad8e81512191bf5e/dca28e06-14dd-4583-a19f-9352ef832722_thumb_001_HD.jpg",حوثی‌ها آرامکو را هدف گرفتند، عربستان و یمن به حوثی‌ها حمله کردند
+https://daq1pvcuhj77l.cloudfront.net/1/b85c65e012934df3ad8e81512191bf5e/hls/dca28e06-14dd-4583-a19f-9352ef832722.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ef3f2c3eb52f46618d49e2adf9f34bec/aa0bbd11-ac67-4ebf-a414-f15431f52355_thumb_001_HD.jpg",اشکان نظام‌آبادی: مداخله بانک مرکزی نمی‌تواند بازار ارز را کنترل کند
+https://daq1pvcuhj77l.cloudfront.net/1/ef3f2c3eb52f46618d49e2adf9f34bec/hls/aa0bbd11-ac67-4ebf-a414-f15431f52355.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/84e6f5ae6efa40fcb51f5c23f2f8dea4/13805382-a8a1-4183-8048-79a83f9663c4_thumb_001_HD.jpg",شایان سمیعی: چین برای حفظ منافع اقتصادی خود به جمهوری اسلامی فشار می‌آورد
+https://daq1pvcuhj77l.cloudfront.net/1/84e6f5ae6efa40fcb51f5c23f2f8dea4/hls/13805382-a8a1-4183-8048-79a83f9663c4.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8b7d0565098b4ae19a13ee76c59632bc/482daac7-a50a-4ba7-bc21-74eb8342466e_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، یکشنبه ۱۲ مهر 
+https://daq1pvcuhj77l.cloudfront.net/1/8b7d0565098b4ae19a13ee76c59632bc/hls/482daac7-a50a-4ba7-bc21-74eb8342466e.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/61d9ae24387c4b539e6dc07021dc9f56/38bdc63b-c867-4944-9f9e-2465fa3dc85d_thumb_001_HD.jpg",اقتصاد و بازار: فساد ارزی در پوشش دور زدن تحریم؛ موج تورم با گرانی دلار
 https://daq1pvcuhj77l.cloudfront.net/1/61d9ae24387c4b539e6dc07021dc9f56/hls/38bdc63b-c867-4944-9f9e-2465fa3dc85d.m3u8
