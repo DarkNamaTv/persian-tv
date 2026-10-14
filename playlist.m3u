@@ -12276,6 +12276,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12536,15 +12545,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/465c16f36a3240709a89a433adc3d6c2/7c95ca85-b169-4617-b9b5-cd71bd2ecfcd_thumb_001_HD.jpg",اولتیماتوم سیاسی و اخطار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
-https://daq1pvcuhj77l.cloudfront.net/1/465c16f36a3240709a89a433adc3d6c2/hls/7c95ca85-b169-4617-b9b5-cd71bd2ecfcd.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e5591d0983b34052a340316ed04a51b2/195c1464-a2ce-42e7-9266-01391b673145_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
-https://daq1pvcuhj77l.cloudfront.net/1/e5591d0983b34052a340316ed04a51b2/hls/195c1464-a2ce-42e7-9266-01391b673145.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c33ea1c849fa4fe39cd21c6cbfdb3b30/d9d75c8e-dff6-471b-9609-177e6896435f_thumb_001_HD.jpg",اولتیماتوم سیاسی و اخطار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
-https://daq1pvcuhj77l.cloudfront.net/1/c33ea1c849fa4fe39cd21c6cbfdb3b30/hls/d9d75c8e-dff6-471b-9609-177e6896435f.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0921d72f0898454d839d56b460e6f54b/80635fb2-7364-463b-b0be-afa9114c7f34_thumb_001_HD.jpg",علیرضا نامور حقیقی: تهران با تشدید تنش به‌دنبال افزایش هزینه برای آمریکا و منطقه است
 https://daq1pvcuhj77l.cloudfront.net/1/0921d72f0898454d839d56b460e6f54b/hls/80635fb2-7364-463b-b0be-afa9114c7f34.m3u8
@@ -14486,6 +14486,15 @@ https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" tvg-id="IranJewishTV.ir@SD",Iran Jewish TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/Ig0SPev.png" tvg-id="MohabatTV.ir@SD",Mohabat TV (540p)
 #EXTVLCOPT:network-caching=2000
