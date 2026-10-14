@@ -12366,6 +12366,15 @@ https://jmp2.uk/stvp-GBBD1100002L5
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://jmp2.uk/stvp-CH500001V2
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/russia-today-int.png",RT International
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg",CGTN
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12527,6 +12536,15 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/465c16f36a3240709a89a433adc3d6c2/7c95ca85-b169-4617-b9b5-cd71bd2ecfcd_thumb_001_HD.jpg",اولتیماتوم سیاسی و اخطار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
+https://daq1pvcuhj77l.cloudfront.net/1/465c16f36a3240709a89a433adc3d6c2/hls/7c95ca85-b169-4617-b9b5-cd71bd2ecfcd.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e5591d0983b34052a340316ed04a51b2/195c1464-a2ce-42e7-9266-01391b673145_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/e5591d0983b34052a340316ed04a51b2/hls/195c1464-a2ce-42e7-9266-01391b673145.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c33ea1c849fa4fe39cd21c6cbfdb3b30/d9d75c8e-dff6-471b-9609-177e6896435f_thumb_001_HD.jpg",اولتیماتوم سیاسی و اخطار بی‌سابقه ۳۰ کشور جهان به حکومت ایران
+https://daq1pvcuhj77l.cloudfront.net/1/c33ea1c849fa4fe39cd21c6cbfdb3b30/hls/d9d75c8e-dff6-471b-9609-177e6896435f.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0921d72f0898454d839d56b460e6f54b/80635fb2-7364-463b-b0be-afa9114c7f34_thumb_001_HD.jpg",علیرضا نامور حقیقی: تهران با تشدید تنش به‌دنبال افزایش هزینه برای آمریکا و منطقه است
 https://daq1pvcuhj77l.cloudfront.net/1/0921d72f0898454d839d56b460e6f54b/hls/80635fb2-7364-463b-b0be-afa9114c7f34.m3u8
