@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12545,6 +12536,15 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f46cf1bf46f64372a3ba98037ec40ed0/176fa284-0972-4176-8df1-95d3ed9161c3_thumb_001_HD.jpg",شمارش معکوس برای حمله مجدد آمریکا و اسرائیل
+https://daq1pvcuhj77l.cloudfront.net/1/f46cf1bf46f64372a3ba98037ec40ed0/hls/176fa284-0972-4176-8df1-95d3ed9161c3.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d4f5a24c0f874fa8902f36c49c2d75c4/7bf4192c-95d6-4b32-a3d7-dc16e132d30a_thumb_001_HD.jpg",چشم‌انداز: شمارش معکوس برای حمله مجدد آمریکا و اسرائیل
+https://daq1pvcuhj77l.cloudfront.net/1/d4f5a24c0f874fa8902f36c49c2d75c4/hls/7bf4192c-95d6-4b32-a3d7-dc16e132d30a.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/11b0f3f2e48944ebb758cd89bbaac3be/a8d0f2ea-c1fd-4645-8947-96b838f43889_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/11b0f3f2e48944ebb758cd89bbaac3be/hls/a8d0f2ea-c1fd-4645-8947-96b838f43889.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b2e621a3b4db425fa579e2fb896bd841/03227804-3ebc-4dda-925a-3d58ee518e4d_thumb_001_HD.jpg",جزییات کمک ۲۰۰ میلیون دلاری جمهوری‌اسلامی به حزب‌الله
 https://daq1pvcuhj77l.cloudfront.net/1/b2e621a3b4db425fa579e2fb896bd841/hls/03227804-3ebc-4dda-925a-3d58ee518e4d.m3u8
