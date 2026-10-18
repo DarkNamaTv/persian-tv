@@ -522,15 +522,6 @@ https://ncdn.telewebion.ir/baran/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KhavaranTV.ir" tvg-name="شبکه خاوران (خراسان جنوبی)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/khorasanjonoobi.png" group-title="📡 تلوبیون",شبکه خاوران (خراسان جنوبی)
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KhorasanRazaviTV.ir" tvg-name="شبکه خراسان رضوی" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/KHORASANRAZAVI.png" group-title="📡 تلوبیون",شبکه خراسان رضوی
 #EXTVLCOPT:network-caching=8000
 #EXTVLCOPT:http-reconnect=true
@@ -764,15 +755,6 @@ https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://ncdn.telewebion.ir/habib/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="تکیه مداحی" tvg-logo="https://cdn.telewebion.ir/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default" group-title="📡 تلوبیون",تکیه مداحی
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="العالم" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/alalam-02.png" group-title="📡 تلوبیون",العالم
 #EXTVLCOPT:network-caching=8000
@@ -12509,15 +12491,6 @@ http://media.boni-records.com/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC DANCE BY KONTOR
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
 #EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC RAP
 #EXTVLCOPT:network-caching=2000
