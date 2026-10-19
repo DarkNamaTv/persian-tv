@@ -12258,15 +12258,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12528,8 +12519,23 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0e3ac329a9534c40a13b060f6761c0c5/1817367d-114f-43c6-9b93-25e87b463cc5_thumb_001_HD.jpg",ترامپ: واشینگتن تمایلی به مقابله با جمهوری اسلامی بدون همراهی نتانیاهو ندارد
+https://daq1pvcuhj77l.cloudfront.net/1/0e3ac329a9534c40a13b060f6761c0c5/hls/1817367d-114f-43c6-9b93-25e87b463cc5.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9cba4c4cbbea4673ad47f1c5cad7c432/2eabbf8b-3b82-4e7e-8db8-97f35f881481_thumb_001_HD.jpg",تیم ملی کشتی آزاد ایران قهرمان رقابت‌های زیر ۲۳ سال جهان شد
+https://daq1pvcuhj77l.cloudfront.net/1/9cba4c4cbbea4673ad47f1c5cad7c432/hls/2eabbf8b-3b82-4e7e-8db8-97f35f881481.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ffbb657a1d0a4c89aac6f3427baef224/0355ef0d-c566-49f4-b187-1b9b80bf90ff_thumb_001_HD.jpg",شش فیلم از ایران در هفتادمین جشنواره بین‌المللی فیلم لندن
+https://daq1pvcuhj77l.cloudfront.net/1/ffbb657a1d0a4c89aac6f3427baef224/hls/0355ef0d-c566-49f4-b187-1b9b80bf90ff.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/14561aa359d04d0bae74fb982b68f2b6/354c6c9e-c0e9-445b-8aae-a4283c6b68ca_thumb_001_HD.jpg",حمله موشکی حوثی‌های مورد حمایت جمهوری اسلامی به اردوگاه نظامی در یمن؛ دست‌کم ۱۸ کشته
+https://daq1pvcuhj77l.cloudfront.net/1/14561aa359d04d0bae74fb982b68f2b6/hls/354c6c9e-c0e9-445b-8aae-a4283c6b68ca.m3u8
+
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f41519a3bd9f4151bd334aa16b3984e2/dc4b7196-24a5-4180-9cda-7ce9b51f905f_thumb_001_HD.jpg",مجروح شدن آلفرد یعقوب‌زاده، عکاس ایرانی، در اعتراضات پاریس
 https://daq1pvcuhj77l.cloudfront.net/1/f41519a3bd9f4151bd334aa16b3984e2/hls/dc4b7196-24a5-4180-9cda-7ce9b51f905f.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b7f4a6ce4c49457896e204361ccedc54/51adba5e-a7ec-4628-932d-5caaff923002_thumb_001_HD.jpg",۲۰ روز جست‌وجو برای یافتن پیکر امیرمحمد حاتمی
+https://daq1pvcuhj77l.cloudfront.net/1/b7f4a6ce4c49457896e204361ccedc54/hls/51adba5e-a7ec-4628-932d-5caaff923002.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4481cb76ad914c609035f4b721a8c865/61755a00-d9ec-4c08-a33e-25c7533d6a4b_thumb_001_HD.jpg",مروری بر روزنامه‌های ایران، دوشنبه ۲۷ مهر 
 https://daq1pvcuhj77l.cloudfront.net/1/4481cb76ad914c609035f4b721a8c865/hls/61755a00-d9ec-4c08-a33e-25c7533d6a4b.m3u8
