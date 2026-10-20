@@ -14187,15 +14187,6 @@ https://live.presstv.co.uk/hls/presstv.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://voaphls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/7oGGgfD.png" tvg-id="KanalJadid.uk@SD",Kanal Jadid
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://kjhls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/RQ5DzEE.png" tvg-id="ParsTV.us@SD",Pars TV
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
