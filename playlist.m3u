@@ -259,7 +259,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+https://cdn.telewebion.ir/tv1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-name="شبکه دو" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/2.png" group-title="📡 تلوبیون",شبکه دو
 #EXTVLCOPT:network-caching=8000
@@ -268,7 +268,7 @@ https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+https://cdn.telewebion.ir/tv2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIB3.ir" tvg-name="شبکه سه" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/tv3-min.png" group-title="📡 تلوبیون",شبکه سه
 #EXTVLCOPT:network-caching=8000
@@ -277,7 +277,7 @@ https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+https://cdn.telewebion.ir/tv3/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-name="شبکه چهار" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/4-min.png" group-title="📡 تلوبیون",شبکه چهار
 #EXTVLCOPT:network-caching=8000
@@ -286,7 +286,7 @@ https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
+https://cdn.telewebion.ir/tv4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TehranTV.ir" tvg-name="شبکه پنج (تهران)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/iribtv5_min.png" group-title="📡 تلوبیون",شبکه پنج (تهران)
 #EXTVLCOPT:network-caching=8000
@@ -295,7 +295,7 @@ https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+https://cdn.telewebion.ir/tehran/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="شبکه ورزش" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/VarzeshTV300.png" group-title="📡 تلوبیون",شبکه ورزش
 #EXTVLCOPT:network-caching=8000
@@ -304,7 +304,7 @@ https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+https://cdn.telewebion.ir/varzesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OfoghTV.ir" tvg-name="شبکه افق" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/ofogh.png" group-title="📡 تلوبیون",شبکه افق
 #EXTVLCOPT:network-caching=8000
@@ -313,7 +313,7 @@ https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
+https://cdn.telewebion.ir/ofogh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-name="شبکه آموزش" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/Amoozesh_1402-min.png" group-title="📡 تلوبیون",شبکه آموزش
 #EXTVLCOPT:network-caching=8000
@@ -322,7 +322,7 @@ https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
+https://cdn.telewebion.ir/amouzesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-name="شبکه خبر" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/khabar-min.png" group-title="📡 تلوبیون",شبکه خبر
 #EXTVLCOPT:network-caching=8000
@@ -331,7 +331,7 @@ https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
+https://cdn.telewebion.ir/irinn/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nasim.ir" tvg-name="شبکه نسیم" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/nasim-min.png" group-title="📡 تلوبیون",شبکه نسیم
 #EXTVLCOPT:network-caching=8000
@@ -340,7 +340,7 @@ https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
+https://cdn.telewebion.ir/nasim/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-name="شبکه نمایش" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/namayesh-min.png" group-title="📡 تلوبیون",شبکه نمایش
 #EXTVLCOPT:network-caching=8000
@@ -349,7 +349,7 @@ https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
+https://cdn.telewebion.ir/namayesh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-name="شبکه مستند" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/mostanad-min.png" group-title="📡 تلوبیون",شبکه مستند
 #EXTVLCOPT:network-caching=8000
@@ -358,7 +358,7 @@ https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+https://cdn.telewebion.ir/mostanad/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="آی‌فیلم" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/event/channel_logo/Ifilm.png" group-title="📡 تلوبیون",آی‌فیلم
 #EXTVLCOPT:network-caching=8000
@@ -367,7 +367,7 @@ https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+https://cdn.telewebion.ir/ifilm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="شبکه قرآن" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/quarnlogo.png" group-title="📡 تلوبیون",شبکه قرآن
 #EXTVLCOPT:network-caching=8000
@@ -376,7 +376,7 @@ https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+https://cdn.telewebion.ir/quran/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SalamatTV.ir" tvg-name="شبکه سلامت" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/salamat-min.png" group-title="📡 تلوبیون",شبکه سلامت
 #EXTVLCOPT:network-caching=8000
@@ -385,7 +385,7 @@ https://ncdn.telewebion.ir/quran/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
+https://cdn.telewebion.ir/salamat/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PooyaTV.ir" tvg-name="شبکه پویا" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/koodak_0c3b8f58fc9cf93bfb151d9400c8f795.png" group-title="📡 تلوبیون",شبکه پویا
 #EXTVLCOPT:network-caching=8000
@@ -394,7 +394,7 @@ https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+https://cdn.telewebion.ir/pooya/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIBOmid.ir" tvg-name="شبکه امید" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/omido-min.png" group-title="📡 تلوبیون",شبکه امید
 #EXTVLCOPT:network-caching=8000
@@ -403,7 +403,7 @@ https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+https://cdn.telewebion.ir/omid/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SepehrTV.ir" tvg-name="شبکه سپهر" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/sepehr_liveirib.png" group-title="📡 تلوبیون",شبکه سپهر
 #EXTVLCOPT:network-caching=8000
@@ -412,7 +412,7 @@ https://ncdn.telewebion.ir/omid/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
+https://cdn.telewebion.ir/sepehr/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRINN2.ir" tvg-name="شبکه خبر ۲" tvg-logo="https://lb-cdn.sepehrtv.ir/img/news/irinn2_64328471ba6b6.png" group-title="📡 تلوبیون",شبکه خبر ۲
 #EXTVLCOPT:network-caching=8000
@@ -421,7 +421,7 @@ https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+https://cdn.telewebion.ir/irinn2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IRIBUHD.ir" tvg-name="شبکه فراتر (UHD)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/uhd_4k.png" group-title="📡 تلوبیون",شبکه فراتر (UHD)
 #EXTVLCOPT:network-caching=8000
@@ -430,7 +430,7 @@ https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+https://cdn.telewebion.ir/faratar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbadanTV.ir" tvg-name="شبکه آبادان" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/abadan.png" group-title="📡 تلوبیون",شبکه آبادان
 #EXTVLCOPT:network-caching=8000
@@ -439,7 +439,7 @@ https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
+https://cdn.telewebion.ir/abadan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AraTV.ir" tvg-name="شبکه آرا (چهارمحال)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/shirran.png" group-title="📡 تلوبیون",شبکه آرا (چهارمحال)
 #EXTVLCOPT:network-caching=8000
@@ -448,7 +448,7 @@ https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+https://cdn.telewebion.ir/ara/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AftabTV.ir" tvg-name="شبکه آفتاب (مرکزی)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/aftab_01.png" group-title="📡 تلوبیون",شبکه آفتاب (مرکزی)
 #EXTVLCOPT:network-caching=8000
@@ -457,7 +457,7 @@ https://ncdn.telewebion.ir/ara/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
+https://cdn.telewebion.ir/aftab/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AtrakTV.ir" tvg-name="شبکه اترک (خراسان شمالی)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/atrak-min.png" group-title="📡 تلوبیون",شبکه اترک (خراسان شمالی)
 #EXTVLCOPT:network-caching=8000
@@ -466,7 +466,7 @@ https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+https://cdn.telewebion.ir/atrak/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EshraghNetwork.ir" tvg-name="شبکه اشراق (زنجان)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/eshragh.png" group-title="📡 تلوبیون",شبکه اشراق (زنجان)
 #EXTVLCOPT:network-caching=8000
@@ -475,7 +475,7 @@ https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+https://cdn.telewebion.ir/eshragh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-name="شبکه اصفهان" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/esfahan.png" group-title="📡 تلوبیون",شبکه اصفهان
 #EXTVLCOPT:network-caching=8000
@@ -484,7 +484,7 @@ https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
+https://cdn.telewebion.ir/esfahan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlborzTV.ir" tvg-name="شبکه البرز" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/alborz_1402_.png" group-title="📡 تلوبیون",شبکه البرز
 #EXTVLCOPT:network-caching=8000
@@ -493,7 +493,7 @@ https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
+https://cdn.telewebion.ir/alborz/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IlamTV.ir" tvg-name="شبکه ایلام" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/ilam.png" group-title="📡 تلوبیون",شبکه ایلام
 #EXTVLCOPT:network-caching=8000
@@ -502,7 +502,7 @@ https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+https://cdn.telewebion.ir/ilam/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BaranTV.ir" tvg-name="شبکه باران (گیلان)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/baran.png" group-title="📡 تلوبیون",شبکه باران (گیلان)
 #EXTVLCOPT:network-caching=8000
@@ -511,7 +511,7 @@ https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/baran/live/playlist.m3u8
+https://cdn.telewebion.ir/baran/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-name="شبکه جهان‌بین" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/shahrekord__jahanbin-min.png" group-title="📡 تلوبیون",شبکه جهان‌بین
 #EXTVLCOPT:network-caching=8000
@@ -520,7 +520,7 @@ https://ncdn.telewebion.ir/baran/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
+https://cdn.telewebion.ir/jahanbin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KhorasanRazaviTV.ir" tvg-name="شبکه خراسان رضوی" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/KHORASANRAZAVI.png" group-title="📡 تلوبیون",شبکه خراسان رضوی
 #EXTVLCOPT:network-caching=8000
@@ -529,7 +529,7 @@ https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
+https://cdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KhalijeFarsTV.ir" tvg-name="شبکه خلیج فارس (هرمزگان)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/khalijefars.png" group-title="📡 تلوبیون",شبکه خلیج فارس (هرمزگان)
 #EXTVLCOPT:network-caching=8000
@@ -538,7 +538,7 @@ https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
+https://cdn.telewebion.ir/khalijefars/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KhozestanTV.ir" tvg-name="شبکه خوزستان" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/khoozestan1.jpg" group-title="📡 تلوبیون",شبکه خوزستان
 #EXTVLCOPT:network-caching=8000
@@ -547,7 +547,7 @@ https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
+https://cdn.telewebion.ir/khoozestan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DenaTV.ir" tvg-name="شبکه دنا (کهگیلویه)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/dena.png" group-title="📡 تلوبیون",شبکه دنا (کهگیلویه)
 #EXTVLCOPT:network-caching=8000
@@ -556,7 +556,7 @@ https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/dena/live/playlist.m3u8
+https://cdn.telewebion.ir/dena/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RoyaTV.ir" tvg-name="شبکه رویا" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/rooyatv.png" group-title="📡 تلوبیون",شبکه رویا
 #EXTVLCOPT:network-caching=8000
@@ -565,7 +565,7 @@ https://ncdn.telewebion.ir/dena/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
+https://cdn.telewebion.ir/iribu/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZagrosTV.ir" tvg-name="شبکه زاگرس (لرستان)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png" group-title="📡 تلوبیون",شبکه زاگرس (لرستان)
 #EXTVLCOPT:network-caching=8000
@@ -574,7 +574,7 @@ https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
+https://cdn.telewebion.ir/zagros/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SarbedaranTV.ir" tvg-name="شبکه سبزوار" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/sarbedaran1.png" group-title="📡 تلوبیون",شبکه سبزوار
 #EXTVLCOPT:network-caching=8000
@@ -583,7 +583,7 @@ https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
+https://cdn.telewebion.ir/sarbedaran/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SabalanTV.ir" tvg-name="شبکه سبلان (اردبیل)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/ardebil.png" group-title="📡 تلوبیون",شبکه سبلان (اردبیل)
 #EXTVLCOPT:network-caching=8000
@@ -592,7 +592,7 @@ https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
+https://cdn.telewebion.ir/sabalan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SemnanTV.ir" tvg-name="شبکه سمنان" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/semnan-02.png" group-title="📡 تلوبیون",شبکه سمنان
 #EXTVLCOPT:network-caching=8000
@@ -601,7 +601,7 @@ https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
+https://cdn.telewebion.ir/semnan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SahandTV.ir" tvg-name="شبکه سهند (آذربایجان شرقی)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/sahand.png" group-title="📡 تلوبیون",شبکه سهند (آذربایجان شرقی)
 #EXTVLCOPT:network-caching=8000
@@ -610,7 +610,7 @@ https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
+https://cdn.telewebion.ir/sahand/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FarsTV.ir" tvg-name="شبکه فارس" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/fars.png" group-title="📡 تلوبیون",شبکه فارس
 #EXTVLCOPT:network-caching=8000
@@ -619,7 +619,7 @@ https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/fars/live/playlist.m3u8
+https://cdn.telewebion.ir/fars/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QazvinTV.ir" tvg-name="شبکه قزوین" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/qazvin.png" group-title="📡 تلوبیون",شبکه قزوین
 #EXTVLCOPT:network-caching=8000
@@ -628,7 +628,7 @@ https://ncdn.telewebion.ir/fars/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
+https://cdn.telewebion.ir/qazvin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MahabadTV.ir" tvg-name="شبکه مهاباد" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/mahabad.png" group-title="📡 تلوبیون",شبکه مهاباد
 #EXTVLCOPT:network-caching=8000
@@ -637,7 +637,7 @@ https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
+https://cdn.telewebion.ir/mahabad/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="شبکه نصف جهان (اصفهان)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/nesfejahan.png" group-title="📡 تلوبیون",شبکه نصف جهان (اصفهان)
 #EXTVLCOPT:network-caching=8000
@@ -646,7 +646,7 @@ https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
+https://cdn.telewebion.ir/nesfejahan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HamoonTV.ir" tvg-name="شبکه هامون (سیستان)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/hamoon.png" group-title="📡 تلوبیون",شبکه هامون (سیستان)
 #EXTVLCOPT:network-caching=8000
@@ -655,7 +655,7 @@ https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
+https://cdn.telewebion.ir/hamoon/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HamedanTV.ir" tvg-name="شبکه همدان (سینا)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/HAMEDAN.png" group-title="📡 تلوبیون",شبکه همدان (سینا)
 #EXTVLCOPT:network-caching=8000
@@ -664,7 +664,7 @@ https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sina/live/playlist.m3u8
+https://cdn.telewebion.ir/sina/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KordestanTV.ir" tvg-name="شبکه کردستان" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/kordestan1.png" group-title="📡 تلوبیون",شبکه کردستان
 #EXTVLCOPT:network-caching=8000
@@ -673,7 +673,7 @@ https://ncdn.telewebion.ir/sina/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
+https://cdn.telewebion.ir/kordestan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YazdTV.ir" tvg-name="شبکه یزد (تابان)" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/taban.png" group-title="📡 تلوبیون",شبکه یزد (تابان)
 #EXTVLCOPT:network-caching=8000
@@ -682,7 +682,7 @@ https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/taban/live/playlist.m3u8
+https://cdn.telewebion.ir/taban/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="مثبت یک" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/1.png" group-title="📡 تلوبیون",مثبت یک
 #EXTVLCOPT:network-caching=8000
@@ -691,7 +691,7 @@ https://ncdn.telewebion.ir/taban/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
+https://cdn.telewebion.ir/tv1plus/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="تلوبیون اسپرت ۱" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/VarzeshTV300.png" group-title="📡 تلوبیون",تلوبیون اسپرت ۱
 #EXTVLCOPT:network-caching=8000
@@ -700,7 +700,7 @@ https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sport1/live/playlist.m3u8
+https://cdn.telewebion.ir/sport1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="تلوبیون اسپرت ۲" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/VarzeshTV300.png" group-title="📡 تلوبیون",تلوبیون اسپرت ۲
 #EXTVLCOPT:network-caching=8000
@@ -709,7 +709,7 @@ https://ncdn.telewebion.ir/sport1/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sport2/live/playlist.m3u8
+https://cdn.telewebion.ir/sport2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="تلوبیون اسپرت ۳" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/VarzeshTV300.png" group-title="📡 تلوبیون",تلوبیون اسپرت ۳
 #EXTVLCOPT:network-caching=8000
@@ -718,7 +718,7 @@ https://ncdn.telewebion.ir/sport2/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sport3/live/playlist.m3u8
+https://cdn.telewebion.ir/sport3/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="الکوثر" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/alkowsar.png" group-title="📡 تلوبیون",الکوثر
 #EXTVLCOPT:network-caching=8000
@@ -727,7 +727,7 @@ https://ncdn.telewebion.ir/sport3/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/kawthar/live/playlist.m3u8
+https://cdn.telewebion.ir/kawthar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ولایت" tvg-logo="https://lb-cdn.sepehrtv.ir/img/news/velayat_630b3da2e98b1.png" group-title="📡 تلوبیون",ولایت
 #EXTVLCOPT:network-caching=8000
@@ -736,7 +736,7 @@ https://ncdn.telewebion.ir/kawthar/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
+https://cdn.telewebion.ir/velayat/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="لبیک" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/shabake%20labeik%20130%20130.png" group-title="📡 تلوبیون",لبیک
 #EXTVLCOPT:network-caching=8000
@@ -745,7 +745,7 @@ https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
+https://cdn.telewebion.ir/labbayk/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="حبیب" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/habib300-min.png" group-title="📡 تلوبیون",حبیب
 #EXTVLCOPT:network-caching=8000
@@ -754,7 +754,7 @@ https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+https://cdn.telewebion.ir/habib/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="العالم" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/alalam-02.png" group-title="📡 تلوبیون",العالم
 #EXTVLCOPT:network-caching=8000
@@ -763,7 +763,7 @@ https://ncdn.telewebion.ir/habib/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/alalam/live/playlist.m3u8
+https://cdn.telewebion.ir/alalam/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="فلسطین" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/palestine_.png" group-title="📡 تلوبیون",فلسطین
 #EXTVLCOPT:network-caching=8000
@@ -772,7 +772,7 @@ https://ncdn.telewebion.ir/alalam/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
+https://cdn.telewebion.ir/palestine/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="گلخانه" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/event/logo/golkhanelogo.png" group-title="📡 تلوبیون",گلخانه
 #EXTVLCOPT:network-caching=8000
@@ -781,7 +781,7 @@ https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
+https://cdn.telewebion.ir/golkhane/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="گلستان" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/Golestan150.png" group-title="📡 تلوبیون",گلستان
 #EXTVLCOPT:network-caching=8000
@@ -790,7 +790,7 @@ https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
+https://cdn.telewebion.ir/sabz/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="مکران" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/makran.png" group-title="📡 تلوبیون",مکران
 #EXTVLCOPT:network-caching=8000
@@ -799,7 +799,7 @@ https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/makran/live/playlist.m3u8
+https://cdn.telewebion.ir/makran/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="زعفران" tvg-logo="https://cdn.telewebion.ir/channelsLogo/bc660d9e-4d2d-450f-bbff-517326d59695/default" group-title="📡 تلوبیون",زعفران
 #EXTVLCOPT:network-caching=8000
@@ -808,7 +808,7 @@ https://ncdn.telewebion.ir/makran/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/zaferan/live/playlist.m3u8
+https://cdn.telewebion.ir/zaferan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="پرس تی وی" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/presstv.png" group-title="📡 تلوبیون",پرس تی وی
 #EXTVLCOPT:network-caching=8000
@@ -817,7 +817,7 @@ https://ncdn.telewebion.ir/zaferan/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/presstv/live/playlist.m3u8
+https://cdn.telewebion.ir/presstv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="sport4" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/VarzeshTV300.png" group-title="📡 تلوبیون",sport4
 #EXTVLCOPT:network-caching=8000
@@ -826,7 +826,7 @@ https://ncdn.telewebion.ir/presstv/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/sport4/live/playlist.m3u8
+https://cdn.telewebion.ir/sport4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="aflak" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/aflak.png" group-title="📡 تلوبیون",aflak
 #EXTVLCOPT:network-caching=8000
@@ -835,7 +835,7 @@ https://ncdn.telewebion.ir/sport4/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
+https://cdn.telewebion.ir/aflak/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="azarbayjangharbi" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/azarbayjangharbi.png" group-title="📡 تلوبیون",azarbayjangharbi
 #EXTVLCOPT:network-caching=8000
@@ -844,7 +844,7 @@ https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+https://cdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="bushehr" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/bushehr.png" group-title="📡 تلوبیون",bushehr
 #EXTVLCOPT:network-caching=8000
@@ -853,7 +853,7 @@ https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
+https://cdn.telewebion.ir/bushehr/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="kerman" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kerman.png" group-title="📡 تلوبیون",kerman
 #EXTVLCOPT:network-caching=8000
@@ -862,7 +862,7 @@ https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
+https://cdn.telewebion.ir/kerman/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="kish" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kish.png" group-title="📡 تلوبیون",kish
 #EXTVLCOPT:network-caching=8000
@@ -871,7 +871,7 @@ https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/kish/live/playlist.m3u8
+https://cdn.telewebion.ir/kish/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="نور" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/noor.png" group-title="📡 تلوبیون",نور
 #EXTVLCOPT:network-caching=8000
@@ -880,7 +880,7 @@ https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/noor/live/playlist.m3u8
+https://cdn.telewebion.ir/noor/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="tabarestan" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png" group-title="📡 تلوبیون",tabarestan
 #EXTVLCOPT:network-caching=8000
@@ -889,7 +889,7 @@ https://ncdn.telewebion.ir/noor/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+https://cdn.telewebion.ir/tabarestan/live/playlist.m3u8
 
 #EXTINF:-1 group-title="📡 تلوبیون" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png",English Club TV HD
 #EXTVLCOPT:network-caching=15000
@@ -12528,98 +12528,173 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a14b400b5fb244979c01a12838d7e56c/bff548ec-0e00-4c26-9c61-ae91345dbfcc_thumb_001_HD.jpg",اعزام جنگنده‌های بریتانیا به عربستان سعودی برای عملیات دفاعی مقابله با حوثی‌ها
-https://daq1pvcuhj77l.cloudfront.net/1/a14b400b5fb244979c01a12838d7e56c/hls/bff548ec-0e00-4c26-9c61-ae91345dbfcc.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/65be6aaeb3c6499d85a8d8c37489f629/42974526-c66f-430b-8120-59430e8e1302_thumb_001_HD.jpg",ویتکاف پیشنهاد جدید صلح آمریکا برای پایان جنگ اوکراین را به پوتین ارائه کرد
+https://daq1pvcuhj77l.cloudfront.net/1/65be6aaeb3c6499d85a8d8c37489f629/hls/42974526-c66f-430b-8120-59430e8e1302.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/68098a17d1c34992b8f974f445b66ab1/0779532e-09a3-4797-9e85-1675ac77cf71_thumb_001_HD.jpg",نبرد حساس پاری‌سن‌ژرمن و بارسلونا با وجود تنش‌ها در پاریس
-https://daq1pvcuhj77l.cloudfront.net/1/68098a17d1c34992b8f974f445b66ab1/hls/0779532e-09a3-4797-9e85-1675ac77cf71.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/88734eb977604d318edbecef83b3af46/dae83010-9f27-4582-805c-bf92dc330d68_thumb_001_HD.jpg",ادامه رسیدگی به پرونده سه ایرانی متهم به اقدام امنیتی علیه مجتبا پورمحسن و کامبیز حسینی
+https://daq1pvcuhj77l.cloudfront.net/1/88734eb977604d318edbecef83b3af46/hls/dae83010-9f27-4582-805c-bf92dc330d68.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/37415f15f86d4bdab49a61488ce8b234/a7a69287-249c-42de-bd6b-7a860800878b_thumb_001_HD.jpg",گسترش تدابیر امنیتی در فرانسه و ایتالیا در پی تداوم اعتراضات خشونت‌آمیز
-https://daq1pvcuhj77l.cloudfront.net/1/37415f15f86d4bdab49a61488ce8b234/hls/a7a69287-249c-42de-bd6b-7a860800878b.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f618a1f02d6443adaf4407f039043de3/5cc71139-9879-4e53-9ba9-3387d0071b90_thumb_001_HD.jpg",تجمع متقاضیان ویزا مقابل سفارت آلمان در تهران
+https://daq1pvcuhj77l.cloudfront.net/1/f618a1f02d6443adaf4407f039043de3/hls/5cc71139-9879-4e53-9ba9-3387d0071b90.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f52b80b402f14d8aaaa19a386b001ad6/bd7da5ac-c3f3-483c-ba3e-bde18c18051c_thumb_001_HD.jpg",مروری بر روزنامه‌های ایران، سه‌شنبه ۲۸ مهر با مجتبی هاشمی
-https://daq1pvcuhj77l.cloudfront.net/1/f52b80b402f14d8aaaa19a386b001ad6/hls/bd7da5ac-c3f3-483c-ba3e-bde18c18051c.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8d4c7cdb150d4a9f877c4f5c659d9c3b/c1e2ed75-5c39-42ba-98df-0b3370535cf5_thumb_001_HD.jpg",تبعیض جنسیتی جمهوری اسلامی علیه زنان ورزشکار ایرانی
+https://daq1pvcuhj77l.cloudfront.net/1/8d4c7cdb150d4a9f877c4f5c659d9c3b/hls/c1e2ed75-5c39-42ba-98df-0b3370535cf5.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9b239994d6be4bb2b1c5e4716647566a/e349719f-1ccf-4ea5-9f9f-0a0aa9a6e008_thumb_001_HD.jpg",عطا حسینیان: صرفه‌جویی در مصرف بنزین که پزشکیان به آن افتخار می‌کند، در واقع سرکوب تقاضاست
-https://daq1pvcuhj77l.cloudfront.net/1/9b239994d6be4bb2b1c5e4716647566a/hls/e349719f-1ccf-4ea5-9f9f-0a0aa9a6e008.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/449f749df3cb49f8a0e68124c857fb6a/a28a2fa0-0384-4697-beec-9c6990e83844_thumb_001_HD.jpg",محرومیت ۴۵ روزه ۱۴۷ مدیر فوتبال ترکیه در پرونده شرط‌بندی
+https://daq1pvcuhj77l.cloudfront.net/1/449f749df3cb49f8a0e68124c857fb6a/hls/a28a2fa0-0384-4697-beec-9c6990e83844.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/871a2caece0c4cfab181f2aaf3a12537/9ef8a78b-7ac9-4a74-86b7-b8d1796e996a_thumb_001_HD.jpg",اخبار نیمروزی | سه‌شنبه ۲۸ مهر
-https://daq1pvcuhj77l.cloudfront.net/1/871a2caece0c4cfab181f2aaf3a12537/hls/9ef8a78b-7ac9-4a74-86b7-b8d1796e996a.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ebdf8ce324b94fd289cd8b0d43be8a9e/87d38aae-b314-4188-bef4-e7428fe5852f_thumb_001_HD.jpg",تناقض میان افتخار جمهوری اسلامی به مدال‌آوری زنان و محدودیت‌های جنسیتی
+https://daq1pvcuhj77l.cloudfront.net/1/ebdf8ce324b94fd289cd8b0d43be8a9e/hls/87d38aae-b314-4188-bef4-e7428fe5852f.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/359dcd6089a4414db2c8917f0ab1a181/ec73e145-7906-42b8-be12-37c10e54e668_thumb_001_HD.jpg",آیزنکوت، رقیب اصلی نتانیاهو کیست؟
-https://daq1pvcuhj77l.cloudfront.net/1/359dcd6089a4414db2c8917f0ab1a181/hls/ec73e145-7906-42b8-be12-37c10e54e668.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/fbf725c7d4324fe1950e63233c15ad00/cac86127-4cbf-4c78-aeca-af6405b679ea_thumb_001_HD.jpg",مروری بر روزنامه‌های ایران، چهارشنبه ۲۹ مهر با مجتبی هاشمی
+https://daq1pvcuhj77l.cloudfront.net/1/fbf725c7d4324fe1950e63233c15ad00/hls/cac86127-4cbf-4c78-aeca-af6405b679ea.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5a7329146f2848d2a1de185717b8235e/aa99aaf6-78ec-4473-84d6-5a893095803e_thumb_001_HD.jpg",گفت‌وگوی تلفنی بنیامین نتانیاهو و دونالد ترامپ درباره جمهوری اسلامی و توافق‌های ابراهیم
-https://daq1pvcuhj77l.cloudfront.net/1/5a7329146f2848d2a1de185717b8235e/hls/aa99aaf6-78ec-4473-84d6-5a893095803e.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f87657c6220646b7b978498487023329/c8b4977d-05cd-4d34-80bf-2bc582f6b556_thumb_001_HD.jpg",اخبار نیمروزی | چهارشنبه ۲۹ مهر
+https://daq1pvcuhj77l.cloudfront.net/1/f87657c6220646b7b978498487023329/hls/c8b4977d-05cd-4d34-80bf-2bc582f6b556.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/34761c69b3414843b7de337b0b021fcd/9445e339-e59b-4662-83bb-2cca0ba1e763_thumb_001_HD.jpg",سرخط خبرهای سه‌شنبه ۲۸ مهر
-https://daq1pvcuhj77l.cloudfront.net/1/34761c69b3414843b7de337b0b021fcd/hls/9445e339-e59b-4662-83bb-2cca0ba1e763.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/22b05ee888474da7aac5882023e04dd2/c0ba101e-81d3-4e62-a5a0-5ce94ab8826e_thumb_001_HD.jpg",نفتالی بنت، طراح «دکترین اختاپوس» و مخالف نتانیاهو، کیست؟
+https://daq1pvcuhj77l.cloudfront.net/1/22b05ee888474da7aac5882023e04dd2/hls/c0ba101e-81d3-4e62-a5a0-5ce94ab8826e.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/64bac9957bbc4440bd89179c2fadb25c/442febaf-0cdc-4fbd-9380-f578bbd10777_thumb_001_HD.jpg",روایت مخاطبان ایران‌اینترنشنال از کمبود و سهمیه‌بندی انسولین
-https://daq1pvcuhj77l.cloudfront.net/1/64bac9957bbc4440bd89179c2fadb25c/hls/442febaf-0cdc-4fbd-9380-f578bbd10777.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1a0599112e7b44ada8b870828cf89dce/3d7ed996-49d8-4489-beed-49d1469bcd74_thumb_001_HD.jpg",عراق گذرگاه مرزی چذابه با ایران را تا اطلاع ثانوی بست
+https://daq1pvcuhj77l.cloudfront.net/1/1a0599112e7b44ada8b870828cf89dce/hls/3d7ed996-49d8-4489-beed-49d1469bcd74.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7722da940f2849d0818a9e870b59bb30/55fab4da-a379-4e54-bd8b-0e0b46ad6a6c_thumb_001_HD.jpg",علی شیرازی: جمهوری اسلامی دیگر توان تحمیل حجاب اجباری را ندارد
-https://daq1pvcuhj77l.cloudfront.net/1/7722da940f2849d0818a9e870b59bb30/hls/55fab4da-a379-4e54-bd8b-0e0b46ad6a6c.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f9e1883bb7cf4eff9458f06f1d9e93d5/274d1179-f144-4551-88a9-dbc0456db090_thumb_001_HD.jpg",سرخط خبرهای چهارشنبه ۲۹ مهر 
+https://daq1pvcuhj77l.cloudfront.net/1/f9e1883bb7cf4eff9458f06f1d9e93d5/hls/274d1179-f144-4551-88a9-dbc0456db090.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2cf033b2769046009e134becfbf5abb2/34a762c2-0d13-4b88-935b-d9bd04d5c06e_thumb_001_HD.jpg",مرتضی کاظمیان: شواهد از احتمال ازسرگیری درگیری نظامی حکایت دارد
-https://daq1pvcuhj77l.cloudfront.net/1/2cf033b2769046009e134becfbf5abb2/hls/34a762c2-0d13-4b88-935b-d9bd04d5c06e.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7b6e63da5817488e87c98ede9261b276/a2b117e8-aea2-4966-b758-d3370e95ce47_thumb_001_HD.jpg",بازداشت دوباره دو مرد در بریتانیا به اتهام همکاری با سرویس اطلاعاتی جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/7b6e63da5817488e87c98ede9261b276/hls/a2b117e8-aea2-4966-b758-d3370e95ce47.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5adff8dd62fc4253a9654bdf133d2a9f/cfdeb18d-b817-47d0-a949-0ac20a72e149_thumb_001_HD.jpg",حسین آقایی: حمله آمریکا می‌تواند از ضربه محدود تا تلاش برای تغییر حکومت پیش برود
-https://daq1pvcuhj77l.cloudfront.net/1/5adff8dd62fc4253a9654bdf133d2a9f/hls/cfdeb18d-b817-47d0-a949-0ac20a72e149.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4000216081c84bbea46a06b441f418c6/154bb4df-7727-4e8b-b93f-679dc5479ae6_thumb_001_HD.jpg",روایت مخاطبان ایران‌اینترنشنال از پلمب کافه‌ها و تشدید فضای امنیتی در شهرها
+https://daq1pvcuhj77l.cloudfront.net/1/4000216081c84bbea46a06b441f418c6/hls/154bb4df-7727-4e8b-b93f-679dc5479ae6.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/33a69e12a0a74e8eab6ee588238adc75/9cfc823f-7c6a-40ae-b066-aaa9248ac8b7_thumb_001_HD.jpg",تاخیر آمریکا در ارسال موشک و تسلیحات به اوکراین
-https://daq1pvcuhj77l.cloudfront.net/1/33a69e12a0a74e8eab6ee588238adc75/hls/9cfc823f-7c6a-40ae-b066-aaa9248ac8b7.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ab92a0b14d8242718279adc606774dc2/7f579d62-4b7e-4096-b057-d0ceccf6cf06_thumb_001_HD.jpg",حسین آقایی: افزایش حملات جمهوری اسلامی به کشتی‌ها احتمال جنگ را بالا می‌برد
+https://daq1pvcuhj77l.cloudfront.net/1/ab92a0b14d8242718279adc606774dc2/hls/7f579d62-4b7e-4096-b057-d0ceccf6cf06.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/27461b5154984235bc198bff8cb38475/258592b7-299d-46ca-a575-48fec839ad37_thumb_001_HD.jpg",وزیر جنگ آمریکا در سفری اعلام‌نشده به اسرائیل با نتانیاهو دیدار کرد
-https://daq1pvcuhj77l.cloudfront.net/1/27461b5154984235bc198bff8cb38475/hls/258592b7-299d-46ca-a575-48fec839ad37.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/24fdee8f43a04382a504ed6d58ea089d/c81eda0a-247a-4506-acfa-7948a9d9be18_thumb_001_HD.jpg",مرتضی کاظمیان: هیچ نشانه‌ای از عقلانیت مبتنی بر منافع ملی در جمهوری اسلامی نیست
+https://daq1pvcuhj77l.cloudfront.net/1/24fdee8f43a04382a504ed6d58ea089d/hls/c81eda0a-247a-4506-acfa-7948a9d9be18.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8a24a5d778d345caa15a08208fb2d396/95bea86a-5dca-4344-ae47-711d4a25458b_thumb_001_HD.jpg",دالغا خاتین‌اوغلو: کاهش تولید گاز، تامین انرژی زمستان در ایران را دشوار می‌کند
-https://daq1pvcuhj77l.cloudfront.net/1/8a24a5d778d345caa15a08208fb2d396/hls/95bea86a-5dca-4344-ae47-711d4a25458b.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a596d7763ece4f6b9090a0422e69e899/5d606ea6-80eb-4fea-869b-d1e24b68ef62_thumb_001_HD.jpg",آماده‌باش نظامی اسرائیل در پی نگرانی از شتاب برنامه هسته‌ای جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/a596d7763ece4f6b9090a0422e69e899/hls/5d606ea6-80eb-4fea-869b-d1e24b68ef62.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4b4b0055841c417d9e80a77c29a95000/4ff1e6d4-1003-4ef8-a749-6b9403b47092_thumb_001_HD.jpg",فرمانده ارتش پاکستان برای گفت‌وگو با مقام‌های جمهوری اسلامی به تهران می‌رود
-https://daq1pvcuhj77l.cloudfront.net/1/4b4b0055841c417d9e80a77c29a95000/hls/4ff1e6d4-1003-4ef8-a749-6b9403b47092.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c507aaa6b4014b40a78e3ead36c4ed7a/4c5704ea-6fd7-42a4-a1f1-b9e0a2e99f57_thumb_001_HD.jpg",مخالفت ۷۶ درصد از شرکت‌کنندگان در همه‌پرسی جدایی آلبرتا از کانادا
+https://daq1pvcuhj77l.cloudfront.net/1/c507aaa6b4014b40a78e3ead36c4ed7a/hls/4c5704ea-6fd7-42a4-a1f1-b9e0a2e99f57.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/28fb7ccd0b9b4bf1b6b773915d4fdabd/ad58dc82-7cf6-422a-9c5f-0e2387b7407f_thumb_001_HD.jpg",روح‌الله رحیم‌پور: آمریکا و اسرائیل برای حمله احتمالی به جمهوری اسلامی آماده می‌شوند
-https://daq1pvcuhj77l.cloudfront.net/1/28fb7ccd0b9b4bf1b6b773915d4fdabd/hls/ad58dc82-7cf6-422a-9c5f-0e2387b7407f.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1a1e8ac6aef74c0986a0f477e9902ba4/a1c66c47-716f-4c81-8740-ffe18c60c5ca_thumb_001_HD.jpg",روح‌الله رحیم‌پور: فرصت توافق جمهوری اسلامی با آمریکا رو به پایان است
+https://daq1pvcuhj77l.cloudfront.net/1/1a1e8ac6aef74c0986a0f477e9902ba4/hls/a1c66c47-716f-4c81-8740-ffe18c60c5ca.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/12dc0b63c3294725b6b30680651dfe74/2ad5eca0-2553-4cd1-8337-6cfea4a0e61e_thumb_001_HD.jpg",رضا گوهرزاد: روسیه می‌خواهد جمهوری اسلامی را به میز مذاکره بکشاند
-https://daq1pvcuhj77l.cloudfront.net/1/12dc0b63c3294725b6b30680651dfe74/hls/2ad5eca0-2553-4cd1-8337-6cfea4a0e61e.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a1f3858d0ca24f8d939da82c66f700d6/ddf4df1c-af14-43eb-8371-5683af34e812_thumb_001_HD.jpg",پزشکیان در دیدار با فرمانده ارتش پاکستان از آمادگی تهران برای مذاکره با آمریکا گفت
+https://daq1pvcuhj77l.cloudfront.net/1/a1f3858d0ca24f8d939da82c66f700d6/hls/ddf4df1c-af14-43eb-8371-5683af34e812.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/62c24fff869b40c1b0e3237df1568c59/a230ffff-3715-42d6-b51f-6cbfa997e505_thumb_001_HD.jpg",اختلال در صادرات متانول ایران به چین
-https://daq1pvcuhj77l.cloudfront.net/1/62c24fff869b40c1b0e3237df1568c59/hls/a230ffff-3715-42d6-b51f-6cbfa997e505.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/33b41ba2f0d84fb988b7ae9b2219b8d7/0ef29f06-b334-43cd-b293-69a6d8a1b2cb_thumb_001_HD.jpg",جمهوری اسلامی به تلاش برای ایجاد آشوب در اعتراضات فرانسه متهم شد
+https://daq1pvcuhj77l.cloudfront.net/1/33b41ba2f0d84fb988b7ae9b2219b8d7/hls/0ef29f06-b334-43cd-b293-69a6d8a1b2cb.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ac8c61652494443ea9784c4c8b79681b/53399b4c-16cb-400a-ab7e-f359298ac819_thumb_001_HD.jpg",رای‌گیری در آلبرتا برای آغاز همه‌پرسی استقلال از کانادا
-https://daq1pvcuhj77l.cloudfront.net/1/ac8c61652494443ea9784c4c8b79681b/hls/53399b4c-16cb-400a-ab7e-f359298ac819.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/86b5f2e018cc4b23bd84f387827b1965/14049a49-a7eb-49b3-9890-aae6a619b23a_thumb_001_HD.jpg",اخبار بامدادی | چهارشنبه ۲۹ مهر
+https://daq1pvcuhj77l.cloudfront.net/1/86b5f2e018cc4b23bd84f387827b1965/hls/14049a49-a7eb-49b3-9890-aae6a619b23a.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/83820726e0944482ae600f4b51cebbcc/23386253-77df-4c2a-994e-a27370dcc01f_thumb_001_HD.jpg",اخبار بامدادی | سه‌شنبه ۲۸ مهر
-https://daq1pvcuhj77l.cloudfront.net/1/83820726e0944482ae600f4b51cebbcc/hls/23386253-77df-4c2a-994e-a27370dcc01f.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/bdf899a9cb4e4437a738e201eb9a1dee/43a35288-e7f7-4706-bd63-3cbfd3475228_thumb_001_HD.jpg",ایتالیا ۵۰۰ نیروی ارتش را برای تقویت امنیت به میلان اعزام می‌کند
+https://daq1pvcuhj77l.cloudfront.net/1/bdf899a9cb4e4437a738e201eb9a1dee/hls/43a35288-e7f7-4706-bd63-3cbfd3475228.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f408dcb2ccb0461594868ac042f563e0/742acfa5-3c50-45d1-8f61-548dbbadbae8_thumb_001_HD.jpg",محمد نایب‌یزدی: مجموعه عوامل می‌تواند زمستان امسال را به بحران آلودگی هوا تبدیل کند
-https://daq1pvcuhj77l.cloudfront.net/1/f408dcb2ccb0461594868ac042f563e0/hls/742acfa5-3c50-45d1-8f61-548dbbadbae8.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b08748da1eea437daabc1f421a7f2d36/5a041ddf-5f7c-4ca6-97cd-0b5d27587b24_thumb_001_HD.jpg",افزایش نگرانی‌ها از صدور و اجرای احکام اعدام زندانیان سیاسی در ایران
+https://daq1pvcuhj77l.cloudfront.net/1/b08748da1eea437daabc1f421a7f2d36/hls/5a041ddf-5f7c-4ca6-97cd-0b5d27587b24.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f778951cc7ad401f9bd47778fc1f1887/ac432c58-2cec-434d-866d-88352a050d5c_thumb_001_HD.jpg",محمد قائدی: روسیه حاضر نیست برای حمایت از جمهوری اسلامی با آمریکا تقابل کند
-https://daq1pvcuhj77l.cloudfront.net/1/f778951cc7ad401f9bd47778fc1f1887/hls/ac432c58-2cec-434d-866d-88352a050d5c.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/10c2ae19c86a41679dd53ed5b6b1678e/1d834488-562a-4bfb-9565-5a9936729c37_thumb_001_HD.jpg",علیرضا نامور حقیقی: اختلاف بر سر مذاکره، شکاف راهبردی در جمهوری اسلامی را آشکار کرده است
+https://daq1pvcuhj77l.cloudfront.net/1/10c2ae19c86a41679dd53ed5b6b1678e/hls/1d834488-562a-4bfb-9565-5a9936729c37.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/40340b44aa2a4bf7b5e690e18b3d9db7/5837c2ac-6a98-401a-84d0-b7343a653ea4_thumb_001_HD.jpg",شهرام خلدی: سرنوشت اوکراین و جمهوری اسلامی می‌تواند موضوع توافق قدرت‌های بزرگ باشد
-https://daq1pvcuhj77l.cloudfront.net/1/40340b44aa2a4bf7b5e690e18b3d9db7/hls/5837c2ac-6a98-401a-84d0-b7343a653ea4.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/35603bfc9ba946f48402320907013990/231fe1ed-0126-47a0-b5e4-764048279732_thumb_001_HD.jpg",تنش در تنگه هرمز، آسیا را به‌سوی منابع انرژی آفریقا می‌برد
+https://daq1pvcuhj77l.cloudfront.net/1/35603bfc9ba946f48402320907013990/hls/231fe1ed-0126-47a0-b5e4-764048279732.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/49a8a007c8f94e22959bc86806c7fa07/abf21608-05d4-40c8-b898-de38be437f4b_thumb_001_HD.jpg",فرزین ندیمی: آمریکا و اسرائیل هماهنگی نظامی مشترک علیه جمهوری اسلامی را علنی‌تر کرده‌اند
-https://daq1pvcuhj77l.cloudfront.net/1/49a8a007c8f94e22959bc86806c7fa07/hls/abf21608-05d4-40c8-b898-de38be437f4b.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/63fb443d83c649ff8cea2abfd19adf9b/8d66e45e-5983-4a05-bfb9-858a30b343a0_thumb_001_HD.jpg",سرخط خبرهای چهارشنبه ۲۹ مهر 
+https://daq1pvcuhj77l.cloudfront.net/1/63fb443d83c649ff8cea2abfd19adf9b/hls/8d66e45e-5983-4a05-bfb9-858a30b343a0.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/95ea2537b32a4b3ab2e0bfde85ba0d1f/5f5b9a5b-b3c0-42e1-a2b6-de7d08ed60da_thumb_001_HD.jpg",مهدی صارمی‌فر: آسیب به کابل‌های اینترنتی تنگه هرمز لزوما اینترنت جهان را مختل نمی‌کند
-https://daq1pvcuhj77l.cloudfront.net/1/95ea2537b32a4b3ab2e0bfde85ba0d1f/hls/5f5b9a5b-b3c0-42e1-a2b6-de7d08ed60da.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/187d9d4c2b1f45e7b90eb806e25ad12a/fb7f4364-dc85-40c1-9fe6-40cc6cff8746_thumb_001_HD.jpg",کامیار بهرنگ: هزینه سیاست‌های جمهوری اسلامی را مردم ایران می‌پردازند
+https://daq1pvcuhj77l.cloudfront.net/1/187d9d4c2b1f45e7b90eb806e25ad12a/hls/fb7f4364-dc85-40c1-9fe6-40cc6cff8746.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/45358e938fc8497fb6041fd5cd6b48fa/97bacac3-0f2e-4de4-8d39-36cb0d34a8b6_thumb_001_HD.jpg",رای‌گیری در آلبرتا برای آغاز روند جدایی از کانادا
-https://daq1pvcuhj77l.cloudfront.net/1/45358e938fc8497fb6041fd5cd6b48fa/hls/97bacac3-0f2e-4de4-8d39-36cb0d34a8b6.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/683d62412866460f8448a2a25a2bc67e/4e767c8d-5f9a-4dca-b33e-65689cab2d4d_thumb_001_HD.jpg",کامبیز توانا: آمریکا دیگر برای مذاکره از صفر پای میز نمی‌نشیند
+https://daq1pvcuhj77l.cloudfront.net/1/683d62412866460f8448a2a25a2bc67e/hls/4e767c8d-5f9a-4dca-b33e-65689cab2d4d.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c0cf74c824ba4f34988f3c697dc8d131/a950e39c-7a6d-442e-a49a-670af56824f5_thumb_001_HD.jpg",تاکید چین بر گسترش روابط با تهران هم‌زمان با گزارش همکاری نظامی و اطلاعاتی بین دو کشور
-https://daq1pvcuhj77l.cloudfront.net/1/c0cf74c824ba4f34988f3c697dc8d131/hls/a950e39c-7a6d-442e-a49a-670af56824f5.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/eb71385b097b472c9b1037a8b165be00/23fcf8ee-efd5-4f2a-bc18-9fba47bf2626_thumb_001_HD.jpg",رضا عرب: جمهوری اسلامی توان مقابله مستقیم با آمریکا و اسرائیل را ندارد
+https://daq1pvcuhj77l.cloudfront.net/1/eb71385b097b472c9b1037a8b165be00/hls/23fcf8ee-efd5-4f2a-bc18-9fba47bf2626.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/98dcd4810eb447aea5218534736f9fa3/91df315e-e86b-4fc6-b204-855c319bd8b7_thumb_001_HD.jpg",ترامپ: آمریکا از نظر اقتصادی و نظامی دست بالا را در برابر ایران دارد
-https://daq1pvcuhj77l.cloudfront.net/1/98dcd4810eb447aea5218534736f9fa3/hls/91df315e-e86b-4fc6-b204-855c319bd8b7.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ad6d507933d5487a8a14e3675633ba41/334620c3-9b1f-4507-a803-5a90d1ffceaf_thumb_001_HD.jpg",فرزین ندیمی: حضور سه ناو هواپیمابر آمریکا فشار نظامی بر جمهوری اسلامی را افزایش می‌دهد
+https://daq1pvcuhj77l.cloudfront.net/1/ad6d507933d5487a8a14e3675633ba41/hls/334620c3-9b1f-4507-a803-5a90d1ffceaf.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6929d5049d3045bfb53a3a349b504ff0/c73e7007-4f3c-4d62-bf04-83e02b10af40_thumb_001_HD.jpg",سرخط خبرهای سه‌شنبه ۲۸ مهر
-https://daq1pvcuhj77l.cloudfront.net/1/6929d5049d3045bfb53a3a349b504ff0/hls/c73e7007-4f3c-4d62-bf04-83e02b10af40.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5c80b4f20c4a44e498282b1fda2c053f/9b0669a5-039b-4307-9c20-fbecfd9e088e_thumb_001_HD.jpg",آمریکا ناو هواپیمابر روزولت و تفنگداران دریایی را به خاورمیانه می‌فرستد
+https://daq1pvcuhj77l.cloudfront.net/1/5c80b4f20c4a44e498282b1fda2c053f/hls/9b0669a5-039b-4307-9c20-fbecfd9e088e.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1eef3070a64c4a20b526b0045d439ca2/7818e1f0-3de9-418f-9f66-c512c9eed132_thumb_001_HD.jpg",گزارش رسانه‌های فرانسوی از مخالفت مکرون با انتشار یافته‌های امنیتی درباره جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/1eef3070a64c4a20b526b0045d439ca2/hls/7818e1f0-3de9-418f-9f66-c512c9eed132.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/600b6dda3677489b918afc11a36deba0/78756b31-85f0-429c-866b-791a2be39c4d_thumb_001_HD.jpg",حملات روسیه به اوکراین دست‌کم هفت کشته بر جای گذاشت
+https://daq1pvcuhj77l.cloudfront.net/1/600b6dda3677489b918afc11a36deba0/hls/78756b31-85f0-429c-866b-791a2be39c4d.m3u8
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/gujur23fskz64fd0/iwjr5s38qrjnbmhe.jpg",End of an Era: G-Man Breaks Silence on Shocking Departure from 97.9 The Box
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49134209951_49134210083/49134210083/hf-uuid-4d4cde29-700b-4f53-ac58-81deece5f325/49134210083_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/tt51dzzx8p4rhd4o/v7v6f19pzp2u5j63.jpg",From Viral Chase to City Hero: Houston Honors Uber Driver Anthony Baines
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49134187481_49134187629/49134187629/hf-uuid-4ea8eb89-f562-41be-9055-1e67503efb2c/49134187629_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/0qdy60ia4wbveh7g/g32pcxnno9offstc.jpg",Too Many Podcasts, Not Enough Listeners? Industry Panel Weighs In
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49134170476_49134170688/49134170688/hf-uuid-804cba4d-2e29-4985-afe8-ffd8989050d3/49134170688_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/mgfhmmn5pjwfs5gu/wjqafv84msqjha1k.jpg",Racist Video Sparks Student Protests at Upstate New York High School
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49133453887_49133454071/49133454071/hf-uuid-bd377a95-1145-4483-8c28-d354f32790f7/49133454071_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/k2rid9mlmei1ob7k/ohiqe58xijsc8nwe.jpg",Bill Bellamy &amp; Scarface Team Up to Get Houston to the Polls
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49133396423_49133396564/49133396564/hf-uuid-52a34a16-db6e-46d6-b3c8-772ce56a88ad/49133396564_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/20wpjrjjmn3ckfbm/18j1lueze64ahd33.jpg",Fulshear Interim Police Chief discusses possible e-bike safety ordinance
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49133282172_49133282303/49133282303/hf-uuid-b4b681c6-7a62-43ed-91be-282b2d898836/49133282303_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/nyaqaoeutvberwvm/y31pn8lrk2isf1yv.jpg",Houston weather: Expect great weather for your Wednesday
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49132599524_49132599652/49132599652/hf-uuid-4ced7729-2e75-4b73-b56c-2de456883bb0/49132599652_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/kp841c617fe6d2pl/wd59znf3q5gagl9m.jpg",Record-breaking or near record breaking early voting numbers reported
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49132382699_49132382865/49132382865/hf-uuid-88fddeda-3be0-4ab5-bbf5-dc79752cb662/49132382865_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/x6fu03rnq73jzzzu/yez9kejhtvba93av.jpg",Fulshear considering E-Bike safety ordinance
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49132197548_49132197790/49132197790/hf-uuid-eef74d55-1395-45b1-91a2-4141bdbb47f5/49132197790_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/mhjnnti14kvstmhp/4hwlgr37a0fglnz6.jpg",Checking out "Nightmare on Smith Street"
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49130928915_49130929120/49130929120/hf-uuid-79666673-05a8-4e36-af65-70208fe4b417/49130929120_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/drqef3srx3n8n6fd/gpbirgawankhdzg7.jpg",Talking with the Ghostess of Galveston on Houston Live and Local
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49130751577_49130751869/49130751869/hf-uuid-46224959-7179-4c7e-9d00-bba03b538c52/49130751869_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/c54ufckvfssce9rz/hx6s8k1lrrx01wkx.jpg",Texas Girls Flag Football may need to wait longer than expected
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49130434840_49130434989/49130434989/hf-uuid-3d1c9bf5-01ed-4dde-8061-c4c2da11e3d6/49130434989_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/qao48qxd8v04hcqm/0kha3ygpjqtt3syw.jpg",Unsolicited mailers arriving in mailboxes addressed to children
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49130239148_49130239546/49130239546/hf-uuid-fa9189a2-2b3e-4958-a615-4cb44ee5b701/49130239546_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/1xb9pzlc4rem62ee/ap9ekd9678phmfb5.jpg",Texas wedding refund dispute drawing criticism
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49129826911_49129827112/49129827112/hf-uuid-b87d3f7c-f973-4708-9623-9ac4469289dc/49129827112_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/8wvicm1dgbr4yqtw/87bnq87wq0zwiryf.jpg",Houston weather: Another beautiful day on the way for Wednesday
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49128574793_49128574957/49128574957/hf-uuid-4cffaf4c-2985-4faf-a604-c405067870cf/49128574957_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/q6jns9j1m3uixx7z/4u6eqr2wmr43grt3.jpg",Alief ISD considering closing, combining schools
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49128542710_49128542960/49128542960/hf-uuid-a3daf7bf-4f02-4594-b946-1e86cd61d909/49128542960_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/3rxqri3inajhtl61/pyvt1aj5mcggmuje.jpg",UIL approves girls flag football pilot program for 2028-2029 school year
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49125940212_49125940386/49125940386/hf-uuid-1016d4fb-ebc7-44d3-a8be-be10e63ac3fe/49125940386_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ajvdwt4sxgqbfbcf/op5paosif6idbtg1.jpg", MI Senate, AZ House &amp; Women's Midterm Milestones (49)
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49124973602_49124980186/49124980186/hf-uuid-e5dbc3e7-5841-42b3-8984-66f306f3763c/49124980186_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/4whmu9g51ih5w7xf/rh8h2j1rp15galx1.jpg",Lee Gilley granted partial extradition: Gilley's attorney explains next steps
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49122095007_49122095157/49122095157/hf-uuid-73eef63c-f130-496d-9857-6107ea330e58/49122095157_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/5hlgaxka9zuz6gyw/x4h7sye4ryroe2g4.jpg",Jill Hyland is Making the Grade at Stratford High School
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49121867519_49121867660/49121867660/hf-uuid-59835f4b-e8e4-43b5-9e84-5c90553c769a/49121867660_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/sa9w6mbmrva3in8r/6d56sd11h3kvfcs5.jpg",Your Legal Questions: October 20, 2026
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49121323673_49121323856/49121323856/hf-uuid-be4a56bd-be30-4364-8bf6-d3393c0c665f/49121323856_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/2cv4nfbzjvqimz47/o0rgiyfcksbkjvzd.jpg",Spring restaurant using AI to simplify ordering
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49120916674_49120916908/49120916908/hf-uuid-320aa0c9-b5ca-4770-8811-114a9acb4826/49120916908_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/3hi0q0yc2fwc2wvq/s2nvyf1q6s5u8q87.jpg",Houston weather: Chilly Tuesday, increasing allergy levels
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49118614265_49118614373/49118614373/hf-uuid-047ca1e2-37fe-485b-9e22-00fc304c73b9/49118614373_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/8fqnf3calg010vqp/ff62plyma91d2qm1.jpg",Parents Allegedly Threaten to Call ICE at Houston High School Volleyball Game
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49112326164_49112444717/49112444717/hf-uuid-4b825a10-b201-414d-8a46-898039b7baca/49112444717_lowres.mp4
@@ -13452,75 +13527,6 @@ https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_4
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/bt10guyib0lfaif7/cmacafenlckfhw2v.jpg",MI Rep. Barrett, NY Gov Race &amp; Celebrity Influence
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48810049243_48810056544/48810056544/hf-uuid-262c82eb-6587-4738-8c20-05512fc7c8f3/48810056544_lowres.mp4
 
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/huojejyj7o79v94i/ptex4vh7nuzkas1l.jpg",SEAL Hemostatic Wound Spray | Hurricane Gear Test
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48809840475_48809840579/48809840579/hf-uuid-ada42605-d616-4d80-8a51-26c0f209ca71/48809840579_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/i0nuhy1ez1vhzupg/9co6897fy5ja2bal.jpg",U.S. GUN BAN? | D.C. Daily
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48809322722_48809392263/48809392263/hf-uuid-6d400cfa-dc85-4d17-b013-3e8a0f11b731/48809392263_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/h1xamblbqdmrm5f6/ztsv29xmfm9rape5.jpg",Surprise homecoming proposal during 'Making the Grade' at Pearland HS!
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48807699846_48807699961/48807699961/hf-uuid-31866853-317c-42a5-8926-a1f1a0f5590a/48807699961_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/g65q6nv8l087ytjk/cerbypkffayyvvu8.jpg",Houston weather: Warm start to the week, isolated rain chances Monday
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48804621701_48804621794/48804621794/hf-uuid-70685660-c309-4395-9604-e0048c907253/48804621794_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/swz9vhe25qu56p8v/nu9pmkru7qcxtrac.jpg",Houston weather: Oct. 4 overnight forecast
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48797119359_48797119531/48797119531/hf-uuid-e55f848d-3479-4f9d-9277-378f12a1038a/48797119531_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/puip3e1rcs157muv/d9nnjwhm3fjl2252.jpg",Houston police shoot woman who allegedly shot man
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48796952866_48796953082/48796953082/hf-uuid-e99d0d4a-a4dd-45c3-8bf0-b42c8621113b/48796953082_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/jzzf20k1j3zbijon/ocxdb27pctx0dwgb.jpg",Bissell Pet Foundation to be honored for shelter work
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48794836970_48794904396/48794904396/hf-uuid-0f704ebf-782c-4917-a2e8-0fbf7714863c/48794904396_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/unljpl5x88x4biiy/jg2pzbwmf14ufitx.jpg",Cornell 7 case: NY Attorney General assigned as special prosecutor
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48794695787_48794695956/48794695956/hf-uuid-e4d39d74-f48d-40df-818d-cb93b28ac69d/48794695956_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/xj9n3u8x75ba3nsm/59nnzounxnzdgo0v.jpg",Tropical Weather Forecast: Keeping watch of Gulf development
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48794336460_48794336600/48794336600/hf-uuid-e897677c-ad9c-4c42-8b20-2c8a5e3fa38d/48794336600_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/sy1bo5enjruavx4d/jo40lrhgpybqn0yt.jpg",Christa Pike botched execution: Tennessee prison chief resigns, all executions halted
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48794258618_48794258815/48794258815/hf-uuid-68aec86d-872a-4b44-8026-6541273b9333/48794258815_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/m1wj4wyax3xvk3j1/jpzvh3dm75vbt8qv.jpg",Houston weather: Oct. 4 evening forecast
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48794162127_48794162246/48794162246/hf-uuid-9a434219-6bdc-46b7-8a62-1b15908e6c52/48794162246_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/6r2fsjoao0tqfv8g/f2tusoff88gr045t.jpg",Tax money used for Trump's TV ads | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48791313968_48791314042/48791314042/hf-uuid-b86978eb-4de6-4016-9b0a-f1e37234c2c0/48791314042_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/biahm8wzrlm1ncqv/wg9htgi7e35vsw27.jpg",Breaking down Houston leaders' salaries | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48791216487_48791216586/48791216586/hf-uuid-88775262-4e55-4297-b3de-2bc933e5c3b7/48791216586_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/i33b35nkdnxfwuua/fe8o04x8aowhso6q.jpg",Travis County DA Office grilled in Capitol hearing | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48788909596_48788909715/48788909715/hf-uuid-3b4fabf6-ce91-449b-868e-7454997debff/48788909715_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/27hlngy8qqo830lm/1zvh8rkthnhed8b9.jpg",US Senate race in the air for Texas | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48788227257_48788227352/48788227352/hf-uuid-e93a0511-0588-4e22-a747-ef8715389852/48788227352_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ugvq42vfsafuju2h/tx84vnzi2ubglwp2.jpg",One-year extension for Harris County flood project funds | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48788016071_48788016163/48788016163/hf-uuid-17901a29-244e-44be-a9c8-a14fb74acc16/48788016163_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/9rlx405u3f8t6kx1/8ahqs6gw6yx5321l.jpg",Why Texans don't get much tax relief | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48787876029_48787876104/48787876104/hf-uuid-ca7b1cf1-7ca5-43ba-a9ae-d5b1f376f390/48787876104_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/6d8r5fk3wk3dupsv/cninvykrcnd83gmc.jpg",Harris County tax hike targeted in local elections | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48787716028_48787716124/48787716124/hf-uuid-453dfc36-4e07-4db2-82d9-2f44eacc3baa/48787716124_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/xmt19q6gvhgkz4f8/hoy2r174fmmjgtmg.jpg",What's Your Point? Overtime | Oct 4, 2026
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48787394350_48787394422/48787394422/hf-uuid-07634b61-1c82-42e7-af6d-7f6977aa59c2/48787394422_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/r4vv0vpzeujr84ui/ctbmfzlogmoxskwf.jpg",Tax troubles, Texas election latest, prosecutor under fire, and more | What's Your Point?
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48784996400_48787368551/48787368551/hf-uuid-b271112f-bfd2-49da-81c8-3bfaf2e2a691/48787368551_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/7pg9cxduc0yl6772/qllsc5juqousxtw5.jpg",Houston Injury Report: October 4, 2026
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48787002352_48787002490/48787002490/hf-uuid-1069445e-d173-4428-89b4-378932cf2545/48787002490_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/7uuhsc2fohsriftk/qxsuht3u19y8jz28.jpg",Houston weather: Oct. 4 morning forecast
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48784941702_48784941835/48784941835/hf-uuid-c5c12faf-63ea-4d47-b969-e4ea8bcea6b4/48784941835_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/9r8m6uh1xmnos0bm/8ntdexiw3nucwevn.jpg",Cypress special needs baseball league doubles in size
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48776486784_48776486944/48776486944/hf-uuid-355d633e-b644-482a-879d-eb5c28b1b8d1/48776486944_lowres.mp4
-
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/israel-tv@main/logos/keshet12.png" group-title="📡 اسرائیل",Keshet 12
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -14150,15 +14156,6 @@ http://185.9.2.18/chid_926/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://iptv.mihantv.com/mihantv/playlist.m3u8
-
-#EXTINF:-1 group-title="ایران" tvg-logo="https://iraniancongress.com/tv/logo.png" tvg-id="NationalIranianCongressTV.us@SD",National Iranian Congress TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://tv.iraniancongress.com/stream/tv.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" tvg-id="PressTV.ir@SD",Press TV
 #EXTVLCOPT:network-caching=2000
