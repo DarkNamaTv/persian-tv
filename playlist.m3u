@@ -12258,6 +12258,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12518,24 +12527,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/46d6374cc1764c2da5c90648fcd37688/3f80964c-4fa2-451e-b8fa-372ae71dd8df_thumb_001_HD.jpg",بریتانیا به عملیات دفاعی مقابله با حملات حوثی‌ها می‌پیوندد
-https://daq1pvcuhj77l.cloudfront.net/1/46d6374cc1764c2da5c90648fcd37688/hls/3f80964c-4fa2-451e-b8fa-372ae71dd8df.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/07fbbbb938564b889e95120a873eb672/8047853e-4578-4aa6-a360-4eb570fe2c66_thumb_001_HD.jpg",سرخط خبرهای سه‌شنبه ۲۸ مهر
-https://daq1pvcuhj77l.cloudfront.net/1/07fbbbb938564b889e95120a873eb672/hls/8047853e-4578-4aa6-a360-4eb570fe2c66.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e2a71d0213084a02b9ae20b4523f85b3/3ed9fdae-ae3e-420d-a12a-44604d2fdafe_thumb_001_HD.jpg",وضعیت بحرانی در پی بسته شدن مرزهای پاکستان به روی ایران
-https://daq1pvcuhj77l.cloudfront.net/1/e2a71d0213084a02b9ae20b4523f85b3/hls/3ed9fdae-ae3e-420d-a12a-44604d2fdafe.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9eafa8c18c5e470487c8940a575e25cc/b61613c6-a496-49b1-9bb7-fddb5e3d61df_thumb_001_HD.jpg",کناره‌گیری بنی گانتس از رقابت‌های انتخاباتی اسرائیل
-https://daq1pvcuhj77l.cloudfront.net/1/9eafa8c18c5e470487c8940a575e25cc/hls/b61613c6-a496-49b1-9bb7-fddb5e3d61df.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/adf4085409004d19bd1d2d88da805c29/b49e6372-9ba5-4864-af3b-1c6bcf9e245d_thumb_001_HD.jpg",گزارش رویترز از تلاش جمهوری اسلامی برای تاثیرگذاری بر انتخابات میان‌دوره‌ای آمریکا
-https://daq1pvcuhj77l.cloudfront.net/1/adf4085409004d19bd1d2d88da805c29/hls/b49e6372-9ba5-4864-af3b-1c6bcf9e245d.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f994f219ab7f434d925933b5e216cc83/e259c990-444e-4405-92d2-01f14b0e291c_thumb_001_HD.jpg",نتانیاهو بر عزم مشترک اسرائیل و آمریکا برای مقابله با جمهوری اسلامی تاکید کرد
-https://daq1pvcuhj77l.cloudfront.net/1/f994f219ab7f434d925933b5e216cc83/hls/e259c990-444e-4405-92d2-01f14b0e291c.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a14b400b5fb244979c01a12838d7e56c/bff548ec-0e00-4c26-9c61-ae91345dbfcc_thumb_001_HD.jpg",اعزام جنگنده‌های بریتانیا به عربستان سعودی برای عملیات دفاعی مقابله با حوثی‌ها
 https://daq1pvcuhj77l.cloudfront.net/1/a14b400b5fb244979c01a12838d7e56c/hls/bff548ec-0e00-4c26-9c61-ae91345dbfcc.m3u8
