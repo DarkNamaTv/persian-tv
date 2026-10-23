@@ -12312,15 +12312,6 @@ https://jmp2.uk/stvp-GBBD3600001NO
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://www.dw.com/images/icons/favicon-540x540.png",DW English
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://i.mjh.nz/.r/dw-news.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="https://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png",Euronews
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
