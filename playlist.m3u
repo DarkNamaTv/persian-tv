@@ -12258,15 +12258,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12501,15 +12492,6 @@ http://media.boni-records.com/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC DANCE BY KONTOR
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-
 #EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC RAP
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12623,6 +12605,69 @@ https://daq1pvcuhj77l.cloudfront.net/1/2430569d48704d98ac553005145348b0/hls/61c5
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/94353361e9cf45ecaa8114927e8aba38/a5bdb363-bfce-4f7c-88d5-c6ca2347ae62_thumb_001_HD.jpg",کاهش مصرف لبنیات به نصف مقدار توصیه‌شده در خانواده‌های ایرانی
 https://daq1pvcuhj77l.cloudfront.net/1/94353361e9cf45ecaa8114927e8aba38/hls/a5bdb363-bfce-4f7c-88d5-c6ca2347ae62.m3u8
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/c3v9288q6ytx8j3l/4efr9qtvxs2mlnc4.jpg",Families with Pride Takes Over Discovery Green: What You Need to Know
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49175375575_49175375792/49175375792/hf-uuid-79fd7de5-d003-4c1d-955f-f453be7b1d4b/49175375792_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/6hi8shvaha38w4nz/8n6lg0hxt1v4huz8.jpg",The Fight to Save Texas Public Schools: Chris Tritico on "The Long Game" Documentary
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49175312106_49175312278/49175312278/hf-uuid-37b07796-35ef-424f-8e9a-85d4d5d8c82d/49175312278_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/jye2e6j204fg4efz/vfjclorwvuye85ca.jpg",They Don't Need Your Keys: How Thieves Are Stealing Cars from Your Driveway
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49175293979_49175294118/49175294118/hf-uuid-21014de4-37f4-454a-bc53-86594ff8ae55/49175294118_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/jvy2ivl07cy5p3vv/8lwgr76l4fkxw5gh.jpg",Houston weather: Warm afternoons, pleasant nights on the way
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49174738339_49174738416/49174738416/hf-uuid-f64d38e6-3f3c-4481-9373-d822133508d3/49174738416_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ti75ymtjx4b4jy6w/hup24fd1wc9llq36.jpg",Vigil calls for man's release after ICE crash
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49173616198_49173616381/49173616381/hf-uuid-900dec2b-9cc0-407c-adb6-d758830180ea/49173616381_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/o183umj2ykyn7ps7/r2tp8u1tcenafyc5.jpg",Ankle monitor gaps prompt push for change
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49173517471_49173517798/49173517798/hf-uuid-427404b7-a4b3-47fe-a151-a3224c35f63b/49173517798_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ketycdjs1wsjxjre/nnxb98mucnc8fkmr.jpg",Houston weather: Lovely temps continue; Halloween rain chances
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49170728039_49171668539/49171668539/hf-uuid-8b13feb7-1682-40f4-bae5-2a24f9b10da8/49171668539_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/yb1s5lqfbomjco0f/36me0285psotmh91.jpg",What happens if late candidate wins Brazoria County election
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49170605418_49170605509/49170605509/hf-uuid-d4782e09-27b3-490d-9f96-fae27c426add/49170605509_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/l7k18fayjfs5n6oc/qdv63yxxz1551oaz.jpg",The Backstage Experience w/ Clayface, Tenzing, COD: MW4 &amp; more!
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49170466976_49170467098/49170467098/hf-uuid-d0f762c6-367b-4dab-8e66-44434c4168bd/49170467098_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/96gtkxkb4s3h9ow5/32h3e0myjldxzgn0.jpg",Houston voters leave stickers on memorial for man killed by ICE
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49170102804_49170102997/49170102997/hf-uuid-34da82cd-c39c-4923-9918-cc70b9f2f90b/49170102997_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/yu40wvz1phlniosr/l6t3uperirbaxwwp.jpg",Fort Bend County official among 3 indicted for alleged fraud
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49169929495_49169929625/49169929625/hf-uuid-9d3ac959-3d3d-4700-b427-d52ffcdb4e0e/49169929625_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/yx1z1fkutyufbsxi/u52zpk58xvnln2rl.jpg",Hispanic Heritage spotlight: Sweet Tooth Snack Stand
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49000646765_49169246346/49169246346/hf-uuid-ad1ac0ad-26c0-4dff-8ad9-f68c0fe5f289/49169246346_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/wtjwgcrzpg4zct1u/whe7h14xw51r8a38.jpg",Houston-area students taste-test future school lunch menus
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49168579177_49168579474/49168579474/hf-uuid-50e39884-c8e8-404a-b7df-3fe2536718e2/49168579474_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/aq5ksy1wkoyppujh/igwnbmre0w705zv4.jpg",Fort Bend County tax assessor, 2 employees federally indicted
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49167559406_49167559586/49167559586/hf-uuid-6ae70a16-db7a-4470-8c3a-c6f473fb54c3/49167559586_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/vyt8i0y5aqn1nnga/83yxnop3wm8deor6.jpg",NC House Races, Tarrant County TX &amp; Midterm News
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49166415808_49166420711/49166420711/hf-uuid-c30ed855-9be1-4539-8299-4ad63a2ceda7/49166420711_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/y60sd9whpp59lyy3/8t66usqj2pifk2id.jpg",United Airlines opens new concourse in Bush Airport
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49166701638_49166701728/49166701728/hf-uuid-8ac9cfa9-70f2-4015-95eb-289c01ddc326/49166701728_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ulkx3kgpn2vnmojf/mmejgzjm1kc402yw.jpg",Theresa Roemer &amp; Vivica A. Fox Are Taking Over Fashion Woodlands
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49164627581_49164627841/49164627841/hf-uuid-e5935a4b-f757-4543-b802-9a3e6aaf281c/49164627841_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ka955l9gbw8xrd0m/y4c85daoc6fndw12.jpg", How do kids become racist? Dr. Angela Jones breaks down student slur video
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49164599726_49164599953/49164599953/hf-uuid-1f1eedd8-9ddc-4cdc-9646-83ae26e600a8/49164599953_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/m43yyuu1he79jffs/3jjnp6al2q4e53un.jpg",Who pays for protection of lawmakers? Rep. Al Green breaks down the taxpayer burden
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49164434972_49164435155/49164435155/hf-uuid-fe0de49f-114f-446d-934b-04ee9d2413ae/49164435155_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/quomy4d0pi0f4jjm/vio25zsb5vrx6eir.jpg",Harris County Sheriff's Office provides update on ICE crash
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49163700887_49163701096/49163701096/hf-uuid-ea524234-f589-488b-94b4-fdbfc8b49dc7/49163701096_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/qlepmzb3uu3zkw0i/63jfwy5nx47jv8rw.jpg",Houston weather: Beautiful Thursday ahead, Air Quality Alert in effect
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49161074187_49161074256/49161074256/hf-uuid-1d32ad4d-41a6-4479-8d6f-fe7d377b4f7b/49161074256_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/00k20lwse03y0d61/9p6jke6oupa2p9w3.jpg",Houston Halloween Bar Hop: Haunted Cocktails, Mad Scientists &amp; Drunk Dracula
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49154157032_49154157148/49154157148/hf-uuid-e585bb5d-5ab9-4d07-b5f6-cdbf217de86d/49154157148_lowres.mp4
@@ -13461,69 +13506,6 @@ https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_4
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/vbmvv7s3hqjbp6b3/z9meei4hes39m5gr.jpg",Messages of hope in St. Jude Dream Home
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48850440968_48850441066/48850441066/hf-uuid-5e11faa4-7ade-4763-839b-4fd004c7ad7c/48850441066_lowres.mp4
 
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/4qpgpag9t7sxn9df/6kuleg49lx81uedl.jpg",How the St. Jude Dream Home Giveaway helps families
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48850407090_48850409470/48850409470/hf-uuid-f98ac475-0369-4bbb-ab26-f097a9000cbd/48850409470_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/2rntrkxneg305czh/rqx0v3jaxihy7ljj.jpg",Floor signing at St. Jude Dream Home in Richmond
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48849870683_48849870885/48849870885/hf-uuid-d7ac5f56-c1d0-4fb7-8bb4-cae9f1b00578/48849870885_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/7b850c9ahaen1xtu/yunmgy7dlpqqbn7n.jpg",Early mammogram caught breast cancer, doctors urge screening
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48847779509_48847779608/48847779608/hf-uuid-2e6fe20c-7f2f-418a-9122-444ac7704a0e/48847779608_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/dara65esrx16k8es/vljoarsgc89x8v69.jpg",Tropical Storm Isaias forms in the Gulf, expected to become hurricane
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48847257430_48847257506/48847257506/hf-uuid-c4e93cfd-cb03-48b5-8cf9-13a27bdcdde8/48847257506_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/vqqs5b7n5k84qpyt/vjt13dt8idl2nep3.jpg",Houston weather: Watching Tropical Depression 9 strengthen in the Gulf
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48846231643_48846231747/48846231747/hf-uuid-5c20e2b4-4cbe-4ea4-9d3d-7a9714a8853a/48846231747_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/yq5ppnngw8zdd3p8/vjjb6mfnrjfxoe14.jpg",Are We Finally Beating the Deadly Fentanyl Epidemic? PLUS: Is your Gatorade recalled?
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48840394883_48840395063/48840395063/hf-uuid-fad6fc55-9cf6-4f62-bc66-c5669ba08520/48840395063_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/obb9253pu04cs5af/kdtvj3dv6tdnfnws.jpg",Fast-Tracking Protection: How Harris County is Cracking Down on Deadly Abusers
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48840345145_48840345470/48840345470/hf-uuid-f0c8eb49-3d61-4e85-af00-ec61ce7cb43f/48840345470_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/rrvbyrnhw56dczlp/g6aolju7wv82sif1.jpg",Who spends more in a marriage—men or women?
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48840074960_48840075154/48840075154/hf-uuid-331d18e7-074c-43fe-808a-bc55ced0408c/48840075154_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/b65ym05egjzeotc8/n9lumzhvgyknfwjb.jpg",FOX 26 viewer donates $3,000 to Fort Bend County Animal Services
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48839371264_48839371430/48839371430/hf-uuid-9c818702-0842-453a-b6c6-8b1b7d0ff064/48839371430_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/eh9lv7zcyce2m8xf/7uw5c0yqtfrmhalw.jpg",Houston weather: Watching Tropical Depression Nine, current weather pattern to continue
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48838901756_48838901912/48838901912/hf-uuid-550489c3-ac80-4cee-a6c0-89ee853234f3/48838901912_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/77nxbnx6v3szc16f/2g7t3p0al8f0vu8i.jpg",Houston neighborhoods meet law enforcement during National Night Out
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48838808334_48838808499/48838808499/hf-uuid-3e7b049a-307e-4a4f-a04a-ca5c4553423b/48838808499_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/q64sj5lcbscazxdl/mpw7qi8n7qbaufoh.jpg",Vigil honors domestic violence victims
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48838679359_48838680015/48838680015/hf-uuid-c4889b4f-4ea9-4793-81c2-3ce9d0b5eeea/48838680015_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/y6x2ckgxdplxg9d2/0d9to7oocfe94cg8.jpg",FULL INTERVIEW: Royce Witchet family members speak out
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48836736640_48836736842/48836736842/hf-uuid-a4abaa8a-fdb2-4144-8162-5d81bf70e350/48836736842_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/9gkj8y3ntxz5o6pz/p0yis3p76obasd1d.jpg",Fort Bend ISD's new school boundaries impact almost 700 students
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48836579243_48836579474/48836579474/hf-uuid-1f998cb3-3d4f-45a0-aeab-dd4a9edad371/48836579474_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/0ier1tohruyys470/122jfia4ehx2w3x3.jpg",Houston weather: Nice weather pattern to continue, watching TD Nine
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48836497843_48836498032/48836498032/hf-uuid-6171f93a-f090-4732-b76b-2306b70750bf/48836498032_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/h8a0apbvflwqo75u/y33vjdytm6bf4cgm.jpg",TSU Science Building reopens amid mold concerns
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48836249219_48836249390/48836249390/hf-uuid-0e338612-68ef-48dc-8786-4ad6ef60a04d/48836249390_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/5tdbm7x7a9j9rkr6/mbqos2l57ofobv5b.jpg",Parents of Royce Witchet speak out, students walk out
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48835895171_48835895371/48835895371/hf-uuid-3a8b8cae-3c5d-4fdc-8085-166fdcbfdd14/48835895371_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/jwyeun59mtjbd11h/ocnn5a6mb3greq1z.jpg",Federal judge rules against Klein ISD
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48835610149_48835902195/48835902195/hf-uuid-656daf25-f685-4712-83da-2001a1bf792c/48835902195_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/5qrz3o4jn79ob9te/yeyng50xx8csbvta.jpg",Federal judge rules against Klein ISD
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48835610149_48835610454/48835610454/hf-uuid-3a627196-8c7a-454e-9879-b281797aa778/48835610454_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/1g004nspx7ll20em/13ip3s18esep5555.jpg",Trump’s TX Blitz, NH Senate Race &amp; “Double Haters”
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48830965292_48830969833/48830969833/hf-uuid-f45ef48e-3d26-439e-a2df-45dbaa9fead7/48830969833_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/jtdctnxchapxx64v/7y992smzbtcs7j1y.jpg",TRUMP: "TAKE OUT LA" | D.C. Daily
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48830125896_48830175344/48830175344/hf-uuid-c5cc22b8-f40f-4513-94fc-a2c35d205367/48830175344_lowres.mp4
-
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/israel-tv@main/logos/keshet12.png" group-title="📡 اسرائیل",Keshet 12
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -14163,15 +14145,6 @@ https://iptv.mihantv.com/mihantv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://tv.iraniancongress.com/stream/tv.m3u8
 
-#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" tvg-id="PressTV.ir@SD",Press TV
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://live.presstv.co.uk/hls/presstv.m3u8
-
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/TmqComb.png" tvg-id="VoATVPersian.us@SD",VOA Persian
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -14261,42 +14234,6 @@ https://itnhls.wns.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://avaserieshls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" tvg-id="iFilm2.ir@SD",iFilm 2
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://live.presstv.co.uk/hls/ifilm2.m3u8
-
-#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmArabic.ir@SD",iFilm Arabic
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://live.presstv.co.uk/hls/ifilmar.m3u8
-
-#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmEnglish.ir@SD",iFilm English
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://live.presstv.co.uk/hls/ifilmen.m3u8
-
-#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmPersian.ir@SD",iFilm Persian
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://live.presstv.co.uk/hls/ifilmfa.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/persian-tv@master/logos/afrafilm.jpg" tvg-id="AfraFilm.ir@SD",Afra Film
 #EXTVLCOPT:network-caching=2000
