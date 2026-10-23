@@ -14163,6 +14163,15 @@ https://iptv.mihantv.com/mihantv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://tv.iraniancongress.com/stream/tv.m3u8
 
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" tvg-id="PressTV.ir@SD",Press TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/presstv.m3u8
+
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/TmqComb.png" tvg-id="VoATVPersian.us@SD",VOA Persian
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -14252,6 +14261,42 @@ https://itnhls.wns.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" tvg-id="iFilm2.ir@SD",iFilm 2
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmArabic.ir@SD",iFilm Arabic
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmEnglish.ir@SD",iFilm English
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmPersian.ir@SD",iFilm Persian
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/persian-tv@master/logos/afrafilm.jpg" tvg-id="AfraFilm.ir@SD",Afra Film
 #EXTVLCOPT:network-caching=2000
