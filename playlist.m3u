@@ -12492,6 +12492,15 @@ http://media.boni-records.com/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
+#EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC DANCE BY KONTOR
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
 #EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC RAP
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12509,6 +12518,15 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b314252cc5b9470aae3ee76f568d5eeb/55b3b4db-e3fa-4bbf-9b19-fd8400fc54ea_thumb_001_HD.jpg",خلاصه بازی چادرملو-استقلال با گزارش مزدک میرزایی
+https://daq1pvcuhj77l.cloudfront.net/1/b314252cc5b9470aae3ee76f568d5eeb/hls/55b3b4db-e3fa-4bbf-9b19-fd8400fc54ea.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c7695c75d2dd4773825f2fff0bbb0b3f/ccc1e9f7-3300-4cde-b5e5-f625ba2e7fe6_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/c7695c75d2dd4773825f2fff0bbb0b3f/hls/ccc1e9f7-3300-4cde-b5e5-f625ba2e7fe6.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9c99041ffffe4404823bfebe2b57efac/7a8d6d53-cd45-48e1-80ff-c61b80e077d7_thumb_001_HD.jpg",حرف آخر با پوریا زراعتی - جزئیات ۴۸ ساعت اول حمله‌ی آبان ماه
+https://daq1pvcuhj77l.cloudfront.net/1/9c99041ffffe4404823bfebe2b57efac/hls/7a8d6d53-cd45-48e1-80ff-c61b80e077d7.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/244ab43da2854180bd65ff142d8b46e8/b2f93314-8888-450b-8e21-6e66714ecd30_thumb_001_HD.jpg",هشدار فوری نروژ به شهروندانش: به ایران سفر نکنید؛ اگر در ایران هستید، این کشور را ترک کنید
 https://daq1pvcuhj77l.cloudfront.net/1/244ab43da2854180bd65ff142d8b46e8/hls/b2f93314-8888-450b-8e21-6e66714ecd30.m3u8
