@@ -7929,366 +7929,6 @@ https://sepehr-vod-proxy.samhouston010.workers.dev/play/351044
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://sepehr-vod-proxy.samhouston010.workers.dev/play/351043
 
-#EXTINF:-1 tvg-id="sepehrvod351042" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7193.jpg" group-title="🎬 سپهر VOD",[مذهبی] راه علاج پیشرفت کشور، قوی شدن است
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351042
-
-#EXTINF:-1 tvg-id="sepehrvod351040" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7191.jpg" group-title="🎬 سپهر VOD",[مذهبی] نماهنگ - حافظ شعر ایران
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351040
-
-#EXTINF:-1 tvg-id="sepehrvod351038" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7189.jpg" group-title="🎬 سپهر VOD",[مذهبی] «پنجره»ای به رویداد ملّی «ایران همدل»
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351038
-
-#EXTINF:-1 tvg-id="sepehrvod351035" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7186.jpg" group-title="🎬 سپهر VOD",[مذهبی] یک ایران همدل شد
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351035
-
-#EXTINF:-1 tvg-id="sepehrvod351034" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7185.jpg" group-title="🎬 سپهر VOD",[مذهبی] راه نصرالله
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351034
-
-#EXTINF:-1 tvg-id="sepehrvod351033" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7184.jpg" group-title="🎬 سپهر VOD",[مذهبی] مسیر ۵ ساله ایران همدل
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351033
-
-#EXTINF:-1 tvg-id="sepehrvod351032" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7183.jpg" group-title="🎬 سپهر VOD",[مذهبی] یک ایران همدل است
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351032
-
-#EXTINF:-1 tvg-id="sepehrvod351031" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7182.jpg" group-title="🎬 سپهر VOD",[مذهبی] پیگیری تا سرانگشت‌ها
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351031
-
-#EXTINF:-1 tvg-id="sepehrvod351030" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7181.jpg" group-title="🎬 سپهر VOD",[مذهبی] به قول ما مشهدی‌ها...
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351030
-
-#EXTINF:-1 tvg-id="sepehrvod351029" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7180.jpg" group-title="🎬 سپهر VOD",[مذهبی] عهد عاشقانه
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351029
-
-#EXTINF:-1 tvg-id="sepehrvod351028" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7179.jpg" group-title="🎬 سپهر VOD",[مذهبی] بی‌عرضه‌ها!
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351028
-
-#EXTINF:-1 tvg-id="sepehrvod351027" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7178.jpg" group-title="🎬 سپهر VOD",[مذهبی] این جوانهای فوق‌العاده ایرانی
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351027
-
-#EXTINF:-1 tvg-id="sepehrvod351026" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7177.jpg" group-title="🎬 سپهر VOD",[مذهبی] ۹ توصیه برای اقتصاد کشور
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351026
-
-#EXTINF:-1 tvg-id="sepehrvod351025" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7176.jpg" group-title="🎬 سپهر VOD",[مذهبی] عزم راسخ، کار دشوار؛ شادمانی ملّت، آبرومندی کشور
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351025
-
-#EXTINF:-1 tvg-id="sepehrvod351024" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7175.jpg" group-title="🎬 سپهر VOD",[مذهبی] «پنجره»ای به سلام نظامی هنگام اهتزاز پرچم ایران در سالن مسابقات
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351024
-
-#EXTINF:-1 tvg-id="sepehrvod351023" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7174.jpg" group-title="🎬 سپهر VOD",[مذهبی] «پنجره»ای به قهرمانی مقتدرانه و احترام به پرچم مقدس ایران
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351023
-
-#EXTINF:-1 tvg-id="sepehrvod351022" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7173.jpg" group-title="🎬 سپهر VOD",[مذهبی] «پنجره»ای به دلاوری‌های کشتی‌گیران تیم ملی جمهوری اسلامی ایران
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351022
-
-#EXTINF:-1 tvg-id="sepehrvod351021" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7172.jpg" group-title="🎬 سپهر VOD",[مذهبی] روحیه کار و تلاش را بر حالت «نه جنگ، نه صلح» غلبه بدهیم
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351021
-
-#EXTINF:-1 tvg-id="sepehrvod351020" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7171.jpg" group-title="🎬 سپهر VOD",[مذهبی] شهریار؛ افتخار ادب فارسی
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351020
-
-#EXTINF:-1 tvg-id="sepehrvod351019" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7170.jpg" group-title="🎬 سپهر VOD",[مذهبی] پیامی برای ادامه مسیر
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351019
-
-#EXTINF:-1 tvg-id="sepehrvod351018" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7169.jpg" group-title="🎬 سپهر VOD",[مذهبی] مؤلفه قدرت
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351018
-
-#EXTINF:-1 tvg-id="sepehrvod351016" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7167.jpg" group-title="🎬 سپهر VOD",[مذهبی] «پنجره»ای به سفر تیم ملی کشتی به مشهد مقدس قبل از مسابقات جهانی
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351016
-
-#EXTINF:-1 tvg-id="sepehrvod351015" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7166.jpg" group-title="🎬 سپهر VOD",[مذهبی] نماهنگ - آفرین بر شما
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351015
-
-#EXTINF:-1 tvg-id="sepehrvod351014" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7165.jpg" group-title="🎬 سپهر VOD",[مذهبی] «پنجره»ای به معرفی جمهوری اسلامی ایران به عنوان قهرمان کشتی جهان
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351014
-
-#EXTINF:-1 tvg-id="sepehrvod351013" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7164.jpg" group-title="🎬 سپهر VOD",[مذهبی] «پنجره»ای به حضور قهرمانان تیم ملی کشتی در حرم مطهر رضوی
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351013
-
-#EXTINF:-1 tvg-id="sepehrvod351012" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7163.jpg" group-title="🎬 سپهر VOD",[مذهبی] راوی قدرت باشید
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351012
-
-#EXTINF:-1 tvg-id="sepehrvod351011" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7162.jpg" group-title="🎬 سپهر VOD",[مذهبی] اولویت با معیشت مردم است
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351011
-
-#EXTINF:-1 tvg-id="sepehrvod351007" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7158.jpg" group-title="🎬 سپهر VOD",[مذهبی] نماهنگ - اتحاد مقدس
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351007
-
-#EXTINF:-1 tvg-id="sepehrvod351002" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7153.jpg" group-title="🎬 سپهر VOD",[مذهبی] تشکر ویژه عصر امروز رهبر انقلاب از رئیس جمهور محترم و اشاره به سفر اخیر ایشان به چین
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351002
-
-#EXTINF:-1 tvg-id="sepehrvod351000" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7151.jpg" group-title="🎬 سپهر VOD",[مذهبی] نماهنگ - لو داد!
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351000
-
-#EXTINF:-1 tvg-id="sepehrvod350991" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7142.jpg" group-title="🎬 سپهر VOD",[مذهبی] برای طلوع خورشید - آرمانهای امام زمان، آرمانهای عمومی انسان است
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350991
-
-#EXTINF:-1 tvg-id="sepehrvod350990" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7141.jpg" group-title="🎬 سپهر VOD",[مذهبی] برای طلوع خورشید - یکی از بزرگترین و ممتازترین دعاها، دعا برای وجود مقدس ولی‌عصر ارواحنا فداه است
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350990
-
-#EXTINF:-1 tvg-id="sepehrvod350988" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7139.jpg" group-title="🎬 سپهر VOD",[مذهبی] اتحاد مقدس نباید خدشه‌دار بشود
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350988
-
-#EXTINF:-1 tvg-id="sepehrvod350985" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7136.jpg" group-title="🎬 سپهر VOD",[مذهبی] روایت رهبر انقلاب از آشنایی و ارتباط با مرحوم ابوترابی
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350985
-
-#EXTINF:-1 tvg-id="sepehrvod350984" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7135.jpg" group-title="🎬 سپهر VOD",[مذهبی] تقریظ رهبر انقلاب بر کتاب «پاسیاد پسر خاک»
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350984
-
-#EXTINF:-1 tvg-id="sepehrvod350982" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7133.jpg" group-title="🎬 سپهر VOD",[مذهبی] خیابان کشوردوست - دیدار مردم با رهبر انقلاب در روز شهادت امام رضا علیه‌السلام
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350982
-
-#EXTINF:-1 tvg-id="sepehrvod350981" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7132.jpg" group-title="🎬 سپهر VOD",[مذهبی] پادپخش تصویری - یادِ شاه بی‌غیرت
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350981
-
-#EXTINF:-1 tvg-id="sepehrvod350979" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7130.jpg" group-title="🎬 سپهر VOD",[مذهبی] پادپخش تصویری - یادِ مرد پولادین انقلاب
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350979
-
-#EXTINF:-1 tvg-id="sepehrvod350977" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7128.jpg" group-title="🎬 سپهر VOD",[مذهبی] «خط دیدار» مراسم عزاداری شهادت امام رضا علیه‌السلام
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350977
-
-#EXTINF:-1 tvg-id="sepehrvod350972" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7123.jpg" group-title="🎬 سپهر VOD",[مذهبی] انتشار تقریظ رهبر انقلاب بر کتاب «پاسیاد پسر خاک» در رویداد ملی «آزادگان ایران»
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/350972
-
 #EXTINF:-1 tvg-id="sepehrvod17240" tvg-logo="" group-title="🎬 سپهر VOD",[مناسبتی] مرد میدان ۱۴
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12267,15 +11907,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12537,95 +12168,98 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3fd76829fde846fdaf185b90a00c7c27/0825362e-2275-4091-90d9-6e2731902197_thumb_001_HD.jpg",گزارش روز با مجتبا پورمحسن: تدارک ناوهای آمریکایی برای حمله به ایران با مهمات سنگین
-https://daq1pvcuhj77l.cloudfront.net/1/3fd76829fde846fdaf185b90a00c7c27/hls/0825362e-2275-4091-90d9-6e2731902197.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c20890497c3b44378ed7c936d7842fb1/af92dcac-18ca-429e-92bb-a54655cbdc14_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، یک‌شنبه ۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/c20890497c3b44378ed7c936d7842fb1/hls/af92dcac-18ca-429e-92bb-a54655cbdc14.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/32a67b79b98f4b849adf61acb08898a2/bcf9d0c8-d7b8-4ffd-a395-5a6ce0d11d3a_thumb_001_HD.jpg",ترامپ در تدارک خشم حماسی دوم؛ تدارک ناوهای آمریکایی برای حمله به ایران با مهمات سنگین
-https://daq1pvcuhj77l.cloudfront.net/1/32a67b79b98f4b849adf61acb08898a2/hls/bcf9d0c8-d7b8-4ffd-a395-5a6ce0d11d3a.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5485d20afbff49ea9eaa4cfe8e252b12/02f8cc3c-243b-4d65-bd8a-dc13f6cb93cd_thumb_001_HD.jpg",شایان سمیعی: میانجی‌گری قطر ممکن است خطر جنگ را کاهش دهد، اما به حل بحران منجر نمی‌شود
+https://daq1pvcuhj77l.cloudfront.net/1/5485d20afbff49ea9eaa4cfe8e252b12/hls/02f8cc3c-243b-4d65-bd8a-dc13f6cb93cd.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/54ee65abaf42446b88ba44d1a2ff0c4a/4a11764a-bea4-43e9-84fe-6870a1c3ba9c_thumb_001_HD.jpg",اخبار عصرگاهی | شنبه ۲ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/54ee65abaf42446b88ba44d1a2ff0c4a/hls/4a11764a-bea4-43e9-84fe-6870a1c3ba9c.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8708208c952443e7b7189eab07026e6e/bdeefdc9-6a30-40a2-a7a1-561f43c101d7_thumb_001_HD.jpg",مسابقات ژیمناستیک هنری قهرمانی جهان در روتردام 
+https://daq1pvcuhj77l.cloudfront.net/1/8708208c952443e7b7189eab07026e6e/hls/bdeefdc9-6a30-40a2-a7a1-561f43c101d7.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/388cb19b372f48c596b9ca79e35011ec/1d65bb43-eaf4-4748-9336-fe4d8cf7b52f_thumb_001_HD.jpg",افزایش ۴۰ درصدی قیمت بسته‌های اینترنت همراه در ایران با وجود افت کیفیت خدمات
-https://daq1pvcuhj77l.cloudfront.net/1/388cb19b372f48c596b9ca79e35011ec/hls/1d65bb43-eaf4-4748-9336-fe4d8cf7b52f.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ccd10692f38f4baa817112c4eb8a121f/56d3a4e7-d6e7-4f63-8540-a82b71d91860_thumb_001_HD.jpg",اخبار عصرگاهی | یکشنبه ۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/ccd10692f38f4baa817112c4eb8a121f/hls/56d3a4e7-d6e7-4f63-8540-a82b71d91860.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7f4d716983bf477285e20aeb5c653e9f/e44fd898-fbdc-46d4-91df-25b8641fdd67_thumb_001_HD.jpg",حمایت ۱۷۱ کنشگر و زندانی سیاسی در ایران از شاهزاده رضا پهلوی
-https://daq1pvcuhj77l.cloudfront.net/1/7f4d716983bf477285e20aeb5c653e9f/hls/e44fd898-fbdc-46d4-91df-25b8641fdd67.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/dd650ffeee9246098f35f2ade333b581/c7a80de0-213c-4c3a-b0a7-e5aa8fe3f1e5_thumb_001_HD.jpg",سرخط خبرهای یکشنبه ۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/dd650ffeee9246098f35f2ade333b581/hls/c7a80de0-213c-4c3a-b0a7-e5aa8fe3f1e5.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f7ec1f0573e84768bd3ce1c5240e930b/15c86071-26a8-4433-ae75-7b600427c63a_thumb_001_HD.jpg",سرخط خبرهای شنبه ۲ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/f7ec1f0573e84768bd3ce1c5240e930b/hls/15c86071-26a8-4433-ae75-7b600427c63a.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/48016f287e9d4abab1a9c9b76f115f63/72991bb0-0715-436d-a0e7-9eceaf74c0a9_thumb_001_HD.jpg",آلمان با ۱۰ افسر و دو هواپیمای سوخت‌رسان در رزمایش ائتلاف حامی اوکراین شرکت می‌کند
+https://daq1pvcuhj77l.cloudfront.net/1/48016f287e9d4abab1a9c9b76f115f63/hls/72991bb0-0715-436d-a0e7-9eceaf74c0a9.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4bb4994df48e401c9eed47c9c412dcfc/57d4add6-2afc-4675-b22b-1d555cb23c66_thumb_001_HD.jpg",تداوم اعتراضات ایرانیان در استکهلم پس از نزدیک به ۱۰ ماه
-https://daq1pvcuhj77l.cloudfront.net/1/4bb4994df48e401c9eed47c9c412dcfc/hls/57d4add6-2afc-4675-b22b-1d555cb23c66.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a54ca3efe33b46e4babffe6e3fe70125/653b53ce-da12-4d72-a8b0-e9d0d847e55c_thumb_001_HD.jpg",هشدار نتانیاهو با انتشار تصویری از انفجار اتمی در تل‌آویو درباره تهدید جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/a54ca3efe33b46e4babffe6e3fe70125/hls/653b53ce-da12-4d72-a8b0-e9d0d847e55c.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9bf99d0a083a4de9b1880ca80c96dbc7/8029cce6-2725-484d-ab6e-d20c3252a4d9_thumb_001_HD.jpg",اعلام آمادگی آلمان، بریتانیا و فرانسه برای مذاکره هسته‌ای با جمهوری اسلامی
-https://daq1pvcuhj77l.cloudfront.net/1/9bf99d0a083a4de9b1880ca80c96dbc7/hls/8029cce6-2725-484d-ab6e-d20c3252a4d9.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d342fd6e7aec4a86bba12f9b9b91aca9/374e305f-c9d1-4b00-bff3-cb5c82475064_thumb_001_HD.jpg",درهای کاخ رضاشاه در کلاردشت پس از سال‌ها به روی مردم باز شد
+https://daq1pvcuhj77l.cloudfront.net/1/d342fd6e7aec4a86bba12f9b9b91aca9/hls/374e305f-c9d1-4b00-bff3-cb5c82475064.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/da1768e1613e47a2b0f9a417aad0c6d4/409660a1-a712-4ffd-b733-52c9f1de8188_thumb_001_HD.jpg",چهارمین سالگرد تاسیس جبهه هفت آبان
-https://daq1pvcuhj77l.cloudfront.net/1/da1768e1613e47a2b0f9a417aad0c6d4/hls/409660a1-a712-4ffd-b733-52c9f1de8188.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/864beed782a0417b8871d35061e9fe75/0936f8a4-7f7d-4b27-a08d-5a1a3a2c3f45_thumb_004_HD.jpg",فروغ کنعانی: ارجاع قالیباف به خاندان پهلوی، نشانه نگرانی جمهوری اسلامی از آلترناتیو است
+https://daq1pvcuhj77l.cloudfront.net/1/864beed782a0417b8871d35061e9fe75/hls/0936f8a4-7f7d-4b27-a08d-5a1a3a2c3f45.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b61ede5600aa490ebdc35f8ee3cb30da/79ef5e9b-7509-4ad5-87c1-e5fb9d309a28_thumb_001_HD.jpg",آمران کشتار؛ بخش ششم: جنایات علیه بشریت
-https://daq1pvcuhj77l.cloudfront.net/1/b61ede5600aa490ebdc35f8ee3cb30da/hls/79ef5e9b-7509-4ad5-87c1-e5fb9d309a28.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/46cdeb6bc1064f3693ab7d5c6b6d8e64/ad1c142e-533d-4cb0-890f-cadfa859e0ef_thumb_001_HD.jpg",ولودیمیر زلنسکی از حملات گسترده روسیه به اوکراین خبر داد
+https://daq1pvcuhj77l.cloudfront.net/1/46cdeb6bc1064f3693ab7d5c6b6d8e64/hls/ad1c142e-533d-4cb0-890f-cadfa859e0ef.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7ab297d947f1491fad7e1f8b8939ec0c/9cb6473b-be07-4887-90c8-819972302e6a_thumb_001_HD.jpg",فرانسه در آستانه دور جدید اعتراضات گسترده
-https://daq1pvcuhj77l.cloudfront.net/1/7ab297d947f1491fad7e1f8b8939ec0c/hls/9cb6473b-be07-4887-90c8-819972302e6a.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c7dbc4034cad4654b7febd9a423a4d49/e871fd86-0832-423b-aa32-943f6aa76bda_thumb_001_HD.jpg",اخبار نیمروزی | یکشنبه ۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/c7dbc4034cad4654b7febd9a423a4d49/hls/e871fd86-0832-423b-aa32-943f6aa76bda.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ff31822b8c0a4de48484b4d0b554ab48/8f9d1fb9-5c3d-4a57-a419-0e9ca83fc26c_thumb_001_HD.jpg",بنیامین نتانیاهو، مشهور به بی‌بی
-https://daq1pvcuhj77l.cloudfront.net/1/ff31822b8c0a4de48484b4d0b554ab48/hls/8f9d1fb9-5c3d-4a57-a419-0e9ca83fc26c.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4d5a6832c34f47c49bd9a940a82c01d2/77c53e89-7ff0-485c-9ab7-e415af29355a_thumb_001_HD.jpg",مروری بر روزنامه‌های ایران، یکشنبه ۳ آبان با مجتبی هاشمی
+https://daq1pvcuhj77l.cloudfront.net/1/4d5a6832c34f47c49bd9a940a82c01d2/hls/77c53e89-7ff0-485c-9ab7-e415af29355a.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6a0ad8598d0e445ab91d48935f89953b/686ad634-0bb4-4208-acb9-2eef1a74d845_thumb_001_HD.jpg",مروری بر روزنامه‌های ایران، شنبه ۲ آبان با مجتبی هاشمی
-https://daq1pvcuhj77l.cloudfront.net/1/6a0ad8598d0e445ab91d48935f89953b/hls/686ad634-0bb4-4208-acb9-2eef1a74d845.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f951c8a26f7641e5bc9dba312e4b2307/a79b56b5-fe71-4a4c-bec4-daf653f6f5a4_thumb_001_HD.jpg",بن‌بست انتخاباتی در اسرائیل؛ پیش‌بینی نبود اکثریت پارلمانی برای ائتلاف‌ها
+https://daq1pvcuhj77l.cloudfront.net/1/f951c8a26f7641e5bc9dba312e4b2307/hls/a79b56b5-fe71-4a4c-bec4-daf653f6f5a4.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3f48857759c24309a04471d6dcbd5f3d/51d70642-0bf7-4bc2-9b1f-6b8c9082fd14_thumb_001_HD.jpg",اخبار نیمروزی | شنبه ۲ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/3f48857759c24309a04471d6dcbd5f3d/hls/51d70642-0bf7-4bc2-9b1f-6b8c9082fd14.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/df90ee488d584c96bb07a93cef770da8/2ce05885-4c51-43ff-b71b-55fab3e88823_thumb_001_HD.jpg",سرخط خبرهای یکشنبه ۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/df90ee488d584c96bb07a93cef770da8/hls/2ce05885-4c51-43ff-b71b-55fab3e88823.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/69e997aba62243c29771f82a430f269d/7a0ec867-25de-416b-bffc-2c9f024ed842_thumb_001_HD.jpg",نظرسنجی‌های انتخابات اسرائیل؛ هیچ جناحی اکثریت را ندارد
-https://daq1pvcuhj77l.cloudfront.net/1/69e997aba62243c29771f82a430f269d/hls/7a0ec867-25de-416b-bffc-2c9f024ed842.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/bacfc69906524fddba4955b9bc613204/31f214af-590c-49b2-96b7-c95ea47c6249_thumb_001_HD.jpg",صربستان در پی ماه‌ها اعتراض ضد دولتی، انتخابات زودهنگام پارلمانی برگزار می‌کند
+https://daq1pvcuhj77l.cloudfront.net/1/bacfc69906524fddba4955b9bc613204/hls/31f214af-590c-49b2-96b7-c95ea47c6249.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/37b149aea1b54f3db37af8e73ee2ce52/a00b6043-e3a8-4499-bc7e-6df00f1c67e7_thumb_001_HD.jpg",علی شیرازی: کیهان احتمال قیام مردمی همزمان با حملات آمریکا و اسرائیل را جدی می‌داند
-https://daq1pvcuhj77l.cloudfront.net/1/37b149aea1b54f3db37af8e73ee2ce52/hls/a00b6043-e3a8-4499-bc7e-6df00f1c67e7.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b1702575017f4a9181f7ec2a3371373b/65576ea9-bf61-45c8-8787-fe11c67b9a9e_thumb_001_HD.jpg",علی شیرازی: عراقچی بر تداوم سیاست‌های ضداسرائیلی و ضدآمریکایی جمهوری اسلامی تاکید دارد
+https://daq1pvcuhj77l.cloudfront.net/1/b1702575017f4a9181f7ec2a3371373b/hls/65576ea9-bf61-45c8-8787-fe11c67b9a9e.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f29d20f15b614a5fbb6e80f298842116/5655750c-a966-4d13-9dc7-b4a72e01098b_thumb_001_HD.jpg",سرخط خبرهای شنبه ۲ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/f29d20f15b614a5fbb6e80f298842116/hls/5655750c-a966-4d13-9dc7-b4a72e01098b.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/cad62752f9754ca8855b66be06f41a49/b90b0998-fe1f-4056-8c9f-c4769b6c04b6_thumb_001_HD.jpg",صبا آلاله: بحران‌های ممتد اقتصادی و اجتماعی سلامت روان ایرانیان را فرسوده کرده است
+https://daq1pvcuhj77l.cloudfront.net/1/cad62752f9754ca8855b66be06f41a49/hls/b90b0998-fe1f-4056-8c9f-c4769b6c04b6.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/afe8ea6f6f2b45d4b1904e8b33fb22a5/0c64fae1-9c9d-4513-8cf2-2a07b094af0d_thumb_001_HD.jpg",کانادا در بن‌بست مذاکرات تجاری با آمریکا؛ تلاش برای کاهش وابستگی اقتصادی به واشینگتن
-https://daq1pvcuhj77l.cloudfront.net/1/afe8ea6f6f2b45d4b1904e8b33fb22a5/hls/0c64fae1-9c9d-4513-8cf2-2a07b094af0d.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2176e8698e9745ca879b4a3dba2b3ad8/15fe04af-9264-4e3b-b2ce-d535f8b9a3db_thumb_001_HD.jpg",ارتش اسرائیل رزمایش نظامی با مشارکت چهار لشکر و نیروی هوایی برگزار می‌کند
+https://daq1pvcuhj77l.cloudfront.net/1/2176e8698e9745ca879b4a3dba2b3ad8/hls/15fe04af-9264-4e3b-b2ce-d535f8b9a3db.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9a41f9baecd74076b0be5df85e27af71/08ee5c7e-5b81-4876-b56a-03b3343b05aa_thumb_001_HD.jpg",هشدار نروژ به شهروندانش درباره سفر به ایران
-https://daq1pvcuhj77l.cloudfront.net/1/9a41f9baecd74076b0be5df85e27af71/hls/08ee5c7e-5b81-4876-b56a-03b3343b05aa.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/73bb7e59e69741e5bb28ae5f2cf21ebc/8dce4635-f19c-478d-8dd1-7679e7a27325_thumb_001_HD.jpg",تداوم اعتراضات ایرانیان مقیم استکهلم با هدف مخالفت با جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/73bb7e59e69741e5bb28ae5f2cf21ebc/hls/8dce4635-f19c-478d-8dd1-7679e7a27325.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a0b19fdc8e9446d896d9e7ccff625740/c98d2e09-3f99-4b03-8ee8-40a37ea2b832_thumb_001_HD.jpg",نشست استانبول؛ تاکید بر دیپلماسی برای جلوگیری از جنگ تازه با جمهوری اسلامی
-https://daq1pvcuhj77l.cloudfront.net/1/a0b19fdc8e9446d896d9e7ccff625740/hls/c98d2e09-3f99-4b03-8ee8-40a37ea2b832.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/aa166e7beded4aa8af7e4066a03d5ebe/7310114c-3e9d-45cb-93ea-da47cdf60a8e_thumb_001_HD.jpg",وزیر خارجه ترکیه: حمله دوباره به جمهوری اسلامی می‌تواند تنش‌ها را گسترش دهد
+https://daq1pvcuhj77l.cloudfront.net/1/aa166e7beded4aa8af7e4066a03d5ebe/hls/7310114c-3e9d-45cb-93ea-da47cdf60a8e.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8755aafb81274f9ea9e81e7c42395819/9fd48baa-5bcf-4721-b6ef-2481ad49574a_thumb_001_HD.jpg",اسرائیل و آمریکا برای عملیات جدید علیه جمهوری اسلامی آماده می‌شوند
-https://daq1pvcuhj77l.cloudfront.net/1/8755aafb81274f9ea9e81e7c42395819/hls/9fd48baa-5bcf-4721-b6ef-2481ad49574a.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d8654ccc4d354733bde89029c896147a/e1aba988-5649-45c5-a42b-00c0ca1b3321_thumb_001_HD.jpg",هوشنگ حسن‌یاری: برتری هوایی، محور اصلی حمله احتمالی آمریکا به جمهوری اسلامی است
+https://daq1pvcuhj77l.cloudfront.net/1/d8654ccc4d354733bde89029c896147a/hls/e1aba988-5649-45c5-a42b-00c0ca1b3321.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3eef7c0cace44c729ab5b7ae8c03801d/0d233b48-7dc8-4d57-812a-0e95e8fa7fde_thumb_001_HD.jpg",احمد علوی: هزینه بستن تنگه هرمز با اختلال در تجارت زمینی ایران افزایش می‌یابد
-https://daq1pvcuhj77l.cloudfront.net/1/3eef7c0cace44c729ab5b7ae8c03801d/hls/0d233b48-7dc8-4d57-812a-0e95e8fa7fde.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ace688716553483eac9a64dc192c366d/d607eb2b-6753-4ae8-a852-ea78ad948294_thumb_001_HD.jpg",روح‌الله رحیم‌پور: حمله محدود آمریکا و اسرائیل می‌تواند به جنگی طولانی تبدیل شود
+https://daq1pvcuhj77l.cloudfront.net/1/ace688716553483eac9a64dc192c366d/hls/d607eb2b-6753-4ae8-a852-ea78ad948294.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/16d1cd6ca160428fab082dde5a4459bf/9db43bff-0c5f-4a30-96d6-39c9b6683e58_thumb_001_HD.jpg",روح‌الله رحیم‌پور: جمهوری اسلامی برای خرید زمان مذاکره می‌کند
-https://daq1pvcuhj77l.cloudfront.net/1/16d1cd6ca160428fab082dde5a4459bf/hls/9db43bff-0c5f-4a30-96d6-39c9b6683e58.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c3dd0676d2254e72a7355946a63638dd/0099f7d2-27e5-4d08-84e1-b84e3474ea40_thumb_001_HD.jpg",اخبار بامدادی | یکشنبه ۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/c3dd0676d2254e72a7355946a63638dd/hls/0099f7d2-27e5-4d08-84e1-b84e3474ea40.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b386b3f2b5dc4dc48bf7acf9838de8d7/6f025a0d-cca6-41b7-8f7a-344b97e6ceee_thumb_001_HD.jpg",اخبار بامدادی | شنبه ۲ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/b386b3f2b5dc4dc48bf7acf9838de8d7/hls/6f025a0d-cca6-41b7-8f7a-344b97e6ceee.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/103979c20bf244ee8f5ab969e72cb41e/2a85ecb6-bc10-46d5-a41e-1cb707f22d36_thumb_001_HD.jpg",نظرسنجی‌ها از بن‌بست انتخاباتی در اسرائیل حکایت دارند
+https://daq1pvcuhj77l.cloudfront.net/1/103979c20bf244ee8f5ab969e72cb41e/hls/2a85ecb6-bc10-46d5-a41e-1cb707f22d36.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6e12a81d08334168860ea078e618aaa3/5cbcc1d6-6f7f-4e49-9d8d-a46099bb8e42_thumb_001_HD.jpg",علی معموری: عراق برای حفظ روابط با ایران و آمریکا با چالش روبه‌رو است
-https://daq1pvcuhj77l.cloudfront.net/1/6e12a81d08334168860ea078e618aaa3/hls/5cbcc1d6-6f7f-4e49-9d8d-a46099bb8e42.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c11cec7c2cfc45558d347e54739072b4/e5ecf07e-8174-4d8f-b6d5-2934d13e4e7f_thumb_001_HD.jpg",علی دادپی: دولت و مجلس با سیاست‌های مالی، هزینه گرانی و تورم را به مردم تحمیل می‌کنند
+https://daq1pvcuhj77l.cloudfront.net/1/c11cec7c2cfc45558d347e54739072b4/hls/e5ecf07e-8174-4d8f-b6d5-2934d13e4e7f.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e569421777554d36a557c5ff6047c4bd/b45831c7-b07d-4a22-8b79-170917bb336e_thumb_001_HD.jpg",کامبیز توانا: با وجود تلاش‌های دیپلماتیک، فشار آمریکا بر جمهوری اسلامی ادامه دارد
-https://daq1pvcuhj77l.cloudfront.net/1/e569421777554d36a557c5ff6047c4bd/hls/b45831c7-b07d-4a22-8b79-170917bb336e.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/82fdb67ae83a4da9b4098d858aa4b26b/b2903bab-3469-49c2-a2f1-7fc73f1d9c26_thumb_001_HD.jpg",فرانسه ۷۰ هزار نیروی پلیس را در پی اعتراضات خشونت‌آمیز در این کشور مستقر کرد
+https://daq1pvcuhj77l.cloudfront.net/1/82fdb67ae83a4da9b4098d858aa4b26b/hls/b2903bab-3469-49c2-a2f1-7fc73f1d9c26.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/eaf9266992aa4406914d762822984cb2/889039b8-2d36-456e-ac79-5a0ea351dbaa_thumb_001_HD.jpg",سرخط خبرهای شنبه ۲ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/eaf9266992aa4406914d762822984cb2/hls/889039b8-2d36-456e-ac79-5a0ea351dbaa.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/45554bf9cb4a4e498712a0246c0800b0/600a6d4c-29de-4a93-81fe-f74c899ffe16_thumb_001_HD.jpg",سرخط خبرهای یکشنبه ۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/45554bf9cb4a4e498712a0246c0800b0/hls/600a6d4c-29de-4a93-81fe-f74c899ffe16.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6e50b840bb1441e9841716c529e2e110/350543a3-fe82-4145-9de4-7fcec101c0da_thumb_001_HD.jpg",درخواست گزارشگر ویژه سازمان ملل برای ارسال مستندات نقض حقوق بشر در ایران
-https://daq1pvcuhj77l.cloudfront.net/1/6e50b840bb1441e9841716c529e2e110/hls/350543a3-fe82-4145-9de4-7fcec101c0da.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b323bd7359a54a089d9ad0aae9dc40f7/4e9cfc01-ab66-45df-a43d-8361197f3231_thumb_001_HD.jpg",شهرام خلدی: با تشدید فشارها، احتمال افزایش عملیات تروریستی جمهوری اسلامی وجود دارد
+https://daq1pvcuhj77l.cloudfront.net/1/b323bd7359a54a089d9ad0aae9dc40f7/hls/4e9cfc01-ab66-45df-a43d-8361197f3231.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/db5e0e3026544f2ba3f60996f7550627/e4fbae98-2417-4c9c-a9f2-b6635b3bba14_thumb_001_HD.jpg",شایان سمیعی: احتمال حمله به جمهوری اسلامی پیش از انتخابات میان‌دوره‌ای آمریکا وجود دارد
-https://daq1pvcuhj77l.cloudfront.net/1/db5e0e3026544f2ba3f60996f7550627/hls/e4fbae98-2417-4c9c-a9f2-b6635b3bba14.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f6ba7489c3c447a2b4929097d66fc6a2/b4fdd14c-d508-4869-8b87-bb21ea1cfcf9_thumb_001_HD.jpg",تاکید رهبران اروپا در نشست استانبول بر ضرورت ازسرگیری دیپلماسی با جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/f6ba7489c3c447a2b4929097d66fc6a2/hls/b4fdd14c-d508-4869-8b87-bb21ea1cfcf9.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/919423890d5c45cbad6369ee2349244d/3d149b70-5192-400a-a244-da5b37758739_thumb_001_HD.jpg",ترامپ: جمهوری اسلامی با توافق می‌تواند از حمله‌ای دیگر جلوگیری کند
-https://daq1pvcuhj77l.cloudfront.net/1/919423890d5c45cbad6369ee2349244d/hls/3d149b70-5192-400a-a244-da5b37758739.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d60fa6b82b744397ae9b42ba54c5e0d9/3eddf18f-6c90-404c-94ce-db4393e2674c_thumb_001_HD.jpg",دیدار کیم جونگ اون با مقام ارشد چین در آستانه سفر ترامپ به پکن
+https://daq1pvcuhj77l.cloudfront.net/1/d60fa6b82b744397ae9b42ba54c5e0d9/hls/3eddf18f-6c90-404c-94ce-db4393e2674c.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/93174ddc8310421195a6288521e27d7b/477f3573-c2d1-44f7-87a2-77d7f325339f_thumb_001_HD.jpg",نیکولاس گیلانی: مشکل اصلی اقتصاد ایران، سیاسی است
+https://daq1pvcuhj77l.cloudfront.net/1/93174ddc8310421195a6288521e27d7b/hls/477f3573-c2d1-44f7-87a2-77d7f325339f.m3u8
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/6o2j1fgbj9blrlew/wqtl5vv5dbzd4ow8.jpg",Houston mom creates nonprofit to support families after daughter's cancer fight
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49214234217_49214234378/49214234378/hf-uuid-13664e20-51ac-4d95-bafe-098a8a703d85/49214234378_lowres.mp4
