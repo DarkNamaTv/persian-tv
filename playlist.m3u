@@ -12267,6 +12267,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12528,30 +12537,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ddb9e77fc4714b148e6b17b5aec2c748/ac41fb11-d412-4925-b8fc-455862e65e31_thumb_001_HD.jpg",آماده‌باش نظامی آمریکا برای حمله احتمالی به ایران؛ تهدیدهای تازه جمهوری اسلامی
-https://daq1pvcuhj77l.cloudfront.net/1/ddb9e77fc4714b148e6b17b5aec2c748/hls/ac41fb11-d412-4925-b8fc-455862e65e31.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9d07cb9752544ce4bf2b1a05794c15e1/da702657-25c0-46f3-81ef-c3e6efaca553_thumb_001_HD.jpg",مسعود الفک: حملات حوثی‌ها به عربستان ممکن است پای آمریکا را به جنگ باز کند
-https://daq1pvcuhj77l.cloudfront.net/1/9d07cb9752544ce4bf2b1a05794c15e1/hls/da702657-25c0-46f3-81ef-c3e6efaca553.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b37a62537e454324af410cd2c587e510/954c0781-a242-4ad3-9b0f-3a943991d3ca_thumb_001_HD.jpg",همایون فلکشاهی: نگرانی از جنگ دوباره میان ایران و آمریکا، قیمت نفت را بالا نگه داشته است
-https://daq1pvcuhj77l.cloudfront.net/1/b37a62537e454324af410cd2c587e510/hls/954c0781-a242-4ad3-9b0f-3a943991d3ca.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7f00f2e500f54c7784bcb8f9f3facb76/59628f70-b4df-47fe-bd90-eef2e4c12ff7_thumb_001_HD.jpg",منشه امیر: اسرائیل در جنگ احتمالی آینده مراکز فرماندهی سپاه را هدف قرار خواهد داد
-https://daq1pvcuhj77l.cloudfront.net/1/7f00f2e500f54c7784bcb8f9f3facb76/hls/59628f70-b4df-47fe-bd90-eef2e4c12ff7.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/29e8a7bcba97469d839fdbf2c62951f1/eb637c69-b7b7-4f5f-bf8e-b7f1f746b74e_thumb_001_HD.jpg",احتمال حمله مجدد آمریکا و اسرائیل به ایران
-https://daq1pvcuhj77l.cloudfront.net/1/29e8a7bcba97469d839fdbf2c62951f1/hls/eb637c69-b7b7-4f5f-bf8e-b7f1f746b74e.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6f33f01d023a4dd3a759d74df24641cd/fba83c48-17b5-4cd6-99af-6f107fa32b70_thumb_001_HD.jpg",چرتکه: درس‌های نوبل اقتصاد برای شرایط امروز ایران
-https://daq1pvcuhj77l.cloudfront.net/1/6f33f01d023a4dd3a759d74df24641cd/hls/fba83c48-17b5-4cd6-99af-6f107fa32b70.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e7506c6c914c4839b7ea6e8d41a14c81/a8be4a28-1410-4c0a-bb92-fb30ae673208_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، شنبه ۲ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/e7506c6c914c4839b7ea6e8d41a14c81/hls/a8be4a28-1410-4c0a-bb92-fb30ae673208.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e53dbc0fe1684058b55b190f6bff93ea/af2677bf-2853-47c6-92cd-6442011a4822_thumb_001_HD.jpg",شایان سمیعی کاشان: آمریکا می‌خواهد هشدارهای نظامی ترامپ پشتوانه عملیاتی داشته باشد
-https://daq1pvcuhj77l.cloudfront.net/1/e53dbc0fe1684058b55b190f6bff93ea/hls/af2677bf-2853-47c6-92cd-6442011a4822.m3u8
-
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3fd76829fde846fdaf185b90a00c7c27/0825362e-2275-4091-90d9-6e2731902197_thumb_001_HD.jpg",گزارش روز با مجتبا پورمحسن: تدارک ناوهای آمریکایی برای حمله به ایران با مهمات سنگین
 https://daq1pvcuhj77l.cloudfront.net/1/3fd76829fde846fdaf185b90a00c7c27/hls/0825362e-2275-4091-90d9-6e2731902197.m3u8
 
@@ -12641,6 +12626,18 @@ https://daq1pvcuhj77l.cloudfront.net/1/db5e0e3026544f2ba3f60996f7550627/hls/e4fb
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/919423890d5c45cbad6369ee2349244d/3d149b70-5192-400a-a244-da5b37758739_thumb_001_HD.jpg",ترامپ: جمهوری اسلامی با توافق می‌تواند از حمله‌ای دیگر جلوگیری کند
 https://daq1pvcuhj77l.cloudfront.net/1/919423890d5c45cbad6369ee2349244d/hls/3d149b70-5192-400a-a244-da5b37758739.m3u8
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/6o2j1fgbj9blrlew/wqtl5vv5dbzd4ow8.jpg",Houston mom creates nonprofit to support families after daughter's cancer fight
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49214234217_49214234378/49214234378/hf-uuid-13664e20-51ac-4d95-bafe-098a8a703d85/49214234378_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/k7u5estqq1sw50y4/9tvsedts47b4kv5q.jpg",Houston weather: Beautiful weekend, Halloween rain possible
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49212987756_49212987821/49212987821/hf-uuid-ce6d6de4-84d7-4233-8d7c-65d49508f728/49212987821_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/jbvs3rl2vn8jvnnc/sfx7kxz6kefs85uc.jpg",THE NOW with CRIS: Paddles, Plates &amp; Pours
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49206310318_49207299207/49207299207/hf-uuid-645473e7-94fe-4f36-b854-5e254dc69914/49207299207_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/8t8fcgp2jw3vz4rc/d9zutmrad9malv9r.jpg",Houston weather: Oct. 24 morning forecast
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49203216578_49203216699/49203216699/hf-uuid-ab5cdf5c-e15b-4b4b-8e34-86bfe85a3aee/49203216699_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/vn4k9c6sljyckrvp/moadv1gncqu783na.jpg",Houston weather: October 23 overnight forecast
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49195261802_49195261952/49195261952/hf-uuid-a92c9db5-dd0b-41f2-97ae-3f7a924245d7/49195261952_lowres.mp4
@@ -13529,18 +13526,6 @@ https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_4885697
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/6138rp4e2891tnx0/1397yp6ccr1vj3g2.jpg",Alleged catfish accused of leaking victim's photo
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48856671030_48856671459/48856671459/hf-uuid-98badca7-735c-4a7f-afe3-fb58a05583b0/48856671459_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/b4ue1kygxfnbe4u1/afhfpq3cdu7eeqyu.jpg",FULL: Marie Vega speaks at rally in San Antonio
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48856677008_48856982824/48856982824/hf-uuid-18f615ef-e883-45ae-9bdb-fd7a40605d2f/48856982824_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/8kzg7l488g3tpr2v/1zh3umyxt5haf3az.jpg",Clients remember stylist allegedly killed by ex-boyfriend
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48856437606_48856437827/48856437827/hf-uuid-f878400d-6f2f-47c5-8d66-c065e90f3e24/48856437827_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/1dw9q7nb1ejmq4n5/pv0ygbmignm4wa6d.jpg",Houston weather: Minimal impact from Isaias
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48856748789_48856749014/48856749014/hf-uuid-541a6607-996e-4d23-81dd-49af342b1052/48856749014_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/cifaq6gqhoymvwsl/8401c43aeciercgn.jpg",Missing woman last seen on Louisiana bridge
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48856178207_48856178436/48856178436/hf-uuid-b92ded7a-cef6-4ff3-88cd-ed5ff8af89db/48856178436_lowres.mp4
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/israel-tv@main/logos/keshet12.png" group-title="📡 اسرائیل",Keshet 12
 #EXTVLCOPT:network-caching=2000
@@ -14432,6 +14417,15 @@ https://t2hls.wns.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/ps4Gtj0.png" tvg-id="AssiratTV.ir@SD",Assirat TV (576p)
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" tvg-id="IranJewishTV.ir@SD",Iran Jewish TV
 #EXTVLCOPT:network-caching=2000
