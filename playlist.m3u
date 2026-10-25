@@ -12267,15 +12267,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12536,6 +12527,30 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ddb9e77fc4714b148e6b17b5aec2c748/ac41fb11-d412-4925-b8fc-455862e65e31_thumb_001_HD.jpg",آماده‌باش نظامی آمریکا برای حمله احتمالی به ایران؛ تهدیدهای تازه جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/ddb9e77fc4714b148e6b17b5aec2c748/hls/ac41fb11-d412-4925-b8fc-455862e65e31.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9d07cb9752544ce4bf2b1a05794c15e1/da702657-25c0-46f3-81ef-c3e6efaca553_thumb_001_HD.jpg",مسعود الفک: حملات حوثی‌ها به عربستان ممکن است پای آمریکا را به جنگ باز کند
+https://daq1pvcuhj77l.cloudfront.net/1/9d07cb9752544ce4bf2b1a05794c15e1/hls/da702657-25c0-46f3-81ef-c3e6efaca553.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b37a62537e454324af410cd2c587e510/954c0781-a242-4ad3-9b0f-3a943991d3ca_thumb_001_HD.jpg",همایون فلکشاهی: نگرانی از جنگ دوباره میان ایران و آمریکا، قیمت نفت را بالا نگه داشته است
+https://daq1pvcuhj77l.cloudfront.net/1/b37a62537e454324af410cd2c587e510/hls/954c0781-a242-4ad3-9b0f-3a943991d3ca.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7f00f2e500f54c7784bcb8f9f3facb76/59628f70-b4df-47fe-bd90-eef2e4c12ff7_thumb_001_HD.jpg",منشه امیر: اسرائیل در جنگ احتمالی آینده مراکز فرماندهی سپاه را هدف قرار خواهد داد
+https://daq1pvcuhj77l.cloudfront.net/1/7f00f2e500f54c7784bcb8f9f3facb76/hls/59628f70-b4df-47fe-bd90-eef2e4c12ff7.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/29e8a7bcba97469d839fdbf2c62951f1/eb637c69-b7b7-4f5f-bf8e-b7f1f746b74e_thumb_001_HD.jpg",احتمال حمله مجدد آمریکا و اسرائیل به ایران
+https://daq1pvcuhj77l.cloudfront.net/1/29e8a7bcba97469d839fdbf2c62951f1/hls/eb637c69-b7b7-4f5f-bf8e-b7f1f746b74e.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6f33f01d023a4dd3a759d74df24641cd/fba83c48-17b5-4cd6-99af-6f107fa32b70_thumb_001_HD.jpg",چرتکه: درس‌های نوبل اقتصاد برای شرایط امروز ایران
+https://daq1pvcuhj77l.cloudfront.net/1/6f33f01d023a4dd3a759d74df24641cd/hls/fba83c48-17b5-4cd6-99af-6f107fa32b70.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e7506c6c914c4839b7ea6e8d41a14c81/a8be4a28-1410-4c0a-bb92-fb30ae673208_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، شنبه ۲ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/e7506c6c914c4839b7ea6e8d41a14c81/hls/a8be4a28-1410-4c0a-bb92-fb30ae673208.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e53dbc0fe1684058b55b190f6bff93ea/af2677bf-2853-47c6-92cd-6442011a4822_thumb_001_HD.jpg",شایان سمیعی کاشان: آمریکا می‌خواهد هشدارهای نظامی ترامپ پشتوانه عملیاتی داشته باشد
+https://daq1pvcuhj77l.cloudfront.net/1/e53dbc0fe1684058b55b190f6bff93ea/hls/af2677bf-2853-47c6-92cd-6442011a4822.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3fd76829fde846fdaf185b90a00c7c27/0825362e-2275-4091-90d9-6e2731902197_thumb_001_HD.jpg",گزارش روز با مجتبا پورمحسن: تدارک ناوهای آمریکایی برای حمله به ایران با مهمات سنگین
 https://daq1pvcuhj77l.cloudfront.net/1/3fd76829fde846fdaf185b90a00c7c27/hls/0825362e-2275-4091-90d9-6e2731902197.m3u8
