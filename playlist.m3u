@@ -3933,15 +3933,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -4202,54 +4193,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/16602d1f3f1041b083e8cc4c7df45695/42879ca3-5cdf-4a38-a9dc-f234cc643f38_thumb_001_HD.jpg",لیگ نخبگان آسیا؛ مچ‌اندازی استقلال با شباب الاهلی امارات
-https://daq1pvcuhj77l.cloudfront.net/1/16602d1f3f1041b083e8cc4c7df45695/hls/42879ca3-5cdf-4a38-a9dc-f234cc643f38.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c2152c3ee57940f6ab9006f032958ea2/bf9d6da7-34e6-470d-aa46-6f7970cd276e_thumb_001_HD.jpg",تقابل تراکتور با العین در لیگ نخبگان آسیا
-https://daq1pvcuhj77l.cloudfront.net/1/c2152c3ee57940f6ab9006f032958ea2/hls/bf9d6da7-34e6-470d-aa46-6f7970cd276e.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7fdd9a22af8b4aa9b86dc5dadf3f3592/2ef29148-ebb2-4bf9-a977-771f0254ce5e_thumb_001_HD.jpg",پیروزی پرگل سپاهان مقابل مس شهر بابک و حضور در جمع مدعیان
-https://daq1pvcuhj77l.cloudfront.net/1/7fdd9a22af8b4aa9b86dc5dadf3f3592/hls/2ef29148-ebb2-4bf9-a977-771f0254ce5e.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5f1d296c60634d388e7a54aed2cd3f57/caefa5f1-a127-4486-a5be-4cbad6ea1874_thumb_001_HD.jpg",خارج شدن فجرسپاسی از بحران با مربیگری رجب‌زاده
-https://daq1pvcuhj77l.cloudfront.net/1/5f1d296c60634d388e7a54aed2cd3f57/hls/caefa5f1-a127-4486-a5be-4cbad6ea1874.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8d18f4ad81564ac4987d0cd99773b42d/e3533883-80ba-49c8-a4fb-80bb94d54270_thumb_001_HD.jpg",آنالیز دیدار پرسپولیس و فولاد با محمد تقوی
-https://daq1pvcuhj77l.cloudfront.net/1/8d18f4ad81564ac4987d0cd99773b42d/hls/e3533883-80ba-49c8-a4fb-80bb94d54270.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/dea78ff96158446db7eedee27146b25c/3726dac2-05f0-4482-8df9-785a75958421_thumb_001_HD.jpg",شکست ناپذیری فولاد برابر پرسپولیس پس از ۷۸۷ روز
-https://daq1pvcuhj77l.cloudfront.net/1/dea78ff96158446db7eedee27146b25c/hls/3726dac2-05f0-4482-8df9-785a75958421.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c5c631d47cbd438eba3493871513c2dc/ac73f32f-acd3-4465-b6b2-5a7581f31776_thumb_001_HD.jpg",خلاصه دیدار پرسپولیس و فولاد با گزارش مزدک میرزایی
-https://daq1pvcuhj77l.cloudfront.net/1/c5c631d47cbd438eba3493871513c2dc/hls/ac73f32f-acd3-4465-b6b2-5a7581f31776.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f69fdfb8bf3040f6b53f4fce23fc7784/7659667a-8098-4e63-83e5-6bf2cb2ffbbe_thumb_001_HD.jpg",اضطراب شدید یک‌پنجم شهروندان تهران
-https://daq1pvcuhj77l.cloudfront.net/1/f69fdfb8bf3040f6b53f4fce23fc7784/hls/7659667a-8098-4e63-83e5-6bf2cb2ffbbe.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5cad77d1114f40d2ac4144e6970037c5/e9d5f678-6524-4eca-a924-acee45869c56_thumb_001_HD.jpg",آسیه امینی: مردم خواستار سرنگونی جمهوری اسلامی هستند، نه وعده‌های تازه حکومت
-https://daq1pvcuhj77l.cloudfront.net/1/5cad77d1114f40d2ac4144e6970037c5/hls/e9d5f678-6524-4eca-a924-acee45869c56.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f105ea45d9f2402c8bfa40829f7f1773/d03225c0-30b1-400b-83de-d6c01280b57b_thumb_001_HD.jpg",برنامه ترامپ برای «یکسره کردن کار جمهوری‌اسلامی»
-https://daq1pvcuhj77l.cloudfront.net/1/f105ea45d9f2402c8bfa40829f7f1773/hls/d03225c0-30b1-400b-83de-d6c01280b57b.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a439526215994be291de50562ae43cd5/78ec72e4-47e4-4ffc-a609-ea76c58f8939_thumb_001_HD.jpg",گزارش روز با مجتبا پورمحسن: افشای حضور جاسوسان موساد در تهران برای تغییر رژیم
-https://daq1pvcuhj77l.cloudfront.net/1/a439526215994be291de50562ae43cd5/hls/78ec72e4-47e4-4ffc-a609-ea76c58f8939.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/00673f5d0df241c7a78acf57b476378e/32ee5cdb-b50c-4212-83fb-bf127113d74b_thumb_001_HD.jpg",جزئیات تازه عملیات موساد در ایران؛ حضور جاسوسان اسرائیل در تهران برای سرنگونی رژیم
-https://daq1pvcuhj77l.cloudfront.net/1/00673f5d0df241c7a78acf57b476378e/hls/32ee5cdb-b50c-4212-83fb-bf127113d74b.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/57551b5baae24bd2a69abffdcf7179e3/53d8fafd-65ae-4831-9d08-3761ffbc7d04_thumb_001_HD.jpg",طرح‌های تازه سنتکام برای حمله دوباره به ایران پس از انتخابات آمریکا
-https://daq1pvcuhj77l.cloudfront.net/1/57551b5baae24bd2a69abffdcf7179e3/hls/53d8fafd-65ae-4831-9d08-3761ffbc7d04.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f030d8ed6bd647a395843e632920882a/13574ef5-b856-4778-970d-bbda1c9b61d4_thumb_001_HD.jpg",چهار هفته اعتراض و غارت در فرانسه، بدون کشته‌شدن معترضان؛ مقایسه با سرکوب خونین در ایران
-https://daq1pvcuhj77l.cloudfront.net/1/f030d8ed6bd647a395843e632920882a/hls/13574ef5-b856-4778-970d-bbda1c9b61d4.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4525b95826d24c588e839da96e11b19a/69ef8dd4-421a-4af7-a289-5b2201c43ac9_thumb_001_HD.jpg",جمشید برزگر: غیبت مجتبی خامنه‌ای به ضعف و تزلزل مدیریتی حکومت دامن می‌زند
-https://daq1pvcuhj77l.cloudfront.net/1/4525b95826d24c588e839da96e11b19a/hls/69ef8dd4-421a-4af7-a289-5b2201c43ac9.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/78b529f8d78449f78c4c305a970db635/22a4f15f-1b49-4ec6-9777-3d03613fcbcd_thumb_001_HD.jpg",تلاش انتخاباتی نتانیاهو با تکیه بر حمایت ترامپ و تهدید جمهوری اسلامی
-https://daq1pvcuhj77l.cloudfront.net/1/78b529f8d78449f78c4c305a970db635/hls/22a4f15f-1b49-4ec6-9777-3d03613fcbcd.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c20890497c3b44378ed7c936d7842fb1/af92dcac-18ca-429e-92bb-a54655cbdc14_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، یک‌شنبه ۳ آبان
 https://daq1pvcuhj77l.cloudfront.net/1/c20890497c3b44378ed7c936d7842fb1/hls/af92dcac-18ca-429e-92bb-a54655cbdc14.m3u8
