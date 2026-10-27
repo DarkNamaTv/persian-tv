@@ -12267,6 +12267,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12527,6 +12536,24 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/294c79ca976e469f9b9ae7b9a085d834/0b82505c-7afe-40e1-a4f8-6cd209f36744_thumb_001_HD.jpg",فرشته پزشک: جمهوری اسلامی روی نتایج انتخابات آمریکا و اسرائیل حساب اشتباه باز کرده است
+https://daq1pvcuhj77l.cloudfront.net/1/294c79ca976e469f9b9ae7b9a085d834/hls/0b82505c-7afe-40e1-a4f8-6cd209f36744.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b39054fbe31b4726a8e092786aaeec34/a873f8a4-60b7-41ce-905f-4503767f7959_thumb_001_HD.jpg",اسکات بسنت به مردم ایران: مالیات ندهید و برای زمستان سوخت ذخیره کنید
+https://daq1pvcuhj77l.cloudfront.net/1/b39054fbe31b4726a8e092786aaeec34/hls/a873f8a4-60b7-41ce-905f-4503767f7959.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7f3e24b6acd048a29dab1e3be5dc26e2/1e646969-72a4-4ccc-88cf-cff4e2a7cc17_thumb_001_HD.jpg",گفت‌وگوی ویژه با اسکات بسنت، وزیر خزانه‌داری آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/7f3e24b6acd048a29dab1e3be5dc26e2/hls/1e646969-72a4-4ccc-88cf-cff4e2a7cc17.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/678102ab4a1842ea9aa2ec33f4393166/30ef0db3-19c9-4b17-951b-71e9ab782442_thumb_001_HD.jpg",چشم‌انداز: سران نظامی و امنیتی پاکستان، عربستان و ترکیه در تهران چه می‌کنند؟
+https://daq1pvcuhj77l.cloudfront.net/1/678102ab4a1842ea9aa2ec33f4393166/hls/30ef0db3-19c9-4b17-951b-71e9ab782442.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b2707dd4020645eab48de728e7d03311/116b1191-b334-4982-8fcb-f84cbbdba6b1_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/b2707dd4020645eab48de728e7d03311/hls/116b1191-b334-4982-8fcb-f84cbbdba6b1.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e9112bcb1aeb4ff8bf7d18aa21cdf788/963898e7-cfa0-403f-803e-bcd5543ad858_thumb_001_HD.jpg",سران نظامی و امنیتی پاکستان، عربستان و ترکیه در تهران چه می‌کنند؟
+https://daq1pvcuhj77l.cloudfront.net/1/e9112bcb1aeb4ff8bf7d18aa21cdf788/hls/963898e7-cfa0-403f-803e-bcd5543ad858.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1cc6dbb3a9c140bab206a8de51dac1ec/2c779dcf-a6f5-416a-be09-4faae9b6c906_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، دوشنبه ۴ آبان
 https://daq1pvcuhj77l.cloudfront.net/1/1cc6dbb3a9c140bab206a8de51dac1ec/hls/2c779dcf-a6f5-416a-be09-4faae9b6c906.m3u8
