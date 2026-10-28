@@ -12267,6 +12267,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12528,6 +12537,27 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ce8b8feeddaa46b69e429d8d060b8d93/67ef4c91-cc72-4b7b-93c2-bab23234814d_thumb_001_HD.jpg",نتیجه انتخابات اسرائیل چه زمانی اعلام و دولت چگونه تشکیل می‌شود؟
+https://daq1pvcuhj77l.cloudfront.net/1/ce8b8feeddaa46b69e429d8d060b8d93/hls/67ef4c91-cc72-4b7b-93c2-bab23234814d.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8f36dbcf1fa7474487c4084ce9832075/7935e486-27c0-43ed-9e4b-d2f0d79ed1bc_thumb_001_HD.jpg",بزرگ‌ترین انتخابات تاریخ اسرائیل و سرنوشت حکومت ایران
+https://daq1pvcuhj77l.cloudfront.net/1/8f36dbcf1fa7474487c4084ce9832075/hls/7935e486-27c0-43ed-9e4b-d2f0d79ed1bc.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5dc5622fbf1545ff987134953d35a94e/56120147-79c6-42b7-947e-e9e35beffa9b_thumb_001_HD.jpg",بزرگ‌ترین انتخابات تاریخ اسرائیل و سرنوشت حکومت ایران
+https://daq1pvcuhj77l.cloudfront.net/1/5dc5622fbf1545ff987134953d35a94e/hls/56120147-79c6-42b7-947e-e9e35beffa9b.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0381d7dc33d84fca98d9dc1e45c16dcd/f5d9c032-d8f1-4e12-ba45-4b19254e4246_thumb_001_HD.jpg",سه گزینه نخست‌وزیری اسرائیل و سه رویکرد در قبال جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/0381d7dc33d84fca98d9dc1e45c16dcd/hls/f5d9c032-d8f1-4e12-ba45-4b19254e4246.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1c76ac9d19b84d18b7594473a953d812/ee89d1a2-ae12-4124-9c0f-72b9899bd2fe_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/1c76ac9d19b84d18b7594473a953d812/hls/ee89d1a2-ae12-4124-9c0f-72b9899bd2fe.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d339c518c5e04e92801bb8e594b2b941/1fa3bff3-847e-4a5b-af8d-28a201e90fb7_thumb_001_HD.jpg",مئیر جاودانفر: اسرائیل برای مقابله با جمهوری اسلامی به انسجام ملی نیاز دارد
+https://daq1pvcuhj77l.cloudfront.net/1/d339c518c5e04e92801bb8e594b2b941/hls/1fa3bff3-847e-4a5b-af8d-28a201e90fb7.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/17f8ede6d09940a7b53adde4a4c885fa/8ee3d93a-9f14-4d74-8604-dab219d7d194_thumb_001_HD.jpg",مشارکت در انتخابات پارلمانی اسرائیل به بالاترین سطح در نیم‌قرن گذشته رسید
+https://daq1pvcuhj77l.cloudfront.net/1/17f8ede6d09940a7b53adde4a4c885fa/hls/8ee3d93a-9f14-4d74-8604-dab219d7d194.m3u8
+
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1b47044df63a4dba93cc2c15abd0c33e/e0b23379-6789-4188-b474-492a20961309_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، سه‌شنبه ۵ آبان
 https://daq1pvcuhj77l.cloudfront.net/1/1b47044df63a4dba93cc2c15abd0c33e/hls/e0b23379-6789-4188-b474-492a20961309.m3u8
 
@@ -12549,13 +12579,16 @@ https://daq1pvcuhj77l.cloudfront.net/1/9d1b287793a74c78aff6c894d1c5b463/hls/8441
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5ea59752306d4b3a946bdbd91bf6af4a/28dd1e0b-7be9-46e9-9cab-1e2f14683d18_thumb_001_HD.jpg",فروغ کنعانی: فراخوان شاهزاده رضا پهلوی در راستای سازماندهی حداکثری است
 https://daq1pvcuhj77l.cloudfront.net/1/5ea59752306d4b3a946bdbd91bf6af4a/hls/28dd1e0b-7be9-46e9-9cab-1e2f14683d18.m3u8
 
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ee1c2006f773475d93bbaa1af8781823/0cd23633-70d1-4a65-8e61-a25dd453b78f_thumb_001_HD.jpg",لیلا مروتی: پیروزی نتانیاهو بدترین خبر برای جمهوری اسلامی خواهد بود
+https://daq1pvcuhj77l.cloudfront.net/1/ee1c2006f773475d93bbaa1af8781823/hls/0cd23633-70d1-4a65-8e61-a25dd453b78f.m3u8
+
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3c5262af93b443908a3d334891320b97/1acabf0e-5e48-4304-a63a-5a1d642ebb51_thumb_001_HD.jpg",گزارش‌ها از واکنش مقام‌ها و رسانه‌های آمریکایی به انتخابات اسرائیل
 https://daq1pvcuhj77l.cloudfront.net/1/3c5262af93b443908a3d334891320b97/hls/1acabf0e-5e48-4304-a63a-5a1d642ebb51.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/abae1915c46a414ba89e0e8b96f9c01c/ca5f0a3b-0a2f-44a6-be5b-31257e62430b_thumb_001_HD.jpg",امید شمس: با هر دولتی در اسرائیل، کارزار نظامی علیه جمهوری اسلامی ادامه می‌یابد
 https://daq1pvcuhj77l.cloudfront.net/1/abae1915c46a414ba89e0e8b96f9c01c/hls/ca5f0a3b-0a2f-44a6-be5b-31257e62430b.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f627e6a9b81e45ba8b134b7d4136baaa/6231a24c-8fcf-4dd7-8675-08a65a163626_thumb_001_HD.jpg",واکنش کاربران ایرانی به انتخابات اسرائیل؛ از نگرانی تا حمایت از نتانیاهو
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f627e6a9b81e45ba8b134b7d4136baaa/6231a24c-8fcf-4dd7-8675-08a65a163626_thumb_001_HD.jpg",واکنش کاربران ایرانی به انتخابات اسرائیل
 https://daq1pvcuhj77l.cloudfront.net/1/f627e6a9b81e45ba8b134b7d4136baaa/hls/6231a24c-8fcf-4dd7-8675-08a65a163626.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/029b8492185e4b78b484e320bc95bf29/a8479e36-fdbc-4554-9249-d06438b4c3bc_thumb_001_HD.jpg",واکنش مخاطبان ایران‌اینترنشنال به درخواست وزیر خزانه‌داری آمریکا برای نپرداختن مالیات
