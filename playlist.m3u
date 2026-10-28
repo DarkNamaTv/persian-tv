@@ -12267,6 +12267,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12527,6 +12536,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c73402544e11423c82e4470317ad62f2/2e23a13e-122c-4cf1-8559-7fabc5d75600_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، چهارشنبه ۶ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/c73402544e11423c82e4470317ad62f2/hls/2e23a13e-122c-4cf1-8559-7fabc5d75600.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/74fa7be672904a578e8c2692e90d1c45/884d39e0-481a-4613-86ca-fdf8b0e2f221_thumb_001_HD.jpg",اقتصاد و بازار: تورم ۹۰ درصدی و موج بیکاری؛ هشدار قطع گاز برای ۱۱ استان ایران در زمستان
 https://daq1pvcuhj77l.cloudfront.net/1/74fa7be672904a578e8c2692e90d1c45/hls/884d39e0-481a-4613-86ca-fdf8b0e2f221.m3u8
