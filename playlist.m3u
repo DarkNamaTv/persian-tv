@@ -12429,15 +12429,6 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://pmcrohls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg",PMC (Backup)
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://pmchls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="https://www.parsatv.com/index_files/channels/t2tv.jpg",T2 TV
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12659,6 +12650,36 @@ https://daq1pvcuhj77l.cloudfront.net/1/838a1d94927a4a7588da69558ed7f812/hls/b175
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f3ae299de06043e8a4fd2062a1ce468a/2e4d4725-13a5-427d-b497-d8488c261c34_thumb_001_HD.jpg",رضا عرب: جمهوری اسلامی به‌دلیل ممانعت آمریکا و اسرائیل به بمب اتم نرسیده، نه فتوای مذهبی
 https://daq1pvcuhj77l.cloudfront.net/1/f3ae299de06043e8a4fd2062a1ce468a/hls/2e4d4725-13a5-427d-b497-d8488c261c34.m3u8
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/tkczlxl25cn91294/f1izdkccw6fcijfx.jpg",Houston weather: Stormy Election Day on the way
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49401606779_49401606927/49401606927/hf-uuid-5df0ae09-5682-4720-b28d-3f208509cd7c/49401606927_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/bvkts8pzvhkqfwvi/xrisykv0mifzonzv.jpg",Rice graduate and family killed in Florida plane crash
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49398320007_49398320173/49398320173/hf-uuid-01e26d4f-0e39-43fd-a2a5-cddaf67a662a/49398320173_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/zt21a7ca95enu7v0/2wmp97roqooovogs.jpg",Houston weather: Stormy day expected on Election Day
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49398155843_49398155989/49398155989/hf-uuid-aa4302ee-40d2-480c-966c-3e7415a78549/49398155989_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/pg11vchmw10vq4n5/xk9r22p8ritmnqyz.jpg",ICE Agent surrenders in Harris County Court
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49397421735_49397421917/49397421917/hf-uuid-ccba86de-5e7d-4878-94c7-77c1018eac36/49397421917_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/2cahnz6tsfv2voud/oofd6jdea0zvxrka.jpg",U.S. Attorney announces federal action following deadly Deep Ellum Halloween shootings
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49394203874_49394204112/49394204112/hf-uuid-68b19f9d-d868-41e9-afcd-70a1df78b801/49394204112_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/0yffd1p45lxc10uw/v634qzk9lvt691fi.jpg",NC House Races, TN-09 &amp; Dem Strategy
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49393635530_49393642032/49393642032/hf-uuid-a4effb59-4009-4638-b886-7960bdd9ec0d/49393642032_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ol1sk4rct1d5xm0e/boqoasnzn4558x6p.jpg",NTSB briefs media on deadly Lake Worth Beach Learjet 60 crash investigation
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49393781956_49393782314/49393782314/hf-uuid-39837dd2-8f18-41cc-8e84-0abae03d70c7/49393782314_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/jepn4ip9wyemvv21/mvuqt4xw41mdj7n1.jpg",Sawyer Squeeze Water Filtration | Hurricane Gear Test
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49393670316_49393855219/49393855219/hf-uuid-40c19b80-2319-4ee6-bc18-28da9e763b95/49393855219_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/y78dd84s6ff3grdx/cfmlasl8r0y7t5f4.jpg",ELECTION IN COURT | D.C. Daily
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49392712973_49392825966/49392825966/hf-uuid-21099e1a-b1d5-4adb-a16f-27c0927f04a6/49392825966_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/p53euwr2e0h2bp6v/4imp2uq6ghs3f50o.jpg",Houston weather: Warm Monday with partly cloudy skies
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49388323106_49388323246/49388323246/hf-uuid-8453f1c7-7e3d-4b18-be3c-68fa9e5a9ac4/49388323246_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/lynoeljmd44j1ncl/3t87k0jootxw0vmd.jpg",Houston weather: Nov. 1 overnight forecast
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49381162609_49381162719/49381162719/hf-uuid-f8b420b2-49b5-4828-aee1-a7bec0654372/49381162719_lowres.mp4
@@ -13530,36 +13551,6 @@ https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_4900279
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/dk4vyjvkngwlzm3y/fsmry0pe5mex4d56.jpg",Mom of two former St Jude patients shares importance of Dream Home donations
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49002723644_49002723704/49002723704/hf-uuid-05e30c80-6d68-445e-b803-e43888972ed9/49002723704_lowres.mp4
 
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/zfxbxck2ja8uv861/3otw6ac8k84vtoq2.jpg",Kelly Clarkson vs Art of Play: TMZ shares new details
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49002120123_49002120220/49002120220/hf-uuid-8509b323-1dc2-400c-b4e4-55c475133902/49002120220_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/217h5d4qgchjxasa/shq9ect0mqn97pd3.jpg",Houston ICE crash: Initial suspect named, remains wanted
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49001123850_49001123940/49001123940/hf-uuid-2157c2a7-9055-46dd-a4a5-f4b8cf25d743/49001123940_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/nrlf2srosx3aviud/atz6krqlbtry5ump.jpg",NV Gov, 100 Dem Women? &amp; Dems' Midwest Path
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48999000618_48999010574/48999010574/hf-uuid-58f807ff-dff4-4476-8e70-522fbf38e506/48999010574_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/v80ct85fqvbqim00/9cdli8gufbiewxhz.jpg",How to enter the St. Jude Dream Home Giveaway
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48998783080_48998783283/48998783283/hf-uuid-fd6d01dd-1182-4d3c-8ed8-508834f4dd45/48998783283_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/dslulr7zd0qg4ybb/yk331fpxqj48s8eo.jpg",St. Jude Dream Home Giveaway at The George in Richmond
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48998740609_48998740765/48998740765/hf-uuid-de12cf6c-742c-4f11-aa63-d212ca0c8a4c/48998740765_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/wam2907qgoihpwsa/um4bquw7k5arxatf.jpg",Look inside the St. Jude Dream House in Richmond
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48998588312_48998588523/48998588523/hf-uuid-4ba4e27e-14d3-45ac-86de-f13cee8f7153/48998588523_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/n1rhdhwo6xjwvt2m/y3kdg4gld5fgh97g.jpg",Creating a beautiful lawn for St. Jude Dream Home Giveaway
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48998489511_48998489668/48998489668/hf-uuid-3bfa2652-d6aa-43de-939b-56147dab90f0/48998489668_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/sf3bok6koeot08z4/gtckjyem7iz5l6j0.jpg",How the St. Jude Dream Home Giveaway benefits patients, families
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48998363254_48998363416/48998363416/hf-uuid-48304701-8219-4dfd-a5ba-90330f4d48cb/48998363416_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/idjmooy6pjkmy5si/eq76sdmq1f5fg7s1.jpg",INFLATION IS WORSE | D.C. Daily
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_48998014138_48998066781/48998066781/hf-uuid-fc161c12-0f32-413b-986c-02e8807457bf/48998066781_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/t0um8gr7xhda63zc/9aogyvhyuww26cgf.jpg",Tips to lower your energy bill costs
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_48994341139_48994341289/48994341289/hf-uuid-3a80e91a-5cca-4cd5-9887-f96bbf23f385/48994341289_lowres.mp4
-
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/israel-tv@main/logos/keshet12.png" group-title="📡 اسرائیل",Keshet 12
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -14414,15 +14405,6 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-
-#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/AbrHI7K.png" tvg-id="PMC.ae@SD",PMC
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://pmchls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/persian-tv@master/logos/pmcroyale.png" tvg-id="PMCRoyale.ae@SD",PMC Royale (1080p)
 #EXTVLCOPT:network-caching=2000
