@@ -12276,6 +12276,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12536,6 +12545,192 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/760df6c88dc444f689111783fa9065be/efce0beb-aeb7-4158-82cb-2556bdc64554_thumb_001_HD.jpg",زلزله سیاسی در آمریکا؛ اختیار اعلام جنگ در آمریکا با کیست؟
+https://daq1pvcuhj77l.cloudfront.net/1/760df6c88dc444f689111783fa9065be/hls/efce0beb-aeb7-4158-82cb-2556bdc64554.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4cc85f4dfa4046e7b95ccfaaa7aed2d1/bb831e90-2ca1-4894-8e72-258d79af8d70_thumb_001_HD.jpg",ساختار قدرت در آمریکا؛ کنگره تا کجا می‌تواند دست ترامپ را ببندد؟
+https://daq1pvcuhj77l.cloudfront.net/1/4cc85f4dfa4046e7b95ccfaaa7aed2d1/hls/bb831e90-2ca1-4894-8e72-258d79af8d70.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/953d510c331b4b44b784ca787175e4d9/6de30cf9-9748-4291-b7e9-d5e9f8ab7b75_thumb_001_HD.jpg",شهیر شهیدثالث: کنگره می‌تواند با محدود کردن بودجه، مانع ادامه جنگ ترامپ با ایران شود
+https://daq1pvcuhj77l.cloudfront.net/1/953d510c331b4b44b784ca787175e4d9/hls/6de30cf9-9748-4291-b7e9-d5e9f8ab7b75.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/71c8ae34ebac4f16a8fd84a800e640de/3d4c7850-4b00-4cd4-9f14-b7f038403ac4_thumb_001_HD.jpg",امیر گیتی: مشکلات اقتصادی و جنگ با ایران مهم‌ترین عوامل شکست جمهوری‌خواهان بودند
+https://daq1pvcuhj77l.cloudfront.net/1/71c8ae34ebac4f16a8fd84a800e640de/hls/3d4c7850-4b00-4cd4-9f14-b7f038403ac4.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5354b3341cc342febc088afa51a97b87/27d95741-7d0a-4681-b8c5-e2d41703748d_thumb_001_HD.jpg",سرخط خبرهای پنج‌شنبه ۱۴ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/5354b3341cc342febc088afa51a97b87/hls/27d95741-7d0a-4681-b8c5-e2d41703748d.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/697de3d56ae44d0ea05ec5f45881af08/cb37e46a-96ca-4c85-87af-741cacad0ebc_thumb_001_HD.jpg",سیاست با مراد ویسی: پنجره ۶۰روزه ترامپ برای حمله
+https://daq1pvcuhj77l.cloudfront.net/1/697de3d56ae44d0ea05ec5f45881af08/hls/cb37e46a-96ca-4c85-87af-741cacad0ebc.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7164f658143c4defb3899f1411cda4b0/22679011-8b42-4784-ae44-7efe686c121c_thumb_001_HD.jpg",مراد ویسی: تهدیدهای جمهوری اسلامی علیه اروپا، زمینه حمایت از شاهزاده را تقویت کرده است
+https://daq1pvcuhj77l.cloudfront.net/1/7164f658143c4defb3899f1411cda4b0/hls/22679011-8b42-4784-ae44-7efe686c121c.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0d0f95a4725f4e2b961c443581c5d56f/e1ce8f68-7941-4b21-b2de-8d7821059438_thumb_001_HD.jpg",علیرضا نوری‌زاده: تهدید رهبران کشورهای عربی می‌تواند به جنگی گسترده در منطقه منجر شود
+https://daq1pvcuhj77l.cloudfront.net/1/0d0f95a4725f4e2b961c443581c5d56f/hls/e1ce8f68-7941-4b21-b2de-8d7821059438.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ac6bd87c05984c4a9a0033a7f7747361/7c5eb726-86c6-4046-88df-7d089985fd5d_thumb_001_HD.jpg",میعاد ملکی: تحریم‌های تازه می‌تواند برای سال‌ها بر صادرات نفت جمهوری اسلامی تاثیر بگذارد
+https://daq1pvcuhj77l.cloudfront.net/1/ac6bd87c05984c4a9a0033a7f7747361/hls/7c5eb726-86c6-4046-88df-7d089985fd5d.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/be3f2c87a9c746d983bf1f9ce153f356/755e4481-f1d2-47e6-a4ac-f43a8720fbba_thumb_001_HD.jpg",شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
+https://daq1pvcuhj77l.cloudfront.net/1/be3f2c87a9c746d983bf1f9ce153f356/hls/755e4481-f1d2-47e6-a4ac-f43a8720fbba.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/428485ab74d84bf3a267c375d239461f/0a4921b5-1f52-4fd2-aa9b-dfbf40bb449d_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/428485ab74d84bf3a267c375d239461f/hls/0a4921b5-1f52-4fd2-aa9b-dfbf40bb449d.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4301618b684c4fa8aa27d238b8562cae/7453237f-a818-426d-bd8c-84ec6d3aca79_thumb_001_HD.jpg",چشم‌انداز: شکست ترامپ در انتخابات چه تاثیری بر جنگ با ایران دارد؟!
+https://daq1pvcuhj77l.cloudfront.net/1/4301618b684c4fa8aa27d238b8562cae/hls/7453237f-a818-426d-bd8c-84ec6d3aca79.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/54ddc6074a2b4452bc3311d3d656d403/84f56d05-59ac-4c5a-84d1-81c9a44fd679_thumb_001_HD.jpg",شاهزاده رضا پهلوی: تهدیدهای جمهوری اسلامی، اروپا را به بازنگری در سیاست‌هایش سوق داده است
+https://daq1pvcuhj77l.cloudfront.net/1/54ddc6074a2b4452bc3311d3d656d403/hls/84f56d05-59ac-4c5a-84d1-81c9a44fd679.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/24cdd5ab9e6d406082a52b93cfefbbc7/e2bf760a-dbee-45bd-a968-486407e2653c_thumb_001_HD.jpg",پیامدهای پیروزی دموکرات‌ها در انتخابات آمریکا بر تقابل واشینگتن با جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/24cdd5ab9e6d406082a52b93cfefbbc7/hls/e2bf760a-dbee-45bd-a968-486407e2653c.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2b2c9d7b85054142ada965154a622cb7/614b564f-8bd1-4365-b30d-08210fc0ffda_thumb_001_HD.jpg",سونامی آبی در آمریکا؛ ترامپ با کنگره مخالف روبه‌رو شد
+https://daq1pvcuhj77l.cloudfront.net/1/2b2c9d7b85054142ada965154a622cb7/hls/614b564f-8bd1-4365-b30d-08210fc0ffda.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9fdf974850fb46c2af96418d19e7bb6a/8a52be27-3121-4e38-9603-0b0da5e5b7a6_thumb_001_HD.jpg",محمد قائدی: نتایج انتخابات آمریکا نشانه تغییر آرایش سیاسی و چالشی برای جمهوری‌خواهان است
+https://daq1pvcuhj77l.cloudfront.net/1/9fdf974850fb46c2af96418d19e7bb6a/hls/8a52be27-3121-4e38-9603-0b0da5e5b7a6.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0013115a26f1401f8731d4c57d1759a9/ac7be7f9-dd3f-4e30-b690-07740a080c11_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، چهارشنبه ۱۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/0013115a26f1401f8731d4c57d1759a9/hls/ac7be7f9-dd3f-4e30-b690-07740a080c11.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/043c54d923954cd69aea916d8f1719bc/666370ea-afea-407f-9794-f4ebc32eac37_thumb_001_HD.jpg",بازیکنان خاتون بم بدون حجاب اجباری در لیگ قهرمانان زنان آسیا
+https://daq1pvcuhj77l.cloudfront.net/1/043c54d923954cd69aea916d8f1719bc/hls/666370ea-afea-407f-9794-f4ebc32eac37.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/34d2590429cf400cb13ac642fa8bd27d/2c6e6daf-d9c7-46d7-94d9-5ff7ab9c772f_thumb_001_HD.jpg",اقتصاد و بازار: هشدار بحران زمستانی گاز در ایران؛ رکوردشکنی تورم تولید صنعتی
+https://daq1pvcuhj77l.cloudfront.net/1/34d2590429cf400cb13ac642fa8bd27d/hls/2c6e6daf-d9c7-46d7-94d9-5ff7ab9c772f.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/79bb3e5bdd2a4010bc683d9eb9a5ecd7/763a2784-6f9d-4c10-89a8-e72091f55274_thumb_001_HD.jpg",فشار بر دانش‌آموزان برای حضور در مراسم حکومتی ۱۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/79bb3e5bdd2a4010bc683d9eb9a5ecd7/hls/763a2784-6f9d-4c10-89a8-e72091f55274.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0073bb6fe92b44bd91a65ae9d576acc1/463c69bf-73d8-472e-bf48-784a33720bde_thumb_001_HD.jpg",کنترل کامل کنگره آمریکا به دست دموکرات‌ها
+https://daq1pvcuhj77l.cloudfront.net/1/0073bb6fe92b44bd91a65ae9d576acc1/hls/463c69bf-73d8-472e-bf48-784a33720bde.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7868b1c9092449beadb950b297c45ad3/ec81e136-738d-42e6-904f-abedb13b2f13_thumb_001_HD.jpg",فوتبال اروپا در سوگ درگذشت خسوس دِ میگل، مهاجم ۳۰ ساله تنریف
+https://daq1pvcuhj77l.cloudfront.net/1/7868b1c9092449beadb950b297c45ad3/hls/ec81e136-738d-42e6-904f-abedb13b2f13.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7e7a7f07f24b4850a733ad6202d5255a/ec6a34d1-86f4-4c57-9ff6-9d700c8fd841_thumb_001_HD.jpg",گزارش روز با مجتبا پورمحسن: تاثیر شکست جمهوری‌خواهان بر تصمیم ترامپ برای جنگ 
+https://daq1pvcuhj77l.cloudfront.net/1/7e7a7f07f24b4850a733ad6202d5255a/hls/ec6a34d1-86f4-4c57-9ff6-9d700c8fd841.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e02eb4dd91e64c6e9d77d905a527920e/1bd171d9-2285-4fbb-976a-c6241c7f3d19_thumb_001_HD.jpg",مخالفت مجتبی خامنه‌ای با توافق؛ شکست جمهوری‌خواهان بر تصمیم ترامپ برای جنگ اثر می‌گذارد؟
+https://daq1pvcuhj77l.cloudfront.net/1/e02eb4dd91e64c6e9d77d905a527920e/hls/1bd171d9-2285-4fbb-976a-c6241c7f3d19.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0bdb543ab9954c85aebd82f8475e4a6e/c592e9e9-12ff-4c0f-924d-1ca71e6ba146_thumb_001_HD.jpg",اخبار عصرگاهی | چهارشنبه ۱۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/0bdb543ab9954c85aebd82f8475e4a6e/hls/c592e9e9-12ff-4c0f-924d-1ca71e6ba146.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/649ff4b91b654a8eb824961273f29ffa/9c4f788d-3a09-446d-8329-a950096ad4a8_thumb_001_HD.jpg",آیا ترامپ کار جمهوری اسلامی را تمام خواهد کرد؟
+https://daq1pvcuhj77l.cloudfront.net/1/649ff4b91b654a8eb824961273f29ffa/hls/9c4f788d-3a09-446d-8329-a950096ad4a8.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/06be612635aa4a27a8ef748811b31ae1/67a4b339-7d93-4cad-a1ed-1b46da9963ee_thumb_001_HD.jpg",سعید بشیرتاش: پیام شاهزاده رضا پهلوی در پارلمان اروپا، پایان مماشات با جمهوری اسلامی بود
+https://daq1pvcuhj77l.cloudfront.net/1/06be612635aa4a27a8ef748811b31ae1/hls/67a4b339-7d93-4cad-a1ed-1b46da9963ee.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3c88c10054e846d5b98be7576e83cd44/947df262-4f60-47be-a0f0-b54b6a4e95ca_thumb_001_HD.jpg",واکنش ترامپ به شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/3c88c10054e846d5b98be7576e83cd44/hls/947df262-4f60-47be-a0f0-b54b6a4e95ca.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c583f063d367416d88e431632bac8d5e/251530ed-6510-4609-af6a-3641d7e308f0_thumb_001_HD.jpg",سرخط خبرهای چهارشنبه ۱۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/c583f063d367416d88e431632bac8d5e/hls/251530ed-6510-4609-af6a-3641d7e308f0.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/47c5eea5496c4861a8b8763c75d9c4c7/604150d3-a858-4c21-a38e-abc03eca2dba_thumb_001_HD.jpg",واکنش‌ها در کانادا به نتایج انتخابات میان‌دوره‌ای آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/47c5eea5496c4861a8b8763c75d9c4c7/hls/604150d3-a858-4c21-a38e-abc03eca2dba.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ec7ba100cfc0453d9a57a4ac33d3bfb3/6a4df3e6-00f2-4a4c-81e0-8fb0ef0af533_thumb_001_HD.jpg",نشست خبری شاهزاده رضا پهلوی در پارلمان اروپا 
+https://daq1pvcuhj77l.cloudfront.net/1/ec7ba100cfc0453d9a57a4ac33d3bfb3/hls/6a4df3e6-00f2-4a4c-81e0-8fb0ef0af533.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/638d397ce8ec4394aaa07c61471464bf/bfeb0dba-0522-4685-aa49-51a9b4086169_thumb_001_HD.jpg",شهرام خلدی: فشار حداکثری آمریکا علیه جمهوری اسلامی در دو سال آینده ادامه خواهد داشت
+https://daq1pvcuhj77l.cloudfront.net/1/638d397ce8ec4394aaa07c61471464bf/hls/bfeb0dba-0522-4685-aa49-51a9b4086169.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ecafc978e41a42fe81dbeebdbc16f218/ec3830f5-e621-4ba0-8480-d9249212bf77_thumb_001_HD.jpg",دانیال عیوضی: مردم ایران برای آزادی مبارزه می‌کنند و تسلیم نخواهند شد
+https://daq1pvcuhj77l.cloudfront.net/1/ecafc978e41a42fe81dbeebdbc16f218/hls/ec3830f5-e621-4ba0-8480-d9249212bf77.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/130a5de71e5f4ccd8603c2e6ed1bdd9f/73cd9584-5120-4276-8c22-3e24afab54b6_thumb_001_HD.jpg",تاکید مجتبی خامنه‌ای بر ادامه‌ مبارزه با آمریکا 
+https://daq1pvcuhj77l.cloudfront.net/1/130a5de71e5f4ccd8603c2e6ed1bdd9f/hls/73cd9584-5120-4276-8c22-3e24afab54b6.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/cdd38e6e93ff48f29c5222b828afb651/e9a5f6fb-b755-4c67-9134-38d2ee23ec96_thumb_001_HD.jpg",واکنش‌ها در ایتالیا و اسرائیل به نتایج انتخابات میان‌دوره‌ای آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/cdd38e6e93ff48f29c5222b828afb651/hls/e9a5f6fb-b755-4c67-9134-38d2ee23ec96.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b8cbfbde70af4c3da3b8536e96265844/e29fde8d-6e22-4c6f-87a0-feae72256cd0_thumb_001_HD.jpg",عطا محامد: پیروزی دموکرات‌ها مانع افزایش فشار آمریکا بر جمهوری اسلامی نمی‌شود
+https://daq1pvcuhj77l.cloudfront.net/1/b8cbfbde70af4c3da3b8536e96265844/hls/e29fde8d-6e22-4c6f-87a0-feae72256cd0.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8d726d317bda431ca8a1aba8da36b53f/a16c8ec5-f377-4c4c-b5ec-cdee82ab4632_thumb_001_HD.jpg",سومین پیروزی استقلال در هفته چهارم لیگ نخبگان آسیا
+https://daq1pvcuhj77l.cloudfront.net/1/8d726d317bda431ca8a1aba8da36b53f/hls/a16c8ec5-f377-4c4c-b5ec-cdee82ab4632.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/10ff95616c4948cda3d760f443dbe3d6/5c4fb389-3101-47f7-98dc-9a78371f1485_thumb_001_HD.jpg",افزایش قیمت جهانی طلا در واکنش به نتایج انتخابات آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/10ff95616c4948cda3d760f443dbe3d6/hls/5c4fb389-3101-47f7-98dc-9a78371f1485.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/919e2151c4b547649f38954673ecd678/ad1ccdad-3029-432f-8b3a-85552cf026a3_thumb_001_HD.jpg",مروری بر روزنامه‌های ایران چهارشنبه ۱۳ آبان، با مجتبی هاشمی
+https://daq1pvcuhj77l.cloudfront.net/1/919e2151c4b547649f38954673ecd678/hls/ad1ccdad-3029-432f-8b3a-85552cf026a3.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2764cb05f02c4911a40e81482ee07404/f961d2e7-eeda-4e3e-b076-4464d9bbde80_thumb_001_HD.jpg",وزیر خارجه آلمان: جمهوری اسلامی عامل اصلی تنش‌ها در منطقه است
+https://daq1pvcuhj77l.cloudfront.net/1/2764cb05f02c4911a40e81482ee07404/hls/f961d2e7-eeda-4e3e-b076-4464d9bbde80.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f0e0b45fceb949b0ad6ccb7dcc8ab32f/396ebf07-d3ae-44d6-862e-32bc6120d557_thumb_001_HD.jpg",اخبار نیمروزی | چهارشنبه ۱۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/f0e0b45fceb949b0ad6ccb7dcc8ab32f/hls/396ebf07-d3ae-44d6-862e-32bc6120d557.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b759acbb45564062b365bba68dbb02ac/9bc6a9b3-f630-41ec-9612-dd009be757f4_thumb_001_HD.jpg",واکنش مخاطبان ایران‌اینترنشنال به پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/b759acbb45564062b365bba68dbb02ac/hls/9bc6a9b3-f630-41ec-9612-dd009be757f4.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4d7e05c8a24f443eb58d2c2fbfc7b106/89a46d06-a9eb-47ef-888b-371ec01f2bd2_thumb_001_HD.jpg",علی حسین قاضی‌زاده: شکست جمهوری‌خواهان، ترامپ را برای پایان جنگ تحت فشار می‌گذارد
+https://daq1pvcuhj77l.cloudfront.net/1/4d7e05c8a24f443eb58d2c2fbfc7b106/hls/89a46d06-a9eb-47ef-888b-371ec01f2bd2.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3dc4ebb19f984306ad414bc436b9db7d/8c245aa4-37fe-4ba4-af21-dba68059b7d7_thumb_001_HD.jpg",اکثریت سنا و مجلس نمایندگان آمریکا به دموکرات‌ها رسید
+https://daq1pvcuhj77l.cloudfront.net/1/3dc4ebb19f984306ad414bc436b9db7d/hls/8c245aa4-37fe-4ba4-af21-dba68059b7d7.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8c489bcead8d4bb2a9293685d2669644/8fecfe70-de5b-4afc-a722-868495ad7603_thumb_001_HD.jpg",سرخط خبرهای چهارشنبه ۱۳ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/8c489bcead8d4bb2a9293685d2669644/hls/8fecfe70-de5b-4afc-a722-868495ad7603.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5f76e8b4b65a4dc4a598e4a157cb9100/ef7a4b91-272b-4460-9fe0-f12cd9335f11_thumb_001_HD.jpg",واکنش اروپا، اسرائیل و ترکیه به پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/5f76e8b4b65a4dc4a598e4a157cb9100/hls/ef7a4b91-272b-4460-9fe0-f12cd9335f11.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/12bc2868c70e401796b3b8ed5986c562/d245c60d-1ee8-4484-81e6-81c897dfc779_thumb_001_HD.jpg",مرتضی کاظمیان: ذوق‌زدگی رسانه‌های حکومتی از شکست جمهوری‌خواهان، توهمی سیاسی است
+https://daq1pvcuhj77l.cloudfront.net/1/12bc2868c70e401796b3b8ed5986c562/hls/d245c60d-1ee8-4484-81e6-81c897dfc779.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9700eb55a9704aa786ca6e4143b629b6/aef76fcb-6231-4a52-b5b8-95cf2d71fc08_thumb_001_HD.jpg",روح‌الله رحیم‌پور: نتیجه انتخابات آمریکا ممکن است ترامپ را به جنگ با جمهوری اسلامی سوق دهد
+https://daq1pvcuhj77l.cloudfront.net/1/9700eb55a9704aa786ca6e4143b629b6/hls/aef76fcb-6231-4a52-b5b8-95cf2d71fc08.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e4ad85658f3144cd9845a61789f7248f/ba112ff1-84ec-496d-b54f-de429329ecfb_thumb_001_HD.jpg",آمادگی اسرائیل برای احتمال ازسرگیری درگیری با جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/e4ad85658f3144cd9845a61789f7248f/hls/ba112ff1-84ec-496d-b54f-de429329ecfb.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d11f2c7906f143c2af70a5b94908e6e0/3288e07e-9a08-4ec8-95d1-d10553eca1d8_thumb_001_HD.jpg",جمهوری آذربایجان ورود ۱۴ فرد نزدیک به جمهوری اسلامی را ممنوع کرد
+https://daq1pvcuhj77l.cloudfront.net/1/d11f2c7906f143c2af70a5b94908e6e0/hls/3288e07e-9a08-4ec8-95d1-d10553eca1d8.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/bfee9040a0624d88aa9c01af5e652d88/b681c81d-d17e-4677-af5e-282020900062_thumb_001_HD.jpg",پیامدهای انتخابات میان‌دوره‌ای آمریکا برای آسیا و اقیانوسیه 
+https://daq1pvcuhj77l.cloudfront.net/1/bfee9040a0624d88aa9c01af5e652d88/hls/b681c81d-d17e-4677-af5e-282020900062.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2116a65068124a87a8fbc55598fba130/9ebddf96-a9b4-4638-ad01-0dad03cf7331_thumb_001_HD.jpg",رضا عرب: دیدار شاهزاده رضا پهلوی با نمایندگان اروپا صدای مردم ایران را رسانده است
+https://daq1pvcuhj77l.cloudfront.net/1/2116a65068124a87a8fbc55598fba130/hls/9ebddf96-a9b4-4638-ad01-0dad03cf7331.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e2e18c7742cb47baa42f5bca7a2ee2c3/f62a8c16-8b72-4f46-96df-6a1545d8264a_thumb_001_HD.jpg",امیر حمیدی: شکست انتخاباتی جمهوری‌خواهان به معنای تضعیف قدرت آمریکا نیست
+https://daq1pvcuhj77l.cloudfront.net/1/e2e18c7742cb47baa42f5bca7a2ee2c3/hls/f62a8c16-8b72-4f46-96df-6a1545d8264a.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ff3ccfeb378641d7aee3569911a58438/1d77f2f3-b473-49bf-9cb9-d274711ec34a_thumb_001_HD.jpg",آخرین نتایج انتخابات؛ دموکرات‌ها کنترل سنا را از جمهوری‌خواهان پس گرفتند
+https://daq1pvcuhj77l.cloudfront.net/1/ff3ccfeb378641d7aee3569911a58438/hls/1d77f2f3-b473-49bf-9cb9-d274711ec34a.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0ab52a66ac8d43fe85869d11026fa708/025e8311-9c83-4a46-860a-20e9900147d8_thumb_001_HD.jpg",عضو دموکرات شورای شهر ویرجینیا: مردم از عملکرد رئیس‌جمهور فعلی آمریکا رضایت ندارند
+https://daq1pvcuhj77l.cloudfront.net/1/0ab52a66ac8d43fe85869d11026fa708/hls/025e8311-9c83-4a46-860a-20e9900147d8.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/afd5c98bae82431ba85d9186f541d9b2/f6848ea9-43c0-490b-a92c-fdb6ea31cd30_thumb_001_HD.jpg",جیمز تالاریکو با شکست رقیب جمهوری‌خواه، کرسی سنای تگزاس را به دموکرات‌ها رساند
+https://daq1pvcuhj77l.cloudfront.net/1/afd5c98bae82431ba85d9186f541d9b2/hls/f6848ea9-43c0-490b-a92c-fdb6ea31cd30.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5ad02cf765694f4dbe7d72a4843c0990/84d6a8cc-6f25-4816-a54f-48822fbd87e9_thumb_001_HD.jpg",ارزیابی رسانه‌های آمریکا: دموکرات‌ها کنترل مجلس نمایندگان را از جمهوری‌خواهان پس می‌گیرند
+https://daq1pvcuhj77l.cloudfront.net/1/5ad02cf765694f4dbe7d72a4843c0990/hls/84d6a8cc-6f25-4816-a54f-48822fbd87e9.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4fd56db7ee5a46f9bca60617a6b5b8cd/d5dc9985-c5f8-4065-b49e-832ceac98840_thumb_001_HD.jpg",امید معماریان: شکست جمهوری‌خواهان ممکن است ترامپ را به سمت حمله به جمهوری اسلامی بکشاند
+https://daq1pvcuhj77l.cloudfront.net/1/4fd56db7ee5a46f9bca60617a6b5b8cd/hls/d5dc9985-c5f8-4065-b49e-832ceac98840.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/cf7c8c8a771449db8bd6e61c19b6ec4d/8b6af889-69bf-4690-bb82-6c6c6a184f45_thumb_001_HD.jpg",آیا دموکرات‌ها می‌توانند دست ترامپ را در قبال جمهوری اسلامی ببندند؟
+https://daq1pvcuhj77l.cloudfront.net/1/cf7c8c8a771449db8bd6e61c19b6ec4d/hls/8b6af889-69bf-4690-bb82-6c6c6a184f45.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/fe44185edf314d929614ad9ff9ca6573/da14f41d-fe93-4b58-9d37-914d503c0c12_thumb_001_HD.jpg",شهرام خلدی: چرخش اسرائیل به راست و حزب دموکرات آمریکا به چپ، شکاف دو طرف را عمیق‌تر کرد
+https://daq1pvcuhj77l.cloudfront.net/1/fe44185edf314d929614ad9ff9ca6573/hls/da14f41d-fe93-4b58-9d37-914d503c0c12.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/83d101cf630e4189abdf6657367071fb/7bca58ca-2f2a-4696-bca4-e4e463748ee2_thumb_001_HD.jpg",میشیگان؛ رقابت نامزد مسلمان دموکرات برای ورود به سنای آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/83d101cf630e4189abdf6657367071fb/hls/7bca58ca-2f2a-4696-bca4-e4e463748ee2.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e753ef543bb74f7db98d4709b86d6079/9940eed1-5e4e-45c6-8f9f-65eda291c3db_thumb_001_HD.jpg",پایان رای‌گیری در اوهایو؛ رقابت نزدیک دو حزب برای کرسی پیشین جی‌دی ونس در سنا
+https://daq1pvcuhj77l.cloudfront.net/1/e753ef543bb74f7db98d4709b86d6079/hls/9940eed1-5e4e-45c6-8f9f-65eda291c3db.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0ce4c47e761d4ed8b72a9cdf12d89869/7dad5f49-51ef-40da-82fb-0c278c62f4ca_thumb_001_HD.jpg",۴۳۵ کرسی مجلس نمایندگان و ۳۵ کرسی سنا در انتخابات میان‌دوره‌ای آمریکا
 https://daq1pvcuhj77l.cloudfront.net/1/0ce4c47e761d4ed8b72a9cdf12d89869/hls/7dad5f49-51ef-40da-82fb-0c278c62f4ca.m3u8
@@ -14289,7 +14484,7 @@ https://sltwohls.wns.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/LctanF8.png" tvg-id="AFNTV.ir@SD",AFN TV
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/LctanF8.png" tvg-id="AFNTV.ir@SD",AFN TV (720p)
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
@@ -14343,7 +14538,7 @@ https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 
-#EXTINF:-1 group-title="ایران" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" tvg-id="IranJewishTV.ir@SD",Iran Jewish TV
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" tvg-id="IranJewishTV.ir@SD",Iran Jewish TV (720p)
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
