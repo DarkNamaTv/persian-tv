@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12519,15 +12510,6 @@ http://media.boni-records.com/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC DANCE BY KONTOR
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-
 #EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC RAP
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12737,6 +12719,42 @@ https://daq1pvcuhj77l.cloudfront.net/1/0ce4c47e761d4ed8b72a9cdf12d89869/hls/7dad
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/512695060bda4c46b6724d8d3187f65c/16c6c518-ba29-406f-bddb-62e36a2d8c0c_thumb_001_HD.jpg",مراد ویسی: نتیجه انتخابات آمریکا بر زمان حمله احتمالی به جمهوری اسلامی اثر می‌گذارد
 https://daq1pvcuhj77l.cloudfront.net/1/512695060bda4c46b6724d8d3187f65c/hls/16c6c518-ba29-406f-bddb-62e36a2d8c0c.m3u8
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/f3adad5e2162nw4h/licuish7k9i3zlh5.jpg",What changes will Governor-elect Gina Hinojosa bring to Texas schools?
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49443617627_49443617793/49443617793/hf-uuid-1ad9f4bf-e1b5-4a30-bc29-ea3369c21758/49443617793_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/hvs98hqpgaisjeme/h1a3ibpzz60zl7wl.jpg",Houston weather: Some showers possible late Thursday
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49442244366_49442244469/49442244469/hf-uuid-e83bc19c-85a2-46bf-abf4-b007d7029635/49442244469_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/vr2p04zyvkyg71tu/q2lhmapo5lkt1owl.jpg",Dramatic rescue: Kitten saved from Houston highway
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49440872912_49440873186/49440873186/hf-uuid-a73decd0-fdcf-4a00-9860-76777f919bd9/49440873186_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/q5gizfcldqyu5poj/a9dmme59ao12c2ly.jpg",Democrat Abdul El-Sayed wins Michigan U.S. Senate race
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49440701893_49440702043/49440702043/hf-uuid-0172f28d-6df7-4cab-935b-20ebd9d2b94c/49440702043_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/095gf3odnaz8hjhz/4pjn8bpcgh3d17eg.jpg",Letitia Plummer elected Harris County judge: What's next?
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49440575877_49440576024/49440576024/hf-uuid-76a2e3f4-f5c2-4202-8345-4dd049d6df73/49440576024_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/u423mlnvcl6vruko/zp39cvg7wy98794p.jpg",Lockdown lifted at The Woodlands High School after threat
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49440309429_49440333649/49440333649/hf-uuid-069f2b3a-df67-444b-876e-1700506b86bc/49440333649_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/5yucpwqoke6efjnt/fsab30rs689bf12t.jpg",Police update on threat that prompted The Woodlands High School lockdown
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49439587504_49439587675/49439587675/hf-uuid-e9913cd8-be43-46ef-8094-27320017cc0b/49439587675_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/o6i8evxpy4qiwriu/9dwpuc2mvrwmoduh.jpg",Healthcare workers invited to major Houston summit
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49438521235_49438539541/49438539541/hf-uuid-1cec73aa-2de0-4755-9f5f-02501d308e17/49438539541_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ozjehigwd0aqrk37/m8gu706fndhcw378.jpg",Woodlands High School on lockdown | SkyFOX
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49437129649_49437129842/49437129842/hf-uuid-c356eb90-9166-4997-a953-167fc3c88b1b/49437129842_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/mgeoefwgsmrx8xxk/n0hvc7tissacaabg.jpg",Woodlands High School on lockdown over potential threat
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49437005027_49437005192/49437005192/hf-uuid-dcacd68f-f379-4d19-894b-c8b99d4593d7/49437005192_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/h47lxqmf31jmtoc4/qbjm4myw08cvyqci.jpg",NC Results, Prediction Markets &amp; Election Outcomes
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49436424056_49436430631/49436430631/hf-uuid-a5d2e6ff-ae65-4284-bd9a-31c7aff37d5e/49436430631_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/pi2239demn0pey60/oiq7m3zin5273ixn.jpg",Houston weather: Cooler weather returns Wednesday
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49433072101_49433072225/49433072225/hf-uuid-ea0bc990-9b36-4344-885c-85db9b84a679/49433072225_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/tl6caucen12qghm5/xdve6jsl0mxtum9u.jpg",FULL: James Talarico speech after Texas Senate victory
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49424714250_49424714601/49424714601/hf-uuid-e7f6f07c-afd1-4eef-95f3-1399398c6066/49424714601_lowres.mp4
@@ -13601,42 +13619,6 @@ https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_4904992
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/dr41b46yb6pdu7n3/4uugbrv4bydc33js.jpg",Houston ICE crash: New York Times reports suspect died years ago
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49048089519_49048089844/49048089844/hf-uuid-a34060aa-eab7-4f73-813e-36024647fc33/49048089844_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/fhirgj1b5kidphkw/ptu6fo9cttro0syk.jpg",Top stories: Flying Tesla car and Katie Zacharia
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49047355243_49047355388/49047355388/hf-uuid-2d1f3d53-62a1-4354-8a4a-59123d9c57f5/49047355388_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ewhf9j232g2x1idj/om07lwri6qmwi4qq.jpg",Oregon school shooting: Friday evening details, addressing trauma
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49047169011_49047169188/49047169188/hf-uuid-8e62bdb5-b559-42e6-98e8-ea27ac7856f3/49047169188_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/hal4jtsocq5mkuhl/70ey6wd2jeds6d6p.jpg",New York Times reporter speaks on Houston ICE report
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49046674253_49046674407/49046674407/hf-uuid-ba9a27aa-340a-4805-899d-2948643bb80c/49046674407_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/xfgefajmez6pbx5n/g4vmr0g4vhg139mi.jpg",Monster Jam in Houston on Oct 17
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49046489494_49046489575/49046489575/hf-uuid-e7a9b62f-24c1-449e-9e0c-6fa9f223ffc5/49046489575_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/82hyq8wrq8edlm7u/b11tfkrp7j9r455c.jpg",Houston weather: FINALLY some fall weather (for the weekend)
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49046269265_49046269345/49046269345/hf-uuid-bbb02153-6203-46a9-b0f7-33dab9cbfa38/49046269345_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/pp3yl5kg96k55lop/gi241dyjyyh489ze.jpg",Marlon Wayans in town for Houston Improv
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49043064139_49043064216/49043064216/hf-uuid-5473279b-c041-4ac3-b85d-ce7f9b78080f/49043064216_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/7fb5w65ebg3otwaq/rq244hxggrwt819j.jpg",Texans fans in London ahead of Jaguars game
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49042892277_49042892430/49042892430/hf-uuid-6973815d-76cb-4a06-83cc-da7f003968e8/49042892430_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/1e8woi8wnljtt1wd/56u1qyrn9ibxzb5q.jpg",MI-7's Will Lawrence, PA-10 &amp; Midterm Headlines
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49041489591_49041504449/49041504449/hf-uuid-17970d2b-6827-417b-a678-e7dbde680f8d/49041504449_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/8ed5xznuthe9an27/509r1gqjg0hlgktb.jpg",Oregon school shooting: Friday afternoon updates
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49040944183_49040944426/49040944426/hf-uuid-37e156cc-982a-4315-b4ac-8471a59c1dd5/49040944426_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/47geu9i024rr9r6u/bnj56oo8oo5ll6vk.jpg",TRUMP ON TOUR | D.C. Daily
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49040476962_49040628083/49040628083/hf-uuid-2f6e5dbd-8856-4e7e-849f-70e705394d11/49040628083_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/d9bczx41bkhur7ca/6sbfh2zhxwpd53p0.jpg",Body found near Lake Sheldon in NE Harris County
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49037719160_49037719340/49037719340/hf-uuid-c697fb94-5e91-43a2-a832-ae9d11c15dab/49037719340_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/wzchfmofvq5ghffv/8c1edu303qh5zar9.jpg",Roundhouse Provisions Grass-Fed Beef Sticks | Hurricane Gear Test
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49037363192_49037363336/49037363336/hf-uuid-4b145eb7-54d1-4995-8afa-6577bc9c75d5/49037363336_lowres.mp4
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/israel-tv@main/logos/keshet12.png" group-title="📡 اسرائیل",Keshet 12
 #EXTVLCOPT:network-caching=2000
