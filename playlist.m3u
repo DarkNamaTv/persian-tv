@@ -1062,6 +1062,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -1322,6 +1331,15 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f281168543fe45bd850cd781464b445a/434ccd31-28a1-439c-844a-26b8de36a0e9_thumb_001_HD.jpg",شاهزاده رضا پهلوی: بر پیمانم با شما برای آزادی ایران ایستاده‌ام
+https://daq1pvcuhj77l.cloudfront.net/1/f281168543fe45bd850cd781464b445a/hls/434ccd31-28a1-439c-844a-26b8de36a0e9.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/cb4f23c221a648f49a129690888c6b44/60f3042d-e964-473b-9521-99ecf7c03c0e_thumb_001_HD.jpg",ترامپ: با وجود نارضایتی‌ها، هگست را در سمتش حفظ می‌کنم
+https://daq1pvcuhj77l.cloudfront.net/1/cb4f23c221a648f49a129690888c6b44/hls/60f3042d-e964-473b-9521-99ecf7c03c0e.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7f7e428ac68e4036b1ca223b8db82feb/2cd2ca51-ff7b-4799-9193-e4435954e258_thumb_001_HD.jpg",روح‌الله رحیم‌پور: سفر رضایی به مسکو نشانه انزوای راهبردی مجتبی خامنه‌ای است
+https://daq1pvcuhj77l.cloudfront.net/1/7f7e428ac68e4036b1ca223b8db82feb/hls/2cd2ca51-ff7b-4799-9193-e4435954e258.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1831064d918a4615b9b4b75b7d7fc9ea/172e8619-5f95-4b0c-93cc-7b6979a57a57_thumb_001_HD.jpg",تجمع سه‌روزه خانواده‌های ایرانی در کانادا در اعتراض به مشکلات اقامتی سربازان پیشین سپاه
 https://daq1pvcuhj77l.cloudfront.net/1/1831064d918a4615b9b4b75b7d7fc9ea/hls/172e8619-5f95-4b0c-93cc-7b6979a57a57.m3u8
