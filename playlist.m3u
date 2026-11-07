@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12545,6 +12536,30 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b4deaef8760840e8ba30c461c66b9dc1/a2c0aa6a-e18c-499a-b862-e4a518a02c9b_thumb_001_HD.jpg",سارا از تهران: «نکنه هیچ اتفاقی نیفته و باز جمهوری اسلامی باقی بمونه؟»
+https://daq1pvcuhj77l.cloudfront.net/1/b4deaef8760840e8ba30c461c66b9dc1/hls/a2c0aa6a-e18c-499a-b862-e4a518a02c9b.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1a76dbd378a74d2cbcd2e99a43cd73a0/9012fdd0-8943-4d7c-bdbd-d6bfe10ea43e_thumb_001_HD.jpg",شکست غیر منتظره پرسپولیس در برابر فجرسپاسی
+https://daq1pvcuhj77l.cloudfront.net/1/1a76dbd378a74d2cbcd2e99a43cd73a0/hls/9012fdd0-8943-4d7c-bdbd-d6bfe10ea43e.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e7fc3d2a5f68408ea360605a278104ab/2743b467-6586-4a35-8a87-ed8df6450ecb_thumb_001_HD.jpg",خلاصه بازی پرسپولیس - فجرسپاسی با گزارش مزدک میرزایی
+https://daq1pvcuhj77l.cloudfront.net/1/e7fc3d2a5f68408ea360605a278104ab/hls/2743b467-6586-4a35-8a87-ed8df6450ecb.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/39d98984d85841639f5da4c1bea015a7/cb43aebc-b18f-41eb-869c-1c463d7ec0c5_thumb_001_HD.jpg",درگذشت حسن حبیبی، «عالیجناب» فوتبال ایران
+https://daq1pvcuhj77l.cloudfront.net/1/39d98984d85841639f5da4c1bea015a7/hls/cb43aebc-b18f-41eb-869c-1c463d7ec0c5.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/eb73de4763fa4f2c906dde9a88e43166/d901ca4a-beba-454f-ba6f-62e70cfd61ac_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/eb73de4763fa4f2c906dde9a88e43166/hls/d901ca4a-beba-454f-ba6f-62e70cfd61ac.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e258e2256e8a4b84a3ec905b75ccfb8d/12d3f322-82cc-446b-b671-1d206d8dee3c_thumb_001_HD.jpg",حرف آخر با پوریا زراعتی - دستور ترامپ: آغاز سنگین‌ترین عملیات نظامی ده سال اخیر
+https://daq1pvcuhj77l.cloudfront.net/1/e258e2256e8a4b84a3ec905b75ccfb8d/hls/12d3f322-82cc-446b-b671-1d206d8dee3c.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/983cfc3fa4cc45bd99a9f7a969aa9b28/1a8b265e-4531-4924-a963-e64ede0156a3_thumb_001_HD.jpg",افزایش فشارها بر پیت هگست پس از شکست جمهوری‌خواهان در انتخابات
+https://daq1pvcuhj77l.cloudfront.net/1/983cfc3fa4cc45bd99a9f7a969aa9b28/hls/1a8b265e-4531-4924-a963-e64ede0156a3.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f1119d5228884098a940984db31ada99/5d82fe80-fd97-443a-9042-1ab4a3bdf34f_thumb_001_HD.jpg",گزارش بلومبرگ از اعلام آمادگی جمهوری اسلامی برای گفت‌وگو درباره برنامه هسته‌ای
+https://daq1pvcuhj77l.cloudfront.net/1/f1119d5228884098a940984db31ada99/hls/5d82fe80-fd97-443a-9042-1ab4a3bdf34f.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/93cb2c57bf484b76b482b23812b6f05c/cba43be0-dc46-4a14-8738-3ca5bf22f30e_thumb_001_HD.jpg",کانادا برای ۲۰۰ هزار مقیم موقت مسیر اقامت دائم در نظر گرفت
 https://daq1pvcuhj77l.cloudfront.net/1/93cb2c57bf484b76b482b23812b6f05c/hls/cba43be0-dc46-4a14-8738-3ca5bf22f30e.m3u8
