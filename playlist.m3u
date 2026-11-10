@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12546,149 +12537,125 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e5014d122b1944fd87f56868a8bf8483/6b6357ed-edcb-4546-892d-07a687be03cb_thumb_001_HD.jpg",پوست‌اندازی امیر قلعه‌نویی در تیم ملی
-https://daq1pvcuhj77l.cloudfront.net/1/e5014d122b1944fd87f56868a8bf8483/hls/6b6357ed-edcb-4546-892d-07a687be03cb.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1ccd9f2d7ad74350bf263d8a330f6c1d/fab619bc-d5cd-4608-ad5a-f279eab0cc8c_thumb_001_HD.jpg",تیتراول با نیوشا صارمی، دوشنبه ۱۸ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/1ccd9f2d7ad74350bf263d8a330f6c1d/hls/fab619bc-d5cd-4608-ad5a-f279eab0cc8c.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9bdb09e18bb747c190409d8bf896b7f2/bdc79d21-c738-44a0-a196-808d1b6ba962_thumb_001_HD.jpg",حذف خاتون بم از لیگ قهرمانان زنان آسیا
-https://daq1pvcuhj77l.cloudfront.net/1/9bdb09e18bb747c190409d8bf896b7f2/hls/bdc79d21-c738-44a0-a196-808d1b6ba962.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a5661691e3284a158db252f22ffe5f18/ca08df57-c205-4659-9576-0e7a4040792d_thumb_001_HD.jpg",اقتصاد و بازار: محاصره اقتصادی و بحران تجارت خارجی ایران؛ واکنش پزشکیان به گسترش فقر
+https://daq1pvcuhj77l.cloudfront.net/1/a5661691e3284a158db252f22ffe5f18/hls/ca08df57-c205-4659-9576-0e7a4040792d.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/87c2973a6902427fa9e1dcf5f27d463a/c7a6c33e-b5de-4d6d-a14d-589aa63cb2b3_thumb_001_HD.jpg",پیروزی تراکتور بر خیبر خرم‌آباد در تبریز
-https://daq1pvcuhj77l.cloudfront.net/1/87c2973a6902427fa9e1dcf5f27d463a/hls/c7a6c33e-b5de-4d6d-a14d-589aa63cb2b3.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a7acfabf885048e69ef5c33895b4602c/c21e8be4-9596-4474-a6a8-460495ee8172_thumb_001_HD.jpg",کانادا تحریم‌های اقتصادی جدیدی در ارتباط با جنگ روسیه در اوکراین تصویب کرد
+https://daq1pvcuhj77l.cloudfront.net/1/a7acfabf885048e69ef5c33895b4602c/hls/c21e8be4-9596-4474-a6a8-460495ee8172.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/adcc78894ef64c53a46914836cfeccfc/f1eb9111-a973-4a96-8381-235ad65cfdcc_thumb_001_HD.jpg",سپهر از گیلان: «یک مشت انگل و باجناق، حکومتی ضد نظم نوین جهانی تشکیل دادن!»
-https://daq1pvcuhj77l.cloudfront.net/1/adcc78894ef64c53a46914836cfeccfc/hls/f1eb9111-a973-4a96-8381-235ad65cfdcc.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7b5126dbadeb4e93b53368a132dcb66f/728aa042-c402-40d1-a01f-ce90d2263dbb_thumb_001_HD.jpg",گزارش روز با مجتبا پورمحسن: افشای نقشه آمریکا برای حمله زمینی به ایران از مرز خوزستان
+https://daq1pvcuhj77l.cloudfront.net/1/7b5126dbadeb4e93b53368a132dcb66f/hls/728aa042-c402-40d1-a01f-ce90d2263dbb.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6499dee2a7c1474fb6a79538c732dd3a/d0c4ac69-913d-43c6-9ccd-d6a20ac0a2b9_thumb_001_HD.jpg",آنالیز فنی استقلال خوزستان و استقلال توسط محمد تقوی
-https://daq1pvcuhj77l.cloudfront.net/1/6499dee2a7c1474fb6a79538c732dd3a/hls/d0c4ac69-913d-43c6-9ccd-d6a20ac0a2b9.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a756ac2af0444a31a41f2857b123da13/3adbe8c9-4496-40e9-81de-a4acbf1c4cc4_thumb_001_HD.jpg",افشای طرح آمریکا برای حمله از مرز خوزستان؛ فاصله ۶ روزه ناو هواپیمابر سوم آمریکا با ایران
+https://daq1pvcuhj77l.cloudfront.net/1/a756ac2af0444a31a41f2857b123da13/hls/3adbe8c9-4496-40e9-81de-a4acbf1c4cc4.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9e9dd05ac2244b0dae83ac4718a97afd/d792d9b8-4707-4b75-9cf5-1564edbd6844_thumb_001_HD.jpg",استقلال خوزستان-استقلال، زیر سایه جنجال یاسر آسانی
-https://daq1pvcuhj77l.cloudfront.net/1/9e9dd05ac2244b0dae83ac4718a97afd/hls/d792d9b8-4707-4b75-9cf5-1564edbd6844.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d50f319e4fa44282a996f02802d76bcb/b5797965-9b82-454c-b1ae-3ad2cba11d97_thumb_001_HD.jpg",گفت‌وگو با کوثر افتخاری در حاشیه نشست بین‌المللی «زنان، آزادی و امنیت» در آلمان
+https://daq1pvcuhj77l.cloudfront.net/1/d50f319e4fa44282a996f02802d76bcb/hls/b5797965-9b82-454c-b1ae-3ad2cba11d97.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/075a375a29284a07b3088b5dc8ba6fd8/9331614d-c745-4a25-b103-bde4b35581c3_thumb_001_HD.jpg",خلاصه بازی استقلال خوزستان - استقلال با گزارش مزدک میرزایی
-https://daq1pvcuhj77l.cloudfront.net/1/075a375a29284a07b3088b5dc8ba6fd8/hls/9331614d-c745-4a25-b103-bde4b35581c3.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/73b20c77b2864667875aa0798611c69a/d641a240-1269-4f4d-a7d8-d681b5a40e0a_thumb_001_HD.jpg",اخبار عصرگاهی | دوشنبه ۱۸ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/73b20c77b2864667875aa0798611c69a/hls/d641a240-1269-4f4d-a7d8-d681b5a40e0a.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/66092cc6a16d4574a1770a51e904300e/0ca0b99e-8a48-4d4e-aa89-84f1237c0ade_thumb_001_HD.jpg",هوشنگ حسن‌یاری: سرنخ حملات حوثی‌ها به عربستان و امارات در تهران است
-https://daq1pvcuhj77l.cloudfront.net/1/66092cc6a16d4574a1770a51e904300e/hls/0ca0b99e-8a48-4d4e-aa89-84f1237c0ade.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/eee07be2fd7f4107a1ae95d5ea0a7132/a73b0cc3-7446-4c81-93fa-c9a9733d829f_thumb_001_HD.jpg",گرامیداشت یاد جاویدنامان انقلاب ملی؛ خانواده جان‌باختگان بر مزار عزیزانشان گرد هم آمدند
+https://daq1pvcuhj77l.cloudfront.net/1/eee07be2fd7f4107a1ae95d5ea0a7132/hls/a73b0cc3-7446-4c81-93fa-c9a9733d829f.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5ced474a6f294271915bf15837379eab/e45b4a2b-a34c-4412-ac6e-ac777ccdc22e_thumb_001_HD.jpg",حسن منصور: ریشه فقر در ایران به نظام توزیع جمهوری اسلامی برمی‌گردد
-https://daq1pvcuhj77l.cloudfront.net/1/5ced474a6f294271915bf15837379eab/hls/e45b4a2b-a34c-4412-ac6e-ac777ccdc22e.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/640522fc0aad41dc9b57fb060654b44a/06c97ebc-05bd-40b0-97e5-851adaa3cdce_thumb_001_HD.jpg",کاسه چه‌کنم دولت برای زمستان سرد
+https://daq1pvcuhj77l.cloudfront.net/1/640522fc0aad41dc9b57fb060654b44a/hls/06c97ebc-05bd-40b0-97e5-851adaa3cdce.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f0ce8e009d974c1d84cff7bacfeae82a/dc86896e-a345-4a84-a3b3-41205a81e6ea_thumb_001_HD.jpg",عرفان قانعی‌فرد: تضعیف توان نظامی جمهوری اسلامی هزینه سرکوب را افزایش می‌دهد
-https://daq1pvcuhj77l.cloudfront.net/1/f0ce8e009d974c1d84cff7bacfeae82a/hls/dc86896e-a345-4a84-a3b3-41205a81e6ea.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/79bdbd73bd754fa7a274f3b192b5b592/c06fb331-f6f6-47da-afd9-a205052115fc_thumb_001_HD.jpg",۱۷۶ روز انفرادی و فشار برای اعتراف اجباری از امیرحسین موسوی، فعال مجازی محکوم به اعدام
+https://daq1pvcuhj77l.cloudfront.net/1/79bdbd73bd754fa7a274f3b192b5b592/hls/c06fb331-f6f6-47da-afd9-a205052115fc.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/432477d1184e4d56ada2abe62960a9c4/04af79e0-78fa-4cd3-a68a-7090e97dd99c_thumb_001_HD.jpg",چشم‌انداز: چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
-https://daq1pvcuhj77l.cloudfront.net/1/432477d1184e4d56ada2abe62960a9c4/hls/04af79e0-78fa-4cd3-a68a-7090e97dd99c.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/263c5c4ffe8649e882af2b3f514beac9/93f5eafe-3123-42bd-b985-4fabb96f5dcb_thumb_001_HD.jpg",شهرام خلدی: پایان جنگ اوکراین برای اروپا بر جنگ جمهوری اسلامی و آمریکا اولویت دارد
+https://daq1pvcuhj77l.cloudfront.net/1/263c5c4ffe8649e882af2b3f514beac9/hls/93f5eafe-3123-42bd-b985-4fabb96f5dcb.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/722b03b85fec436589679d5d3c11981e/36fc4961-de74-44a3-b8dc-7969f29a3483_thumb_001_HD.jpg",چرا جمهوری اسلامی بی‌رحمانه به جان معترضان زندانی افتاده؟!
-https://daq1pvcuhj77l.cloudfront.net/1/722b03b85fec436589679d5d3c11981e/hls/36fc4961-de74-44a3-b8dc-7969f29a3483.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a0441e865cc048f8b36ddfc27df0e03b/4cbde44a-7e1e-4651-8fc9-b3220aae23e5_thumb_001_HD.jpg",سرخط خبرهای دوشنبه ۱۸ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/a0441e865cc048f8b36ddfc27df0e03b/hls/4cbde44a-7e1e-4651-8fc9-b3220aae23e5.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/80ab4c95b85d45dfb3fa706b1256445d/77c18a19-a21f-4953-8a94-f7585eb402ef_thumb_001_HD.jpg",مئیر جاودانفر: اختلاف بر سر احزاب عرب و سربازی، تشکیل دولت آیزنکوت را دشوار می‌کند
-https://daq1pvcuhj77l.cloudfront.net/1/80ab4c95b85d45dfb3fa706b1256445d/hls/77c18a19-a21f-4953-8a94-f7585eb402ef.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a479509c4a774c3e8b9e9a1ebd284b2a/bae9baa5-24e6-4d80-ab92-107ae57304f9_thumb_001_HD.jpg",نشست بین‌المللی «زنان، آزادی و امنیت» در پارلمان فدرال آلمان
+https://daq1pvcuhj77l.cloudfront.net/1/a479509c4a774c3e8b9e9a1ebd284b2a/hls/bae9baa5-24e6-4d80-ab92-107ae57304f9.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ed478363e698421fa3d7f7eb25b7620a/a6694908-1d00-4f37-95a0-ebdef4deed16_thumb_001_HD.jpg",میعاد ملکی: هدف فشار اقتصادی آمریکا وادار کردن جمهوری اسلامی به مذاکره است
-https://daq1pvcuhj77l.cloudfront.net/1/ed478363e698421fa3d7f7eb25b7620a/hls/a6694908-1d00-4f37-95a0-ebdef4deed16.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b6ff1c98c4dd42ff8431d61a7e013203/4c776fc2-f711-46bc-8a02-af14b8ac0a76_thumb_001_HD.jpg",جاویدنام محمدپارسا امینی؛ از شکنجه در خیزش زن، زندگی، آزادی تا کشته شدن در اعتراضات دی‌ماه
+https://daq1pvcuhj77l.cloudfront.net/1/b6ff1c98c4dd42ff8431d61a7e013203/hls/4c776fc2-f711-46bc-8a02-af14b8ac0a76.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a53e1ee28bf141e6bff3b181df6890ac/d33ba80f-d088-437d-b2a4-b7c89c4b60e0_thumb_001_HD.jpg",فرزین ندیمی: آرایش نظامی آمریکا در منطقه نشان‌دهنده آمادگی برای حمله گسترده است
-https://daq1pvcuhj77l.cloudfront.net/1/a53e1ee28bf141e6bff3b181df6890ac/hls/d33ba80f-d088-437d-b2a4-b7c89c4b60e0.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/407de3e912be46b588ac7b2fd7cb663a/214c7414-14f3-4317-80d1-0aad2e095c1b_thumb_001_HD.jpg",نشست وزیران خارجه گروه هفت در پاریس
+https://daq1pvcuhj77l.cloudfront.net/1/407de3e912be46b588ac7b2fd7cb663a/hls/214c7414-14f3-4317-80d1-0aad2e095c1b.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/eddb89b6989b482586e82fd958e93dff/9f8daf2a-20b0-4ba5-8697-ef5f998ce6f3_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، یکشنبه ۱۷ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/eddb89b6989b482586e82fd958e93dff/hls/9f8daf2a-20b0-4ba5-8697-ef5f998ce6f3.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4017308365644007b7f99bc2b94c566a/6153491a-15b3-4b37-8961-c1c89fdb7d26_thumb_001_HD.jpg",گزارش آسوشیتدپرس از تصمیم سوریه برای پیوستن به پیمان مکه
+https://daq1pvcuhj77l.cloudfront.net/1/4017308365644007b7f99bc2b94c566a/hls/6153491a-15b3-4b37-8961-c1c89fdb7d26.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c7c4c6fd255b4da0a8a8e4b60ae80d3e/171cebcc-445b-494f-aaa9-82bec6af0e8d_thumb_001_HD.jpg",اقتصاد و بازار: گسترش محاصره اقتصادی آمریکا به مرزهای زمینی؛ ورود بسیج به بحران انرژی
-https://daq1pvcuhj77l.cloudfront.net/1/c7c4c6fd255b4da0a8a8e4b60ae80d3e/hls/171cebcc-445b-494f-aaa9-82bec6af0e8d.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c033bb6e786f43099f07a974f2324ab7/0c66c758-17eb-41bf-a7a8-08e882947df4_thumb_001_HD.jpg",نمایشگاه «میراث در برابر ویرانی» در پاریس؛ روایت سرنوشت مجسمه‌های غول‌پیکر بودای بامیان
+https://daq1pvcuhj77l.cloudfront.net/1/c033bb6e786f43099f07a974f2324ab7/hls/0c66c758-17eb-41bf-a7a8-08e882947df4.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b723ca55e3234d018592b4a90e39e3ad/b5e3c935-b6b5-41e9-b0bd-92de7c30115c_thumb_001_HD.jpg",گزارش روز با مجتبا پورمحسن: افشای سند محرمانه از تجارت کثیف نفت با دستور خامنه‌ای
-https://daq1pvcuhj77l.cloudfront.net/1/b723ca55e3234d018592b4a90e39e3ad/hls/b5e3c935-b6b5-41e9-b0bd-92de7c30115c.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/198de1121e8f4b83ada9a8f32f1c4568/b766e249-55c3-493a-a8ad-6d870b6485ae_thumb_001_HD.jpg",مروری بر روزنامه‌های ایران دوشنبه ۱۸ آبان، با مجتبی هاشمی
+https://daq1pvcuhj77l.cloudfront.net/1/198de1121e8f4b83ada9a8f32f1c4568/hls/b766e249-55c3-493a-a8ad-6d870b6485ae.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d5ff7dcfd8944f699d5d227398993b09/af42bc90-e9af-43cf-a277-3ab2631a14b2_thumb_001_HD.jpg",سند محرمانه تجارت کثیف با دستور خامنه‌ای؛ پول نفت در جیب گشاد اطلاعات سپاه و حسین شمخانی
-https://daq1pvcuhj77l.cloudfront.net/1/d5ff7dcfd8944f699d5d227398993b09/hls/af42bc90-e9af-43cf-a277-3ab2631a14b2.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/eb063c6fade84780a6e171dc2b52d485/55366024-fbf6-40f9-a230-7a2ad64f95a6_thumb_001_HD.jpg",اعتراض رانندگان به بلاتکلیفی و بسته شدن مرزهای پاکستان
+https://daq1pvcuhj77l.cloudfront.net/1/eb063c6fade84780a6e171dc2b52d485/hls/55366024-fbf6-40f9-a230-7a2ad64f95a6.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d15962b8aa234cec8337499055357e66/347b739e-f5ea-414b-ad05-c6ad27c41085_thumb_001_HD.jpg",گفت‌وگوی ویژه با مارک کتس، پژوهشگر ارشد شورای آتلانتیک
-https://daq1pvcuhj77l.cloudfront.net/1/d15962b8aa234cec8337499055357e66/hls/347b739e-f5ea-414b-ad05-c6ad27c41085.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/faf424d34d38494aa2cdf19381b7d745/7fd8717a-4fed-45e6-a247-f35c4a6bd2ff_thumb_001_HD.jpg",علی‌حسین قاضی‌زاده: آمریکا هم‌زمان با تشدید محاصره، گزینه نظامی را حفظ کرده است
+https://daq1pvcuhj77l.cloudfront.net/1/faf424d34d38494aa2cdf19381b7d745/hls/7fd8717a-4fed-45e6-a247-f35c4a6bd2ff.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/16efa9cf3f80441e89bcd01b07f38836/3ed23d7f-ea3c-4dc7-a3b6-1a16d0e5a6d4_thumb_001_HD.jpg",اخبار عصرگاهی | یکشنبه ۱۷ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/16efa9cf3f80441e89bcd01b07f38836/hls/3ed23d7f-ea3c-4dc7-a3b6-1a16d0e5a6d4.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e0835c34703a4bbfbcd73daa4cea0b86/bb910539-aec9-4fb1-bfce-d0b89ad8e5bf_thumb_001_HD.jpg",اخبار نیمروزی | دوشنبه ۱۸ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/e0835c34703a4bbfbcd73daa4cea0b86/hls/bb910539-aec9-4fb1-bfce-d0b89ad8e5bf.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4ad9e89c5fb84617b3ec56af01412c1f/a82914c3-d660-44e3-a899-fd94e9cdbc32_thumb_001_HD.jpg",بازتاب گسترده تجمع ایرانیان در حمایت از شاهزاده رضا پهلوی و انقلاب ملی در آلمان
-https://daq1pvcuhj77l.cloudfront.net/1/4ad9e89c5fb84617b3ec56af01412c1f/hls/a82914c3-d660-44e3-a899-fd94e9cdbc32.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5a9b4751b5b34f7997eab869bbd9ce5d/016d0238-aff7-46f5-bea3-6d187852ea45_thumb_001_HD.jpg",هشدار‌ها درباره خطر اعدام و صدور احکام سنگین برای چند فوتبالیست بازداشت‌شده
+https://daq1pvcuhj77l.cloudfront.net/1/5a9b4751b5b34f7997eab869bbd9ce5d/hls/016d0238-aff7-46f5-bea3-6d187852ea45.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6e337702ac25412c80478309f24ab815/011d7a6a-7a42-424b-a901-8bf884b27f1a_thumb_001_HD.jpg",ایمان سمیع‌زاده: انتقال دامنه سایت‌های ایرانی به دامنه ملی تهدید حریم خصوصی است
-https://daq1pvcuhj77l.cloudfront.net/1/6e337702ac25412c80478309f24ab815/hls/011d7a6a-7a42-424b-a901-8bf884b27f1a.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f84dfc0f719241acbb375ee8543a3878/4f650b1e-3706-423d-bb6e-902c445a4465_thumb_001_HD.jpg",سرخط خبرهای دوشنبه ۱۸ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/f84dfc0f719241acbb375ee8543a3878/hls/4f650b1e-3706-423d-bb6e-902c445a4465.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f329677b61dd45eeabb7ddae58416890/36dccfb3-045e-4021-80f9-fbb058934e14_thumb_001_HD.jpg",هشدار وزیر دفاع اسرائیل درباره تلاش‌های تهران برای ازسرگیری برنامه هسته‌ای
-https://daq1pvcuhj77l.cloudfront.net/1/f329677b61dd45eeabb7ddae58416890/hls/36dccfb3-045e-4021-80f9-fbb058934e14.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f4175f88e9a34933a3ef29ab1bff1878/79ac2e58-e057-43e9-91ec-6137e046e003_thumb_001_HD.jpg",مخاطبان ایران‌اینترنشنال از گرانی و کمبود دارو و حذف پوشش بیمه‌ای برخی داروها گفتند
+https://daq1pvcuhj77l.cloudfront.net/1/f4175f88e9a34933a3ef29ab1bff1878/hls/79ac2e58-e057-43e9-91ec-6137e046e003.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a649f4b55f2d4f26819ba3a0fde27683/e0decd07-e72e-481f-b03d-be66f05a28a7_thumb_001_HD.jpg",سرخط خبرهای یکشنبه ۱۷ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/a649f4b55f2d4f26819ba3a0fde27683/hls/e0decd07-e72e-481f-b03d-be66f05a28a7.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6adf7bd3c5b3409ba13649071fe3dd29/21ef69f2-80c9-4f3f-b84b-aaa9efa701f1_thumb_001_HD.jpg",آغاز مهلت ۲۸روزه گادی آیزنکوت برای تشکیل دولت؛ اختلاف احزاب اسرائیل بر سر ائتلاف
+https://daq1pvcuhj77l.cloudfront.net/1/6adf7bd3c5b3409ba13649071fe3dd29/hls/21ef69f2-80c9-4f3f-b84b-aaa9efa701f1.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/12dcb48461a7414795409ef3419e6c37/986ac407-f253-4b8b-849a-84d75aef9420_thumb_001_HD.jpg",گزارش‌ها از تهدیدهای بمب‌گذاری جعلی در سراسر اروپا
-https://daq1pvcuhj77l.cloudfront.net/1/12dcb48461a7414795409ef3419e6c37/hls/986ac407-f253-4b8b-849a-84d75aef9420.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/db4eeb4e71ba45f4850c63c97712fe6b/a2700bd2-3217-429e-bcd5-be3ed2023c42_thumb_001_HD.jpg",نیما دادگستر: ترامپ نارضایتی از جنگ را پذیرفت، اما از تصمیم حمله به ایران دفاع کرد
+https://daq1pvcuhj77l.cloudfront.net/1/db4eeb4e71ba45f4850c63c97712fe6b/hls/a2700bd2-3217-429e-bcd5-be3ed2023c42.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/35e7008ab2224af983a15e24e410a048/50d9b7bd-b1a4-4974-9b73-7e7b09807d36_thumb_001_HD.jpg",واکنش شهروندان به اعدام سه جوان در کرج؛ خشم، اندوه و نگرانی از ادامه اعدام‌ها
-https://daq1pvcuhj77l.cloudfront.net/1/35e7008ab2224af983a15e24e410a048/hls/50d9b7bd-b1a4-4974-9b73-7e7b09807d36.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/64b5b23f6e654d7c97a27b39d64aeb14/e9df4c25-c838-421d-82ee-1e6c82f5aa82_thumb_001_HD.jpg",حسین آقایی: حملات جنوب ایران می‌تواند مقدمه عملیات گسترده‌تر هوایی و زمینی باشد
+https://daq1pvcuhj77l.cloudfront.net/1/64b5b23f6e654d7c97a27b39d64aeb14/hls/e9df4c25-c838-421d-82ee-1e6c82f5aa82.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/339532395c99481d8694cc6de50c725c/3a24be7a-7415-4bde-ad5a-35f11ea03e34_thumb_001_HD.jpg",تاثیر کارزار جدید سنتکام بر واردات و صادرات ایران
-https://daq1pvcuhj77l.cloudfront.net/1/339532395c99481d8694cc6de50c725c/hls/3a24be7a-7415-4bde-ad5a-35f11ea03e34.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/13040bdf1fb94a5891614efc7d5c786a/d8cafb73-85f4-409a-bc78-e365afd19f5a_thumb_001_HD.jpg",مرتضی کاظمیان: جمهوری اسلامی دچار توهم دستیابی به توافق «برد–برد» است
+https://daq1pvcuhj77l.cloudfront.net/1/13040bdf1fb94a5891614efc7d5c786a/hls/d8cafb73-85f4-409a-bc78-e365afd19f5a.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/cbe8364994b7447bbdb3d7c9f611dd10/33ae22e0-6a19-4a99-9559-7541cce668ad_thumb_001_HD.jpg",علی صدرزاده: پیامدهای روانی حملات حوثی‌ها می‌تواند اقتصاد عربستان را تحت تاثیر قرار دهد
-https://daq1pvcuhj77l.cloudfront.net/1/cbe8364994b7447bbdb3d7c9f611dd10/hls/33ae22e0-6a19-4a99-9559-7541cce668ad.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/da4cc3392af1406c8641728a714f2ba9/e74e2895-fa21-4d63-84a2-87c7642f5e48_thumb_001_HD.jpg",سی‌ویکمین کنفرانس اقلیمی سازمان ملل در آنتالیا برگزار می‌شود
+https://daq1pvcuhj77l.cloudfront.net/1/da4cc3392af1406c8641728a714f2ba9/hls/e74e2895-fa21-4d63-84a2-87c7642f5e48.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/670e25bdac384681ad1abef9cf68ac52/11afa141-6ac6-4c2d-a27a-1db2295e8d7c_thumb_001_HD.jpg",مروری بر روزنامه‌های ایران یکشنبه ۱۷ آبان، با مجتبی هاشمی
-https://daq1pvcuhj77l.cloudfront.net/1/670e25bdac384681ad1abef9cf68ac52/hls/11afa141-6ac6-4c2d-a27a-1db2295e8d7c.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c169b26b22a545758caeef32d0b17808/b5ebb908-b0ee-463d-a4a0-e15bb1704df2_thumb_001_HD.jpg",محمدجواد اکبرین: رسانه‌های منطقه پیشرفت مذاکرات را در گرو خواسته‌های واقع‌بینانه می‌دانند
+https://daq1pvcuhj77l.cloudfront.net/1/c169b26b22a545758caeef32d0b17808/hls/b5ebb908-b0ee-463d-a4a0-e15bb1704df2.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/97afa57d7d7e41069b843c2c5a1fe13b/8bc7c915-c7e8-42e9-8fe9-8a2f7f9fa2ff_thumb_001_HD.jpg",آسیه امینی: جمهوری اسلامی کشتار دی‌ماه را با اعدام و فشار به خانواده‌ها ادامه می‌دهد
-https://daq1pvcuhj77l.cloudfront.net/1/97afa57d7d7e41069b843c2c5a1fe13b/hls/8bc7c915-c7e8-42e9-8fe9-8a2f7f9fa2ff.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6abd722db0e6459d822caef911ef0c03/4e723538-3d07-4280-987e-5b410353bcd9_thumb_001_HD.jpg",حسین علیزاده: ترامپ از اقدامات نظامی سخت فاصله گرفته، اما تغییر رویکردش منتفی نیست
+https://daq1pvcuhj77l.cloudfront.net/1/6abd722db0e6459d822caef911ef0c03/hls/4e723538-3d07-4280-987e-5b410353bcd9.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/3430b93a914348c181a0d9fd33a2ee6e/d0d40779-d2cc-4813-9f7c-915b4b6b5b51_thumb_001_HD.jpg",اخبار نیمروزی | یکشنبه ۱۷ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/3430b93a914348c181a0d9fd33a2ee6e/hls/d0d40779-d2cc-4813-9f7c-915b4b6b5b51.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/368a1bb2ea344d209e4fb780aa9933c4/4e367a76-400a-43be-bc1a-df772cd05cf4_thumb_001_HD.jpg",حمایت روسیه و چین از جنگ ایران با وجود ادعای بی‌طرفی
+https://daq1pvcuhj77l.cloudfront.net/1/368a1bb2ea344d209e4fb780aa9933c4/hls/4e367a76-400a-43be-bc1a-df772cd05cf4.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/89d57ff11c61493f8277d15dd27ce661/28a53c6e-157a-4f4f-95fd-493a416e8bb3_thumb_001_HD.jpg",شش کشته و ۱۵ زخمی در تیراندازی مرگبار در کراکوف لهستان
-https://daq1pvcuhj77l.cloudfront.net/1/89d57ff11c61493f8277d15dd27ce661/hls/28a53c6e-157a-4f4f-95fd-493a416e8bb3.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ffe55a5ce8254ef6bae297530e9fe29a/8283c7a9-b88e-4ab0-9837-4acddebc6ae6_thumb_001_HD.jpg",محمد قائدی: جمهوری اسلامی پس از انتخابات آمریکا هم از خواسته‌هایش عقب‌نشینی نکرده است
+https://daq1pvcuhj77l.cloudfront.net/1/ffe55a5ce8254ef6bae297530e9fe29a/hls/8283c7a9-b88e-4ab0-9837-4acddebc6ae6.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c2073b393b144accbfdea884391bc906/09cc9021-d6bf-4794-ac1d-e803336cb259_thumb_001_HD.jpg",درگذشت پدر جاویدنام مهرزاد نظری در پی فشار روانی ناشی از مرگ فرزندش
-https://daq1pvcuhj77l.cloudfront.net/1/c2073b393b144accbfdea884391bc906/hls/09cc9021-d6bf-4794-ac1d-e803336cb259.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2dad02aba7514d13a8a518198028c6e4/bfbdc3de-9c91-4bf0-9184-8af74fa1e4fc_thumb_001_HD.jpg",آرش آرامش: جمهوری اسلامی از برنامه هسته‌ای نظامی و فعالیت‌های مخرب منطقه‌ای دست نمی‌کشد
+https://daq1pvcuhj77l.cloudfront.net/1/2dad02aba7514d13a8a518198028c6e4/hls/bfbdc3de-9c91-4bf0-9184-8af74fa1e4fc.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/bf87bba3e5fb4479bee6406f7bfc50c5/2cd349b2-3f75-4415-83a0-6a73abc5aac6_thumb_001_HD.jpg",سرخط خبرهای یکشنبه ۱۷ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/bf87bba3e5fb4479bee6406f7bfc50c5/hls/2cd349b2-3f75-4415-83a0-6a73abc5aac6.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/26f3cafd51be4eb8bf005508832a629d/c2b21d00-f629-4d6c-a426-3e37675fb16c_thumb_001_HD.jpg",اخبار بامدادی | دوشنبه ۱۸ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/26f3cafd51be4eb8bf005508832a629d/hls/c2b21d00-f629-4d6c-a426-3e37675fb16c.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b8c6ea4446304568adff2ea131e424fa/5bfb7a80-9d28-4dd8-9981-d1cc0cde3070_thumb_001_HD.jpg",احسان دانشور: غافلگیری مکرر در برابر سیل نتیجه ضعف مدیریت آب است
-https://daq1pvcuhj77l.cloudfront.net/1/b8c6ea4446304568adff2ea131e424fa/hls/5bfb7a80-9d28-4dd8-9981-d1cc0cde3070.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c98319f454384c2286e467b46ac3f389/4c869607-8996-4d9c-957a-7d463bdeaaca_thumb_001_HD.jpg",صدور احکام تازه اعدام در مشهد هم‌زمان با اعدام سه معترض در کرج
+https://daq1pvcuhj77l.cloudfront.net/1/c98319f454384c2286e467b46ac3f389/hls/4c869607-8996-4d9c-957a-7d463bdeaaca.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/346878ddfb8b44e6b9ade67d7604ce49/27465fb4-f0c0-4d17-9e2d-0ccdf38298e4_thumb_001_HD.jpg",علی شیرازی: سبک زندگی مردم ایران به اعتراض اجتماعی علیه جمهوری اسلامی تبدیل شده است
-https://daq1pvcuhj77l.cloudfront.net/1/346878ddfb8b44e6b9ade67d7604ce49/hls/27465fb4-f0c0-4d17-9e2d-0ccdf38298e4.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/eccdaff723cb4a519744ea3d77120484/8d4591ca-d365-4941-b93c-92d832fbc4f9_thumb_001_HD.jpg",تقدیر از شش دهه تلاش سیما بینا برای حفظ میراث موسیقایی ایران در دانشگاه استنفورد
+https://daq1pvcuhj77l.cloudfront.net/1/eccdaff723cb4a519744ea3d77120484/hls/8d4591ca-d365-4941-b93c-92d832fbc4f9.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/db1453fd62274c34b0677d1a0ae4f53b/955747f6-2467-4c9e-ae09-169427764525_thumb_001_HD.jpg",تانیاهو خواستار تشکیل دولت وحدت ملی با رقبای سیاسی شد
-https://daq1pvcuhj77l.cloudfront.net/1/db1453fd62274c34b0677d1a0ae4f53b/hls/955747f6-2467-4c9e-ae09-169427764525.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e8b1cc0a5c974f65a7d3bd8d420ee1fb/4d0f734a-1cc9-47ea-97a4-e828e39cf724_thumb_001_HD.jpg",راهپیمایی ایرانیان کلگری در حمایت از شاهزاده رضا پهلوی و اعتراض به اعدام‌ها در ایران
+https://daq1pvcuhj77l.cloudfront.net/1/e8b1cc0a5c974f65a7d3bd8d420ee1fb/hls/4d0f734a-1cc9-47ea-97a4-e828e39cf724.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2cc21e8a64cf43ecad13d29ace20b8bc/f367cf29-cf6f-46b1-9057-2c084384ad46_thumb_001_HD.jpg",درخواست ترکیه برای ابتکار جهانی حفاظت از تنگه هرمز و باب‌المندب
-https://daq1pvcuhj77l.cloudfront.net/1/2cc21e8a64cf43ecad13d29ace20b8bc/hls/f367cf29-cf6f-46b1-9057-2c084384ad46.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/26639056015543a5b6fadbc8ef63d879/30cb33e6-9550-4459-8db8-27ffee3fc37f_thumb_001_HD.jpg",امیر گیتی: ترامپ در تلاش است به دیپلماسی فرصت دیگری بدهد
+https://daq1pvcuhj77l.cloudfront.net/1/26639056015543a5b6fadbc8ef63d879/hls/30cb33e6-9550-4459-8db8-27ffee3fc37f.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/489600d035724cadb751eeb035307793/e17aeb18-322b-4f2e-afca-68ac09e9284a_thumb_001_HD.jpg",اجرای حکم اعدام سه بازداشتی اعتراضات دی‌ماه در کرج
-https://daq1pvcuhj77l.cloudfront.net/1/489600d035724cadb751eeb035307793/hls/e17aeb18-322b-4f2e-afca-68ac09e9284a.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/bb25ff819b4a4518ad6a68d1c36d0ba7/58941fb4-01d5-4c49-aef2-1ac445ea9d01_thumb_001_HD.jpg",نمایش لباس‌ها و وسایل شخصی فردی مرکوری، اسطوره موسیقی راک، در لندن
-https://daq1pvcuhj77l.cloudfront.net/1/bb25ff819b4a4518ad6a68d1c36d0ba7/hls/58941fb4-01d5-4c49-aef2-1ac445ea9d01.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b4398da76d0c4c458f9f1964b6d9ab21/e1c95144-4b54-471d-9e50-f2e6bd44ebff_thumb_001_HD.jpg",تجمع ایرانیان در توکیو در حمایت از شاهزاده رضا پهلوی
-https://daq1pvcuhj77l.cloudfront.net/1/b4398da76d0c4c458f9f1964b6d9ab21/hls/e1c95144-4b54-471d-9e50-f2e6bd44ebff.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/d895b416860e473585c9d169caf92d40/3419cb8e-7b17-4e02-9885-19cd3d43c248_thumb_001_HD.jpg",توقیف کامیون حامل ۳۵ موشک و بازداشت اعضای گروه‌های وابسته به جمهوری اسلامی در عراق
-https://daq1pvcuhj77l.cloudfront.net/1/d895b416860e473585c9d169caf92d40/hls/3419cb8e-7b17-4e02-9885-19cd3d43c248.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/dd49fddeb6c74ba585b3c8c46a89aad4/6901dfff-d465-4075-9195-550f0d94f4a5_thumb_001_HD.jpg",اخبار بامدادی  | یکشنبه ۱۷ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/dd49fddeb6c74ba585b3c8c46a89aad4/hls/6901dfff-d465-4075-9195-550f0d94f4a5.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c4db0ab8fede474b98c37e2109366bad/4aca7c3e-61b6-47ab-9672-03eecf087d95_thumb_001_HD.jpg",شش معترض پرونده شاندیز در آستانه اجرای حکم اعدام
-https://daq1pvcuhj77l.cloudfront.net/1/c4db0ab8fede474b98c37e2109366bad/hls/4aca7c3e-61b6-47ab-9672-03eecf087d95.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2ddac7ed133344a38b142dda3627a48e/02a9bafa-6a05-44ec-b2c8-7b82549b1567_thumb_001_HD.jpg",علی معموری: جمهوری اسلامی در حال گسترش برد موشک‌ها و تغییر دکترین نظامی است
-https://daq1pvcuhj77l.cloudfront.net/1/2ddac7ed133344a38b142dda3627a48e/hls/02a9bafa-6a05-44ec-b2c8-7b82549b1567.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/cb43fd5a89ed46fbaf2008eb9b6c5c5d/18ffe099-6131-48f7-88a1-dce9ec1b164a_thumb_001_HD.jpg",امیر حمیدی: هدف فشارهای آمریکا باید قطع شریان مالی و تدارکاتی سپاه باشد
-https://daq1pvcuhj77l.cloudfront.net/1/cb43fd5a89ed46fbaf2008eb9b6c5c5d/hls/18ffe099-6131-48f7-88a1-dce9ec1b164a.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8ff49502036c4ebfb542807dc13e9c7c/65ca330a-dad6-4323-962a-ae94863720d5_thumb_001_HD.jpg",سرخط خبرهای یکشنبه ۱۷ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/8ff49502036c4ebfb542807dc13e9c7c/hls/65ca330a-dad6-4323-962a-ae94863720d5.m3u8
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/afeddd88856b4c9db9326ee8f48d8a10/278b7946-5312-4af6-a981-107b5a23ad7a_thumb_001_HD.jpg",سرخط خبرهای دوشنبه ۱۸ آبان
+https://daq1pvcuhj77l.cloudfront.net/1/afeddd88856b4c9db9326ee8f48d8a10/hls/278b7946-5312-4af6-a981-107b5a23ad7a.m3u8
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/a2rbhi0pnd177v9f/ugq2kjmpzuwfxpko.jpg",Houston weather: Nov. 8 overnight forecast
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49524841939_49524842075/49524842075/hf-uuid-b5219ba7-41b6-447b-81db-81144f755689/49524842075_lowres.mp4
@@ -14292,6 +14259,15 @@ https://hls.oxir.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://live.yourtime.tv/hls/stream.m3u8
 
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/CeMf68L.png" tvg-id="OmideIranTV.us@SD",Omide Iran
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://oitnhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/oHmh5Jb.png" tvg-id="Shabakeh7.us@SD",Shabakeh 7
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -14417,6 +14393,24 @@ https://slonehls.wns.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" tvg-id="PooyaTV.ir@SD",Pooya TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/LctanF8.png" tvg-id="AFNTV.ir@SD",AFN TV (720p)
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/AbrHI7K.png" tvg-id="PMC.ae@SD",PMC
 #EXTVLCOPT:network-caching=2000
