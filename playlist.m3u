@@ -12501,15 +12501,6 @@ https://hls.sunmusic.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 http://media.boni-records.com/index.m3u8
 
-#EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="https://i.imgur.com/E65GQN9.png",DELUXE MUSIC
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
 #EXTINF:-1 group-title="🎵 موسیقی" tvg-logo="",DELUXE MUSIC DANCE BY KONTOR
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12536,6 +12527,33 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a0bfcf3cb5ce4adb9e09b207ccbbc62d/bfa0ce47-5258-48fe-ae1b-4846e9839afe_thumb_001_HD.jpg",احمد علوی: محاصره زمینی ایران می‌تواند به تشدید تورم، رکود و کمبود کالا منجر شود
+https://daq1pvcuhj77l.cloudfront.net/1/a0bfcf3cb5ce4adb9e09b207ccbbc62d/hls/bfa0ce47-5258-48fe-ae1b-4846e9839afe.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/56917a1bf24548a1b729c212e0960c58/246a7584-9a10-49e9-a514-8b2bed66a270_thumb_001_HD.jpg",منشه امیر: تشکیل دولت آیزنکوت به جلب حمایت احزاب مذهبی اسرائیل بستگی دارد
+https://daq1pvcuhj77l.cloudfront.net/1/56917a1bf24548a1b729c212e0960c58/hls/246a7584-9a10-49e9-a514-8b2bed66a270.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/322f6f44b95a4ef0afd19a4e61c7f546/c95f9c40-5660-4ae5-bcc5-010e4c038501_thumb_001_HD.jpg",روح‌الله رحیم‌پور: جمهوری اسلامی در تله انتظار راهبردی آمریکا گرفتار شده است
+https://daq1pvcuhj77l.cloudfront.net/1/322f6f44b95a4ef0afd19a4e61c7f546/hls/c95f9c40-5660-4ae5-bcc5-010e4c038501.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/ae4895c808974a89974913068eeae5f5/5d6c537b-14e7-4029-98f8-a71717a6550b_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد: آمادگی ارتش آمریکا برای حمله به جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/ae4895c808974a89974913068eeae5f5/hls/5d6c537b-14e7-4029-98f8-a71717a6550b.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c2dea20ba18e4864a5d0a9e6708eee1c/cc7a309d-91ef-4bdb-816e-c6b62b51034f_thumb_001_HD.jpg",دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
+https://daq1pvcuhj77l.cloudfront.net/1/c2dea20ba18e4864a5d0a9e6708eee1c/hls/cc7a309d-91ef-4bdb-816e-c6b62b51034f.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/774627b9dcd243078432ccdf73401e30/ce9a6459-84ae-4ea8-82d7-fd9cecac242f_thumb_001_HD.jpg",چشم‌انداز: دروازه‌های آهنین؛ طرح جدید آمریکا برای خفه کردن سپاه
+https://daq1pvcuhj77l.cloudfront.net/1/774627b9dcd243078432ccdf73401e30/hls/ce9a6459-84ae-4ea8-82d7-fd9cecac242f.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7fd4226ab4b54cbcbd3506fea3a356f6/d65dc2ae-1779-467c-97d9-2bb3e3d5f630_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/7fd4226ab4b54cbcbd3506fea3a356f6/hls/d65dc2ae-1779-467c-97d9-2bb3e3d5f630.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/a6c10b88f4dd43d9885b875438bfd7d5/201904a8-d987-4dff-a7e3-6a20851ce3cf_thumb_001_HD.jpg",بهنام طالب‌لو: میانجی‌گری قطر می‌تواند حمله به ایران را به تاخیر بیندازد، نه متوقف کند
+https://daq1pvcuhj77l.cloudfront.net/1/a6c10b88f4dd43d9885b875438bfd7d5/hls/201904a8-d987-4dff-a7e3-6a20851ce3cf.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f622457183344d7e92baf9fd1dd2cf4f/e077935f-308d-4b1a-8501-90de09adade2_thumb_001_HD.jpg",ترامپ هم‌زمان با مذاکرات با تهران، احتمال حمله به ایران را پایین دانست
+https://daq1pvcuhj77l.cloudfront.net/1/f622457183344d7e92baf9fd1dd2cf4f/hls/e077935f-308d-4b1a-8501-90de09adade2.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1ccd9f2d7ad74350bf263d8a330f6c1d/fab619bc-d5cd-4608-ad5a-f279eab0cc8c_thumb_001_HD.jpg",تیتراول با نیوشا صارمی، دوشنبه ۱۸ آبان
 https://daq1pvcuhj77l.cloudfront.net/1/1ccd9f2d7ad74350bf263d8a330f6c1d/hls/fab619bc-d5cd-4608-ad5a-f279eab0cc8c.m3u8
