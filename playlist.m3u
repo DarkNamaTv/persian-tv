@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12545,27 +12536,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/4caf6efd627b42f087027f5b5b93261c/78c739d3-1177-4322-9749-3195d8d17251_thumb_001_HD.jpg",رضا طالبی: تهدید مدارس اروپا ممکن است بخشی از راهبرد روسیه برای ایجاد بحران باشد
-https://daq1pvcuhj77l.cloudfront.net/1/4caf6efd627b42f087027f5b5b93261c/hls/78c739d3-1177-4322-9749-3195d8d17251.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/95efbac067bd4e91818961caa3a06396/9214b948-8509-46ec-9f8e-2b2f5ec38054_thumb_001_HD.jpg",جمشید برزگر: بن‌بست مذاکرات، احتمال اقدام نظامی آمریکا علیه جمهوری اسلامی را افزایش می‌دهد
-https://daq1pvcuhj77l.cloudfront.net/1/95efbac067bd4e91818961caa3a06396/hls/9214b948-8509-46ec-9f8e-2b2f5ec38054.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0d0e2deeb22f4b4fa129b720c7fc574a/ed8e3901-24ad-410f-9735-2d83643e0fb3_thumb_001_HD.jpg",اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
-https://daq1pvcuhj77l.cloudfront.net/1/0d0e2deeb22f4b4fa129b720c7fc574a/hls/ed8e3901-24ad-410f-9735-2d83643e0fb3.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/53c63a1970b843c2a9c2223c28bb8ffc/142791bd-8f85-4858-8a5a-68e9d816d0ae_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
-https://daq1pvcuhj77l.cloudfront.net/1/53c63a1970b843c2a9c2223c28bb8ffc/hls/142791bd-8f85-4858-8a5a-68e9d816d0ae.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5990952d241c4e1eaea329efce5f047f/76f52f3f-2e31-4559-a4c0-e416eab9d097_thumb_001_HD.jpg",چشم‌انداز: اولتیماتوم نظامی حکومت ایران به ناتو و کشورهای اروپایی
-https://daq1pvcuhj77l.cloudfront.net/1/5990952d241c4e1eaea329efce5f047f/hls/76f52f3f-2e31-4559-a4c0-e416eab9d097.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/eae4b8086ab34b46b2bb6d3508843511/20caa921-6776-47d7-ac3a-c807178117ce_thumb_001_HD.jpg",آمریکا، اسرائیل و جمهوری اسلامی در تدارک رویارویی دوباره
-https://daq1pvcuhj77l.cloudfront.net/1/eae4b8086ab34b46b2bb6d3508843511/hls/20caa921-6776-47d7-ac3a-c807178117ce.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6cd685cd64ed48c9ba9eb6a1f6b2337a/ad19cc1f-b91a-4d10-8f2b-0c8280e57cb5_thumb_001_HD.jpg",افشای جزییات کار شبکه منتسب به سپاه در اروپا
-https://daq1pvcuhj77l.cloudfront.net/1/6cd685cd64ed48c9ba9eb6a1f6b2337a/hls/ad19cc1f-b91a-4d10-8f2b-0c8280e57cb5.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c5de2bfd89cf494f9d725ad836fe4e72/39e20e88-182f-4f25-a031-9a7f3e14b372_thumb_001_HD.jpg",تیتر اول با نیوشا صارمی، چهارشنبه ۲۰ آبان
 https://daq1pvcuhj77l.cloudfront.net/1/c5de2bfd89cf494f9d725ad836fe4e72/hls/39e20e88-182f-4f25-a031-9a7f3e14b372.m3u8
