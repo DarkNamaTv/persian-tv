@@ -12276,6 +12276,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12536,6 +12545,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2b3c801cfa4b403cb35ca1da3000b63f/57acac81-a837-4728-9380-5dae70861e77_thumb_001_HD.jpg",علی حسین قاضی‌زاده: جمهوری اسلامی در صورت شکست مذاکرات، آمریکا را به سمت جنگ سوق می‌دهد
+https://daq1pvcuhj77l.cloudfront.net/1/2b3c801cfa4b403cb35ca1da3000b63f/hls/57acac81-a837-4728-9380-5dae70861e77.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/527b8b47bf9145f49ffea4281eb84d45/01ed486c-b248-4fe3-b06c-28d4c7683021_thumb_001_HD.jpg",واکنش کاربران رسانه‌های اجتماعی به اظهارات مقام‌های جمهوری اسلامی درباره تاب‌آوری مردم
 https://daq1pvcuhj77l.cloudfront.net/1/527b8b47bf9145f49ffea4281eb84d45/hls/01ed486c-b248-4fe3-b06c-28d4c7683021.m3u8
