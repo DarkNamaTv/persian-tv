@@ -12276,6 +12276,15 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12536,9 +12545,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9236b30987f9499aa7d224dffbe5d594/27374e3d-a316-4ceb-b915-572587b43d4e_thumb_001_HD.jpg",اخبار عصرگاهی | جمعه ۲۲ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/9236b30987f9499aa7d224dffbe5d594/hls/27374e3d-a316-4ceb-b915-572587b43d4e.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/bf3a218f0b7a42fe97a8bf4361294a71/c59b41ca-858d-4474-974a-8b00ed806586_thumb_001_HD.jpg",آسیه امینی: هرچه حکومت از مردم احساس ناامنی بیشتری کند، تحملش کمتر می‌شود
 https://daq1pvcuhj77l.cloudfront.net/1/bf3a218f0b7a42fe97a8bf4361294a71/hls/c59b41ca-858d-4474-974a-8b00ed806586.m3u8
@@ -14519,6 +14525,15 @@ https://klmhls.wns.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://mohabathls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/VTLQeul.png" tvg-id="Sat7Pars.cy@SD",Sat7 Pars
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://sat7phls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/D6KBLB8.png" tvg-id="KomalaTV.se@SD",Komala TV
 #EXTVLCOPT:network-caching=2000
