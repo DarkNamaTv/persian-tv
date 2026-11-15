@@ -12537,9 +12537,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5b302b0426164bc8a9c6925cbe9d6aa6/745d52c0-1f93-4fa4-bf1a-887aae951de1_thumb_001_HD.jpg",کامبیز توانا: تشدید فشار اقتصادی علیه جمهوری اسلامی اولویت اصلی دولت ترامپ است
-https://daq1pvcuhj77l.cloudfront.net/1/5b302b0426164bc8a9c6925cbe9d6aa6/hls/745d52c0-1f93-4fa4-bf1a-887aae951de1.m3u8
-
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/280c820f7a0f4c91baf4da1bedd4e099/9ecca4e6-aa61-4afb-bd65-3976229aa120_thumb_001_HD.jpg",مئیر جاودانفر: در اسرائیل اجماعی برای شروع دوباره جنگ با جمهوری اسلامی وجود ندارد
 https://daq1pvcuhj77l.cloudfront.net/1/280c820f7a0f4c91baf4da1bedd4e099/hls/9ecca4e6-aa61-4afb-bd65-3976229aa120.m3u8
 
@@ -12698,6 +12695,18 @@ https://daq1pvcuhj77l.cloudfront.net/1/39ab3471ccd14b079d1ca38d899c76a1/hls/a505
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c804821ab4db4b1d91217fd05cf8a00e/89a28a8b-2f80-4610-914e-5c473ff28c74_thumb_001_HD.jpg",هت‌تریک؛ فیفادی ایران در محاصره آمریکا؛ مسیر پرپیچ‌وخم تیم ملی برای دو بازی دوستانه
 https://daq1pvcuhj77l.cloudfront.net/1/c804821ab4db4b1d91217fd05cf8a00e/hls/89a28a8b-2f80-4610-914e-5c473ff28c74.m3u8
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/vvp3cn63meub5kpi/o4bl2e2dmhlyv8y4.jpg",Houston weather: Sunday storm timeline as of Saturday evening
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49641975198_49641975375/49641975375/hf-uuid-6bdb5ee0-c9de-4f72-b4e6-a4023c7b4090/49641975375_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/nu512fez7s7ht9md/sph0bl4km2wz8bnk.jpg",FAA ground stop aftermath impacts Houston airports
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49641891148_49641891331/49641891331/hf-uuid-eb4d90d1-65a7-4c5b-90a0-e5c8e444e917/49641891331_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/5ehn6myf09v24x8m/87qnz3ya3z9xexmb.jpg",SpaceX Starship returns to Earth 
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49640078028_49640078132/49640078132/hf-uuid-f9554559-8a49-4de5-8460-5d58f57bb612/49640078132_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/8v77pzferxlodwuq/705c33ss3upbcn96.jpg",Houston weather: Cool Saturday, Storm Alert Sunday
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49635857593_49635857724/49635857724/hf-uuid-0646471d-5bf5-48a7-9f4f-0b42abc31f96/49635857724_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/ae2qet4tbsd79que/eis50yynf6wcz9dw.jpg",Houston weather: Nice day expected Saturday, rain expected on Sunday
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49625721855_49625721994/49625721994/hf-uuid-51e833c3-ffb5-426f-9ee1-a765d557c69b/49625721994_lowres.mp4
@@ -13587,18 +13596,6 @@ https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_4927064
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/iyknfwjjxoyy04ki/44sdzh78178rngwb.jpg",CA-22, CA-11, GA Elections &amp; Tech Billionaires
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49268650630_49268655692/49268655692/hf-uuid-e06f48ba-733d-4e3c-aa10-5ccf04dde77e/49268655692_lowres.mp4
 
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/btbjfg3xzq9k5r31/wfgknan91nrnmdtd.jpg",NEW: TRUMP/EPSTEIN  | D.C. Daily
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49267755024_49267819807/49267819807/hf-uuid-890ffaa4-9929-4b7a-8847-ad1d10943cdc/49267819807_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/tkqhx3ttdcar6fs8/521lciv73ymlq7r9.jpg",VIDEO: Montgomery Co. deputy vehicle hit during traffic stop
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49265816054_49265816168/49265816168/hf-uuid-16c7e8bd-958d-4abb-94db-fa19b44cda72/49265816168_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/3nab3mapg7779wiv/6fz128bllw2atsvd.jpg",Your Legal Questions: October 27, 2026
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49264386713_49264386842/49264386842/hf-uuid-d445c8fe-1398-4fb7-9356-34a21d96d20b/49264386842_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/qewl59ydfat9yqye/ik0aa8r6ckgrayv9.jpg",Houston weather: Comfortable Tuesday, midweek showers possible
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49262994845_49262994934/49262994934/hf-uuid-5727ee01-0319-455f-b9df-0e91c56aadb2/49262994934_lowres.mp4
-
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/israel-tv@main/logos/keshet12.png" group-title="📡 اسرائیل",Keshet 12
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -14238,6 +14235,15 @@ https://iptv.mihantv.com/mihantv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://tv.iraniancongress.com/stream/tv.m3u8
 
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" tvg-id="PressTV.ir@SD",Press TV
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/presstv.m3u8
+
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/TmqComb.png" tvg-id="VoATVPersian.us@SD",VOA Persian
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -14327,6 +14333,42 @@ https://itnhls.wns.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" tvg-id="iFilm2.ir@SD",iFilm 2
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmArabic.ir@SD",iFilm Arabic
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmEnglish.ir@SD",iFilm English
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-id="iFilmPersian.ir@SD",iFilm Persian
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/persian-tv@master/logos/afrafilm.jpg" tvg-id="AfraFilm.ir@SD",Afra Film
 #EXTVLCOPT:network-caching=2000
