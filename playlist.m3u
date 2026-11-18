@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12545,12 +12536,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/2c3e6b531490438a945766e0d76c7c9c/208a7e8c-6a02-4be9-a070-bb161748ea14_thumb_001_HD.jpg",اخبار عصرگاهی | چهارشنبه ۲۷ آبان
-https://daq1pvcuhj77l.cloudfront.net/1/2c3e6b531490438a945766e0d76c7c9c/hls/208a7e8c-6a02-4be9-a070-bb161748ea14.m3u8
-
-#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7ce8fb7b2c474043b18de0a04c9dc86c/6296ae19-213e-469e-9228-3f3517b3ccfa_thumb_001_HD.jpg",فیلم زیرزمینی «پایان خوش» در غیاب سازندگان ممنوع‌الخروجش در تالین به نمایش درآمد
-https://daq1pvcuhj77l.cloudfront.net/1/7ce8fb7b2c474043b18de0a04c9dc86c/hls/6296ae19-213e-469e-9228-3f3517b3ccfa.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f3b01faa3b13452eb2178c179aa707aa/65f608f2-687a-4e29-856a-99dfa9683c5b_thumb_001_HD.jpg",دیدار فرماندهان ارشد نظامی اسرائیل و آمریکا با محوریت احتمال ازسرگیری جنگ با جمهوری اسلامی
 https://daq1pvcuhj77l.cloudfront.net/1/f3b01faa3b13452eb2178c179aa707aa/hls/65f608f2-687a-4e29-856a-99dfa9683c5b.m3u8
