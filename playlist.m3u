@@ -12276,15 +12276,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12545,6 +12536,45 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/b7f260466cb24b12a7f6b843d8aedd1e/8e967fd8-9664-4398-b181-de1865006ddc_thumb_001_HD.jpg",سرخط خبرهای جمعه ۲۹ آبان 
+https://daq1pvcuhj77l.cloudfront.net/1/b7f260466cb24b12a7f6b843d8aedd1e/hls/8e967fd8-9664-4398-b181-de1865006ddc.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/8838b0c3519f429bbe3cbda09df0594f/1ecd2975-e1fa-4813-9bd8-662be7caeb86_thumb_001_HD.jpg",فریدون: نگاهی به کارنامه وحید خراسانی
+https://daq1pvcuhj77l.cloudfront.net/1/8838b0c3519f429bbe3cbda09df0594f/hls/1ecd2975-e1fa-4813-9bd8-662be7caeb86.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/7a825a58043b459394fcc95f0b5e165e/32f1398f-6da8-4548-aae3-9fa7ad4d2a83_thumb_001_HD.jpg",فرزین ندیمی: آمریکا از آمادگی نظامی لازم برای آغاز جنگ علیه جمهوری اسلامی برخوردار است
+https://daq1pvcuhj77l.cloudfront.net/1/7a825a58043b459394fcc95f0b5e165e/hls/32f1398f-6da8-4548-aae3-9fa7ad4d2a83.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/12155c93ee4042d790bfdafe714048d6/02b6a7af-d6b0-4f87-a08a-e9b0e66636f9_thumb_001_HD.jpg",مراد ویسی: با وجود تهدیدهای جمهوری اسلامی، به کار خبری خود ادامه می‌دهیم
+https://daq1pvcuhj77l.cloudfront.net/1/12155c93ee4042d790bfdafe714048d6/hls/02b6a7af-d6b0-4f87-a08a-e9b0e66636f9.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/88bbd096c21e463fbab32ef9ff6199d7/0cd7102d-bbb1-4286-b855-6693662bdb32_thumb_001_HD.jpg",صف‌های طولانی و جشن‌های شبانه هم‌زمان با عرضه «جی‌تی‌ای ۶»
+https://daq1pvcuhj77l.cloudfront.net/1/88bbd096c21e463fbab32ef9ff6199d7/hls/0cd7102d-bbb1-4286-b855-6693662bdb32.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/f2da9ead3b4a437c8e4257e1b1337537/cc6ff13c-3784-42c9-9ba7-94a52d23054d_thumb_001_HD.jpg", دومینو: بازگشت مردم آبدانان به خیابان
+https://daq1pvcuhj77l.cloudfront.net/1/f2da9ead3b4a437c8e4257e1b1337537/hls/cc6ff13c-3784-42c9-9ba7-94a52d23054d.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/0084164a01ec4c159b2b735b58b0c602/49b921c3-047a-4f95-89a5-c0ad52f57208_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
+https://daq1pvcuhj77l.cloudfront.net/1/0084164a01ec4c159b2b735b58b0c602/hls/49b921c3-047a-4f95-89a5-c0ad52f57208.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5b603bafd9334c88bbd542fa26edb49f/959a542d-2214-42bd-91b2-c2f00cd2efc2_thumb_001_HD.jpg",آبدانان دوباره در خیابان
+https://daq1pvcuhj77l.cloudfront.net/1/5b603bafd9334c88bbd542fa26edb49f/hls/959a542d-2214-42bd-91b2-c2f00cd2efc2.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/092704b8b5e44363a129b14a02b47115/5bb8043e-5e29-44cc-8180-6f8ca9697c8f_thumb_001_HD.jpg",اداره اطلاعات نکا پدر و خواهر فرزاد خوش‌برش را پیش از سالگرد احضار کرد
+https://daq1pvcuhj77l.cloudfront.net/1/092704b8b5e44363a129b14a02b47115/hls/5bb8043e-5e29-44cc-8180-6f8ca9697c8f.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/9f394d6be30d418bbe6121b680968ccd/b393110a-27b3-4aab-a999-3840b616fe8d_thumb_001_HD.jpg",شرط پوتین برای احیای روابط با اروپا و برنامه تجاری کانادا در صورت عدم توافق با آمریکا
+https://daq1pvcuhj77l.cloudfront.net/1/9f394d6be30d418bbe6121b680968ccd/hls/b393110a-27b3-4aab-a999-3840b616fe8d.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/1b9d6e0908804d3595d7f4d49100ba8a/6a40e3f8-dd46-4c4e-8e40-1169eeefc2f9_thumb_001_HD.jpg",علیرضا بیرانوند، نخستین دروازه‌بان برنده جایزه مرد سال فوتبال آسیا
+https://daq1pvcuhj77l.cloudfront.net/1/1b9d6e0908804d3595d7f4d49100ba8a/hls/6a40e3f8-dd46-4c4e-8e40-1169eeefc2f9.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/6d427abf598e45b98ad8a3b131086c6a/4c551592-2d77-469b-96d0-703584ed82be_thumb_001_HD.jpg",درخواست توقیف ۱.۵ میلیارد دلار در پرونده لوینسون، مامور سابق اف‌بی‌آی، علیه جمهوری اسلامی
+https://daq1pvcuhj77l.cloudfront.net/1/6d427abf598e45b98ad8a3b131086c6a/hls/4c551592-2d77-469b-96d0-703584ed82be.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/edf9d9e0c687419cbfd96e8e9b791391/b820594c-7af1-4008-9d1e-e3583bf732ef_thumb_001_HD.jpg",آمریکا، روسیه و چین «اعلامیه صلح» امضا کردند
+https://daq1pvcuhj77l.cloudfront.net/1/edf9d9e0c687419cbfd96e8e9b791391/hls/b820594c-7af1-4008-9d1e-e3583bf732ef.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/05304eceffe4468aad995a277b5e7b57/a50818e4-6b0e-43fa-b296-1e594055b0b4_thumb_001_HD.jpg",واکنش شهروندان به سخنان پزشکیان درباره خوابیدن با کاپشن برای صرفه‌جویی در انرژی
 https://daq1pvcuhj77l.cloudfront.net/1/05304eceffe4468aad995a277b5e7b57/hls/a50818e4-6b0e-43fa-b296-1e594055b0b4.m3u8
