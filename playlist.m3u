@@ -12285,15 +12285,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12680,6 +12671,42 @@ https://daq1pvcuhj77l.cloudfront.net/1/549baaa101994ea28517f1528280f6ff/hls/75ef
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/bac1597650a44b338308e0b3a66f0721/f00bd3a6-4841-4702-a4db-1a76fe704d2e_thumb_001_HD.jpg",علی صدرزاده: عربستان در مقابله با حوثی‌ها به بن‌بست نظامی رسیده است
 https://daq1pvcuhj77l.cloudfront.net/1/bac1597650a44b338308e0b3a66f0721/hls/f00bd3a6-4841-4702-a4db-1a76fe704d2e.m3u8
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/35isv9wq8btd7oq8/kuqv415qglvce83w.jpg",FULL VIDEO: Harris County officials provide latest information following deputy-involved shooting
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49885577490_49885577687/49885577687/hf-uuid-77dd3cd0-ccf1-4970-a3f5-52b18b55d40e/49885577687_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/3ngf4lhnp4obviys/wqlxyuf6inaa7fnk.jpg",Houston weather: Cool day on the way for Black Friday
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49885051593_49885051796/49885051796/hf-uuid-e599fab8-629d-447f-9726-8c223e7de55b/49885051796_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/m0e2f6rht7mkb380/6i9y6wh7cyswc0ma.jpg",Fifth Ward restaurant hosts free Thanksgiving meal
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49885012332_49885012518/49885012518/hf-uuid-94247e9f-058a-40ca-8ec9-57f87ea9810b/49885012518_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/r5vyf3k7rd1cf7pq/oa1kzj580vn1nmj5.jpg",BBB warns of holiday online shopping 
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49884912755_49884913057/49884913057/hf-uuid-39c57696-0ad4-43af-97d7-943f48d31f21/49884913057_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/pa5y6b1m5ylp3nyy/qc3aagemhdono0n5.jpg",Houston weather: Cool holiday weather to continue for Black Friday
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49881832812_49881832917/49881832917/hf-uuid-e9b6b1ad-915e-4aab-ba62-b10ac8467a57/49881832917_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/5ui2nvz5s73la7bn/wlyxmww94vy6tk3v.jpg",Local community groups provide Thanksgiving dinner
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49881769041_49881769286/49881769286/hf-uuid-36433d52-d6b8-477f-a43f-d2693f8d1581/49881769286_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/xuyqz7zimzesrp24/sx881fane0b6xa4a.jpg",Houston H-E-B Thanksgiving Parade 2026 | FULL REPLAY
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49875799771_49875799960/49875799960/hf-uuid-898d1911-db60-4265-ae09-3047ba74e100/49875799960_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/f3zcohtqg1a1acnc/shcg209vji33qv4f.jpg",Thanksgiving 2026: Houston volunteers prep for Super Feast
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49874191477_49874191564/49874191564/hf-uuid-46b58e51-91a0-45f9-973a-2e8b41169801/49874191564_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/xikihemyj2vqvbcv/g7b3wdrj2j5n8twz.jpg",Your Legal Questions: November 26, 2026
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49873672984_49873673099/49873673099/hf-uuid-2faa98af-9111-4345-bc4c-03e9e44d04a5/49873673099_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/p7tsymqzgo0undl3/q8ekuhhnq1j2zs2v.jpg",Houston Thanksgiving parade: 'Little Mermaid' cast to perform
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49873557385_49873557494/49873557494/hf-uuid-d84000aa-b8f4-4613-a2d8-e8df57777566/49873557494_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/s9zuv8f521rndzxo/11zjh13findphu4y.jpg",Houston weather: Thanksgiving staying cool and dry
+https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49873162394_49873162713/49873162713/hf-uuid-e4dd8aa8-e57b-4911-9d4a-dc64cb139e41/49873162713_lowres.mp4
+
+#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/br1ssnzbofn91t32/yk1y2f9im8r6iquk.jpg",The Backstage Experience with Chris Pratt, Arnold Schwarzenegger, Focker-In-Law &amp; more!
+https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49861095726_49861095939/49861095939/hf-uuid-762bbf02-1400-4589-948b-d30b693974a6/49861095939_lowres.mp4
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/citlyhzmtnand9bi/koqc7y707vtr4ggz.jpg",Kicking Off the Holidays Early: Kiland AKA Mr. Houston Performs "You 4 Christmas" Live!
 https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49866302755_49866302926/49866302926/hf-uuid-f546dae1-1f36-45dc-b059-b14b191a23a9/49866302926_lowres.mp4
@@ -13544,42 +13571,6 @@ https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_4951808
 
 #EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/3qu1j4mekqb7asbn/d94xo8s1vjrs0jnf.jpg",Democrats win US House, Senate control | What's Your Point?
 https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49517874604_49517874685/49517874685/hf-uuid-2405c0a1-6d6d-4cf0-a898-965644789319/49517874685_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/pvjairwo2rcdaq9c/3gawzxouuk5gustz.jpg",Texas Rep. Senfronia Thompson running for House Speaker | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49517243640_49517243749/49517243749/hf-uuid-ec266e65-d1ce-442e-b31b-aff0681a42ba/49517243749_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/4o81qh2y7grvrob6/ihv48xjsh1uzsb44.jpg",Could Talarico and Trump work together? | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49516975916_49516976008/49516976008/hf-uuid-7106ebd2-b501-4fce-b6f1-6f9d69100d18/49516976008_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/lldxss5i7cdnsb83/13wx8e4s80xviwhp.jpg",Hinojosa wins election for Texas governor | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49516787211_49516787303/49516787303/hf-uuid-56777544-de99-4e4d-8211-58280c65b611/49516787303_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/0d9dzgj7z92zov6g/0vkbkihme99tm7yh.jpg",Texas Democrats make big splash in midterm election | What's Your Point?
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49516139802_49516139917/49516139917/hf-uuid-5e8be46d-1b49-4916-9349-9a7e2b72095e/49516139917_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/p5kixbfop0g3seeg/qpudnkk3pi2iaut5.jpg",Law enforcement measures for Lone Star Rally
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49515907429_49515907555/49515907555/hf-uuid-e736d052-941d-4e43-aa15-fc0c95bfd4d0/49515907555_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/is4zzwxyt0i3jpyf/covmjjc53wmg8b1w.jpg",Houston event bring awareness amid recent domestic violence incidents
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49515249472_49515249605/49515249605/hf-uuid-18fef56b-51d1-4f2b-8705-d378743420f3/49515249605_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/yqarjme3wun1lg42/uv95v9me8ekyz6n6.jpg",Houston Injury Report: November 8, 2026
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49515051709_49515051851/49515051851/hf-uuid-a0f60b6c-d954-4bc4-a7ba-02b5a9c40bf0/49515051851_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/sl1fpxumglp6tro6/ps9buiwunednhxor.jpg",Texas blue wave, new Houston ICE order, race for Texas House Speaker, and more | What's Your Point?
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49512242005_49514492007/49514492007/hf-uuid-2f7e5d71-b79e-47b8-b3fa-b8db53ba8f94/49514492007_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/xgkuv4oy7j681p0d/h3q9ey15bsu0p67r.jpg",What's Your Point? Overtime | Nov. 8, 2026
-https://static-clips.fox.com/proxy/fts_program/svc_hf_fts_program_prod/WM_KRIV_49514519172_49514519248/49514519248/hf-uuid-5d7f20bd-54e2-4e49-a0fe-77327e795ef2/49514519248_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/f0wxurainiumec53/dzxodba0pvtfmdhv.jpg",Houston weather: Nov. 8 morning forecast
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49512113033_49512113146/49512113146/hf-uuid-fbbb0bdb-0258-4653-bc10-8b9c25a0b9b6/49512113146_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/cov1bphx0028dy0s/tpbhbb16wp68vs2h.jpg",Houston weather: Nov. 7 overnight forecast 
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49504018235_49504018317/49504018317/hf-uuid-98c12d6c-b154-42f0-b7d3-97803f45adf9/49504018317_lowres.mp4
-
-#EXTINF:-1 group-title="📺 Fox 26 Houston VOD" tvg-logo="https://static-media.fox.com/fmcv3/prod/fts/b22r0rgbphxu0e1w/fm5vb2z81w7og7mh.jpg",Cajun Navy expands search for missing Katy mother Christin Munn-Holliday
-https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_KRIV_49503831909_49503831993/49503831993/hf-uuid-ad147a48-5417-4912-907e-097ea006a1c7/49503831993_lowres.mp4
 
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://cdn.jsdelivr.net/gh/Samhouston010/israel-tv@main/logos/keshet12.png" group-title="📡 اسرائیل",Keshet 12
 #EXTVLCOPT:network-caching=2000
@@ -14525,6 +14516,24 @@ https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/pla
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/Jh5ADee.png" tvg-id="RasoulallahTv.ir@HD",RasoulallahTv (1080p)
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/BT7EtfB.png" tvg-id="WiseHumanTv.ir@HD",WiseHumanTv (1080p)
+#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 
 #EXTINF:-1 group-title="ایران" tvg-logo="https://i.imgur.com/aeS4Sjv.png" tvg-id="ICnet1.ca@SD",icnet 1
 #EXTVLCOPT:network-caching=2000
