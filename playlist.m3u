@@ -12285,15 +12285,6 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="📰 خبر" tvg-logo="https://i.imgur.com/GtQOKeW.png",Al Mayadeen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="📰 خبر" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png",BBC World News
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:http-reconnect=true
@@ -12554,6 +12545,12 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/c38833cf151e470eb66eda94f3cb0f6a/4f58a890-94f9-483b-8007-2787d8f4506c_thumb_001_HD.jpg",گفتگوی مزدک میرزایی و محمد تقوی درباره بازی پرسپولیس و آلومینیوم
+https://daq1pvcuhj77l.cloudfront.net/1/c38833cf151e470eb66eda94f3cb0f6a/hls/4f58a890-94f9-483b-8007-2787d8f4506c.m3u8
+
+#EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/e4adb677beb14379a6fc9345c655e265/436366d1-90a7-47bc-bf07-87dbcf3a0299_thumb_001_HD.jpg",خلاصه بازی آلومینیوم اراک و پرسپولیس با گزارش مزدک میرزایی
+https://daq1pvcuhj77l.cloudfront.net/1/e4adb677beb14379a6fc9345c655e265/hls/436366d1-90a7-47bc-bf07-87dbcf3a0299.m3u8
 
 #EXTINF:-1 group-title="📹 ایران اینترنشنال VOD" tvg-logo="https://daq1pvcuhj77l.cloudfront.net/1/5463bb439d4d4ef0b1f6b307161e7623/8baae4a3-a2d8-4def-bca0-6d8664d1451c_thumb_001_HD.jpg",۲۴ با فرداد فرحزاد
 https://daq1pvcuhj77l.cloudfront.net/1/5463bb439d4d4ef0b1f6b307161e7623/hls/8baae4a3-a2d8-4def-bca0-6d8664d1451c.m3u8
